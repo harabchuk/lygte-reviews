@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "name": "Vapcell S4+ fast charger",
+            "img": "https://lygte-info.dk/pic/Vapcell/S4%20plus/DSC_1056.jpg",
+            "slug": "vapcell_s4_fast_charger",
+            "properties": {
+                "slots": "4 (2)",
+                "battery_len": "33-76",
+                "battery_diameter": "26-10",
+                "max_current_all_slots": "3",
+                "max_current_single_slot": "3",
+                "min_current_singe_slot": "0.25",
+                "chemistry": ["NiMH", "LiIon 4.2V"],
+                "power": ["12V", "Mains"],
+                "extra": ["V", "mAh", "Analyzer", "Power Bank", "IR"],
+                "rating": "good",
+                "year": "2019"
+            }
+        },
+        {
+            "name": "USB LiIon Charger BH-042100-02U",
+            "img": "https://lygte-info.dk/pic/Other/Charger%20USB%20LiIon%20Charger%20BH-042100-02U/DSC_9008.jpg",
+            "slug": "usb_lion_charger_bh_042100_02u",
+            "properties": {
+                "slots": "2",
+                "battery_len": "31-69",
+                "battery_diameter": "26-10",
+                "max_current_all_slots": "0.6",
+                "max_current_single_slot": "0.6",
+                "min_current_singe_slot": "0.6",
+                "chemistry": ["LiIon 4.2V"],
+                "power": ["USB"],
+                "extra": [],
+                "rating": "usable",
+                "year": "2019"
+            }
+        },
+        {
+            "name": "Fenix ARE-D1",
+            "img": "https://lygte-info.dk/pic/Fenix/ARE-D1/DSC_0879.jpg",
+            "slug": "fenix_are_d1",
+            "properties": {
+                "slots": "1",
+                "battery_len": "30-77",
+                "battery_diameter": "26-10",
+                "max_current_all_slots": "1.2",
+                "max_current_single_slot": "1.2",
+                "min_current_singe_slot": "0.5",
+                "chemistry": ["NiMH", "LiIon 4.2V", "LiFePO4"],
+                "power": ["USB"],
+                "extra": ["V", "mAh", "Power Bank"],
+                "rating": "good",
+                "year": "2019"
+            }
+        }        
+    ]
+}
