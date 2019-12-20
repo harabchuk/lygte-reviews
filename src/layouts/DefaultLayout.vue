@@ -66,7 +66,7 @@
 
 <script>
 export default {
-  name: 'MyLayout',
+  name: 'DefaultLayout',
 
   data () {
     return {
