@@ -32,7 +32,6 @@ const actions = {
     },
     async fetchReview({ commit }, slug) {
         const result = await fetch(`/statics/chargers/items/${slug}.json`);
-        console.log('result', result)
         const data = await result.json();
         return data;
     },
