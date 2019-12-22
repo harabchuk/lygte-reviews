@@ -1,6 +1,6 @@
 <template>
     <q-page>
-        <div v-if="review" v-html="review.html" />
+        <div class="reviewBody" v-if="review" v-html="review.html" />
     </q-page>
 </template>
 
@@ -25,3 +25,14 @@ export default {
     },     
 }
 </script>
+
+<style>
+.reviewBody {
+    padding: 0.5em;
+    max-width: 60em;
+}
+.reviewBody > img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
