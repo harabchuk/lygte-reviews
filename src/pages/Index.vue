@@ -1,6 +1,14 @@
 <template>
   <q-page class="">
-    <ChargersList :items="items" />
+    <div
+      v-if="!items" 
+      class="text-center">
+      <q-spinner
+        color="primary"
+        size="3em"
+      />
+    </div>
+    <ChargersList v-if="items" :items="items" />
   </q-page>
 </template>
 
@@ -15,7 +23,7 @@ export default {
   },
   data() {
     return {
-      items: [],
+      items: null,
     };
   },
   async mounted() {

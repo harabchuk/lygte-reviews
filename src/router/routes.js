@@ -13,6 +13,11 @@ const routes = [
         name: 'review',
         path: 'review/:slug', 
         component: () => import('pages/Review.vue') 
+      },
+      { 
+        name: 'notready',
+        path: 'notready/:id', 
+        component: () => import('pages/NotReady.vue') 
       }
     ]
   }

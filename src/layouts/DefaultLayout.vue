@@ -37,13 +37,61 @@
           </q-item-section>
         </q-item>
 
-        <q-item clickable to="/d">
+        <q-item clickable to="/notready/1">
           <q-item-section avatar>
             <q-icon name="fas fa-battery-three-quarters" />
           </q-item-section>
           <q-item-section>
             <q-item-label>Batteries</q-item-label>
             <q-item-label caption>Rechargarble batteries reviews</q-item-label>
+          </q-item-section>
+        </q-item>
+
+        <q-item clickable to="/notready/2">
+          <q-item-section avatar>
+            <q-icon name="fas fa-calculator" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Multimeters</q-item-label>
+            <q-item-label caption>DMM reviews</q-item-label>
+          </q-item-section>
+        </q-item>
+
+        <q-item clickable to="/notready/3">
+          <q-item-section avatar>
+            <q-icon name="fas fa-lightbulb" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Flashlights</q-item-label>
+            <q-item-label caption>Flashlight reviews</q-item-label>
+          </q-item-section>
+        </q-item>
+
+        <q-item clickable to="/notready/4">
+          <q-item-section avatar>
+            <q-icon name="fas fa-bolt" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>LED drivers</q-item-label>
+            <q-item-label caption>LED drivers tests</q-item-label>
+          </q-item-section>
+        </q-item>
+
+        <q-item clickable to="/notready/5">
+          <q-item-section avatar>
+            <q-icon name="fas fa-newspaper" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Articles</q-item-label>
+          </q-item-section>
+        </q-item>
+
+        <q-item clickable to="/notready/6">
+          <q-item-section avatar>
+            <q-icon name="fas fa-tools" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Projects</q-item-label>
           </q-item-section>
         </q-item>
 

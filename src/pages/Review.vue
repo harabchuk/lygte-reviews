@@ -1,6 +1,18 @@
 <template>
     <q-page>
-        <div class="reviewBody" v-if="review" v-html="review.html" />
+        <div
+            v-if="!review" 
+            class="text-center">
+            <q-spinner
+                color="primary"
+                size="3em"
+            />
+        </div>
+        <div 
+            v-if="review" 
+            class="reviewBody" 
+            v-html="review.html" 
+        />
     </q-page>
 </template>
 
