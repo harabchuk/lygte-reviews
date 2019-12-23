@@ -8,18 +8,26 @@
         size="3em"
       />
     </div>
-    <ChargersList v-if="items" :items="items" />
+    <div v-if="items">
+      <ChargerFilters 
+        v-if="filterValues"
+        :filterValues="filterValues" 
+      />
+      <ChargersList :items="items" />
+    </div>
   </q-page>
 </template>
 
 <script>
 import { mapActions, mapState } from 'vuex';
 import ChargersList from '../components/ChargersList';
+import ChargerFilters from '../components/ChargerFilters';
 
 export default {
   name: 'PageIndex',
   components: {
     ChargersList,
+    ChargerFilters,
   },
   data() {
     return {
@@ -30,6 +38,11 @@ export default {
     console.log('index mounted');
     const index = await this.fetchIndex();
     this.items = index;
+  },
+  computed: {
+    ...mapState('chargersModule', [
+      'filterValues',
+    ]),
   },
   methods: {
     ...mapActions('chargersModule', [

@@ -1,8 +1,7 @@
 const state = {
-    filters: {
-        size: null,
-    },
+    filterValues: null,
     index: [],
+    currentFilters: {},
     currentList: [],
 };
 
@@ -17,6 +16,15 @@ const mutations = {
     setList(state, data) {
         state.currentList = data;
     },
+    setFilterValues(state, values) {
+        state.filterValues = values;
+    },
+    setCurrentFilters(state, values) {
+        state.currentFilters = values;
+    },
+    setCurrentList(state, items) {
+        state.currentList = items;
+    }
 };
 
 const actions = {
@@ -24,7 +32,9 @@ const actions = {
         const result = await fetch('/statics/chargers/index.json');
         const data = await result.json();
         const items = data.items || [];
+        const filterValues = data.filters || {};
         commit('setIndex', items);
+        commit('setFilterValues', filterValues);
         return items;
     },
     fetchList({ commit }) {
@@ -35,6 +45,14 @@ const actions = {
         const data = await result.json();
         return data;
     },
+    async applyCurrentFilters({ commit, state }, filterValues) {
+        commit('setCurrentFilters', filterValues);
+        // apply filters and assign currentList
+        const currentList = [];
+        commit('setCurrentList', currentList);
+        console.log('apply filters', filterValues);
+        return currentList;
+    }
 };
 
 export default {
