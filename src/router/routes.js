@@ -7,20 +7,31 @@ const routes = [
       { 
         name: 'chargers',
         path: '',
-        component: () => import('pages/Index.vue') 
+        component: () => import('pages/Index.vue'),
+        meta: {
+          title: 'Chargers',
+        },
       },
       { 
         name: 'review',
         path: 'review/:slug', 
-        component: () => import('pages/Review.vue') 
+        component: () => import('pages/Review.vue'),
+        meta: {
+          title: 'Review',
+          backButton: true,
+        },
       },
       { 
         name: 'notready',
         path: 'notready/:id', 
-        component: () => import('pages/NotReady.vue') 
-      }
-    ]
-  }
+        component: () => import('pages/NotReady.vue'),
+        meta: {
+          title: 'Not ready yet',
+          backButton: true,
+        },
+      },
+    ],
+  },
 ]
 
 // Always leave this as last one

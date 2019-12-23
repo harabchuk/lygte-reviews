@@ -3,6 +3,7 @@
     <q-header elevated>
       <q-toolbar>
         <q-btn
+          v-if="!$route.meta.backButton"
           flat
           dense
           round
@@ -10,9 +11,17 @@
           icon="fas fa-bars"
           aria-label="Menu"
         />
-
+        <q-btn
+          v-if="$route.meta.backButton"
+          flat
+          dense
+          round
+          @click="$router.go(-1)"
+          icon="fas fa-arrow-left"
+          aria-label="Back"
+        />
         <q-toolbar-title>
-          Reviews from lygte-info.dk
+          {{ $route.meta.title }}
         </q-toolbar-title>
 
       </q-toolbar>
