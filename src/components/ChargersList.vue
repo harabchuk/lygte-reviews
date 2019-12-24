@@ -24,18 +24,32 @@
           <span v-for="extra in item.extra">{{ extra }} </span>
         </q-item-label>
       </q-item-section>
+
+      <q-item-section>
+        <RatingIndicator :rating="item.rating" :label="getRatingsValuesMap[item.rating]" />
+      </q-item-section>
     </q-item>
   </q-list>
 </template>
 
 <script>
+import { mapGetters } from 'vuex';
+import RatingIndicator from './RatingIndicator';
+
 export default {
     name: 'ChargersList',
+    components: {
+      RatingIndicator,
+    },
     props: {
       items: {
         type: Array,
       }
-    }
-
+    },
+    computed: {
+      ...mapGetters('chargersModule', [
+        'getRatingsValuesMap',
+      ]),
+    },
 }
 </script>

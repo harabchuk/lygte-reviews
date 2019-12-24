@@ -80,6 +80,9 @@ const getters = {
     getRatingOptions(state) {
         return state.filterValues.rating.map(r => ratingValueMap[r]);
     },
+    getRatingsValuesMap(state) {
+        return ratingValueMap;
+    },
 };
 
 const mutations = {
