@@ -25,7 +25,7 @@
         </q-item-label>
       </q-item-section>
 
-      <q-item-section>
+      <q-item-section side top>
         <RatingIndicator :rating="item.rating" :label="getRatingsValuesMap[item.rating]" />
       </q-item-section>
     </q-item>
