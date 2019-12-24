@@ -1,20 +1,63 @@
 const state = {
-    filterValues: null,
+    filterValues: {},
     index: [],
-    currentFilters: {},
+    currentFilters: {
+        slots: [],
+        chemistry: [],
+        power: [],
+        extra: [],
+        year: [],
+        rating: [],
+    },
     currentList: [],
 };
 
-const getters = {
+function anyValueExist(values, needls) {
+    return values.some(r => needls.indexOf(r) > -1);
+}
 
+function itemNotInFilter(item, filterValues, key) {
+    return filterValues.hasOwnProperty(key) && filterValues[key].length && !anyValueExist(item[key], filterValues[key]); 
+}
+
+function itemNotInFilterSingle(item, filterValues, key) {
+    return filterValues.hasOwnProperty(key) && filterValues[key].length && filterValues[key].indexOf(item[key])=== -1; 
+}
+
+function itemsFilterFactory(filterValues) {
+    console.log('factory', filterValues);
+    return function applyFilters (item) {
+        if (itemNotInFilterSingle(item, filterValues, 'slots')) {
+            return false;
+        }
+        if (itemNotInFilter(item, filterValues, 'chemistry')) {
+            return false;
+        }
+        if (itemNotInFilter(item, filterValues, 'power')) {
+            return false;
+        }
+        if (itemNotInFilter(item, filterValues, 'extra')) {
+            return false;
+        }
+        if (itemNotInFilterSingle(item, filterValues, 'rating')) {
+            return false;
+        }
+        if (itemNotInFilterSingle(item, filterValues, 'year')) {
+            return false;
+        }
+        return true;
+    };
+}
+
+const getters = {
+    getCurrentFiltersCopy(state) {
+        return JSON.parse(JSON.stringify(state.currentFilters));
+    },
 };
 
 const mutations = {
     setIndex(state, data) {
         state.index = data;
-    },
-    setList(state, data) {
-        state.currentList = data;
     },
     setFilterValues(state, values) {
         state.filterValues = values;
@@ -24,7 +67,7 @@ const mutations = {
     },
     setCurrentList(state, items) {
         state.currentList = items;
-    }
+    },
 };
 
 const actions = {
@@ -34,11 +77,9 @@ const actions = {
         const items = data.items || [];
         const filterValues = data.filters || {};
         commit('setIndex', items);
+        commit('setCurrentList', items);
         commit('setFilterValues', filterValues);
         return items;
-    },
-    fetchList({ commit }) {
-        commit('setList', [2,3]);
     },
     async fetchReview({ commit }, slug) {
         const result = await fetch(`/statics/chargers/items/${slug}.json`);
@@ -47,12 +88,9 @@ const actions = {
     },
     async applyCurrentFilters({ commit, state }, filterValues) {
         commit('setCurrentFilters', filterValues);
-        // apply filters and assign currentList
-        const currentList = [];
-        commit('setCurrentList', currentList);
-        console.log('apply filters', filterValues);
-        return currentList;
-    }
+        const filtered = state.index.filter(itemsFilterFactory(filterValues)); 
+        commit('setCurrentList', filtered);
+    },
 };
 
 export default {

@@ -904,33 +904,6 @@
       "year": 2019
     },
     {
-      "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X11%20UK.html",
-      "preview": "https://lygte-info.dk/pic/Fenix/ARE-X11/DSC_0592.jpg",
-      "title": "Fenix ARE-X11 Charger & power bank",
-      "slug": "fenix-are-x11-charger-power-bank",
-      "slots": 1,
-      "slots_max_size": 1,
-      "battery_len_min": 62,
-      "battery_len_max": 70,
-      "battery_d_min": 18,
-      "battery_d_max": 18,
-      "current_all": 1.0,
-      "current_single_max": 1.0,
-      "current_single_min": 1.0,
-      "chemistry": [
-        "LiIon 4.2V"
-      ],
-      "power": [
-        "USB"
-      ],
-      "extra": [
-        "Power Bank",
-        "USB charger"
-      ],
-      "rating": 6,
-      "year": 2019
-    },
-    {
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20Pro%20Q4%20Intelligent%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/Pro%20Q4%20Intelligent%20Charger/DSC_5126.jpg",
       "title": "Eizfan Pro Q4 Intelligent Charger",
@@ -3423,33 +3396,6 @@
         "Mains adapter included"
       ],
       "extra": [],
-      "rating": 3,
-      "year": 2017
-    },
-    {
-      "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X1%2B%20UK.html",
-      "preview": "https://lygte-info.dk/pic/Fenix/ARE-X1%2B/DSC_9450.jpg",
-      "title": "Fenix ARE-X1+",
-      "slug": "fenix-are-x1",
-      "slots": 1,
-      "slots_max_size": 1,
-      "battery_len_min": 33,
-      "battery_len_max": 69,
-      "battery_d_min": 10,
-      "battery_d_max": 26,
-      "current_all": 1.0,
-      "current_single_max": 1.0,
-      "current_single_min": 1.0,
-      "chemistry": [
-        "NiMH",
-        "LiIon 4.2V"
-      ],
-      "power": [
-        "USB"
-      ],
-      "extra": [
-        "V"
-      ],
       "rating": 3,
       "year": 2017
     },

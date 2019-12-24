@@ -13,7 +13,7 @@
         v-if="filterValues"
         :filterValues="filterValues" 
       />
-      <ChargersList :items="items" />
+      <ChargersList :items="currentList" />
     </div>
   </q-page>
 </template>
@@ -42,6 +42,7 @@ export default {
   computed: {
     ...mapState('chargersModule', [
       'filterValues',
+      'currentList',
     ]),
   },
   methods: {
