@@ -3,7 +3,6 @@
         v-if="filterValues && currentFiltersLocal"
         class="q-ma-sm"
     >
-        <div>Filters</div>
         <div class="q-gutter-md row q-mb-md">
             <div class="col">
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.slots" :options="filterValues.slots" label="Slots" />
@@ -23,7 +22,7 @@
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.year" :options="filterValues.year" label="Year" />
             </div>
             <div class="col">
-                <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.rating" :options="filterValues.rating" label="Rating" />
+                <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.rating" :options="getRatingOptions" label="Rating" />
             </div>
         </div>
         <q-btn color="primary" label="Apply" @click="applyCurrentFilters(currentFiltersLocal)" />     
@@ -42,12 +41,10 @@ export default {
     },
     mounted() {
         this.currentFiltersLocal = this.getCurrentFiltersCopy; 
-        console.log('mounted', this.currentFiltersLocal);
     },
     watch: {
       currentFilters(v) {
           this.currentFiltersLocal = this.getCurrentFiltersCopy;
-          console.log('watched', this.currentFiltersLocal);
       },
     },
     computed: {
@@ -57,6 +54,7 @@ export default {
         ]),
         ...mapGetters('chargersModule', [
             'getCurrentFiltersCopy',
+            'getRatingOptions'
         ]),
     },
     methods: {

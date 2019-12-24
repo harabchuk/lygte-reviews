@@ -1,5 +1,5 @@
 <template>
-  <q-page class="">
+  <q-page>
     <div
       v-if="!items" 
       class="text-center">
@@ -13,6 +13,7 @@
         v-if="filterValues"
         :filterValues="filterValues" 
       />
+      <q-separator class="q-mb-xs" />
       <ChargersList :items="currentList" />
     </div>
   </q-page>

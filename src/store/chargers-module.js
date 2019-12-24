@@ -12,6 +12,25 @@ const state = {
     currentList: [],
 };
 
+const ratingValueMap = {
+    0: 'None',
+    1: 'Bad',
+    2: 'Useable',
+    3: 'Acceptable',
+    4: 'Some Good',
+    5: 'Fairly Good',
+    6: 'Good',
+    7: 'Very Good',
+};
+
+function ratingsToInt(ratings) {
+    const backMap = {};
+    Object.entries(ratingValueMap).forEach(entry => {
+        backMap[entry[1]] = entry[0];
+    });
+    return ratings.map(r => parseInt(backMap[r]));
+}
+
 function anyValueExist(values, needls) {
     return values.some(r => needls.indexOf(r) > -1);
 }
@@ -24,8 +43,13 @@ function itemNotInFilterSingle(item, filterValues, key) {
     return filterValues.hasOwnProperty(key) && filterValues[key].length && filterValues[key].indexOf(item[key])=== -1; 
 }
 
+function itemNotInFilterRating(item, filterValues) {
+    const key = 'rating';
+    const ratingsFilterValues = ratingsToInt(filterValues[key]);
+    return filterValues.hasOwnProperty(key) && filterValues[key].length && ratingsFilterValues.indexOf(item[key])=== -1; 
+}
+
 function itemsFilterFactory(filterValues) {
-    console.log('factory', filterValues);
     return function applyFilters (item) {
         if (itemNotInFilterSingle(item, filterValues, 'slots')) {
             return false;
@@ -39,7 +63,7 @@ function itemsFilterFactory(filterValues) {
         if (itemNotInFilter(item, filterValues, 'extra')) {
             return false;
         }
-        if (itemNotInFilterSingle(item, filterValues, 'rating')) {
+        if (itemNotInFilterRating(item, filterValues)) {
             return false;
         }
         if (itemNotInFilterSingle(item, filterValues, 'year')) {
@@ -52,6 +76,9 @@ function itemsFilterFactory(filterValues) {
 const getters = {
     getCurrentFiltersCopy(state) {
         return JSON.parse(JSON.stringify(state.currentFilters));
+    },
+    getRatingOptions(state) {
+        return state.filterValues.rating.map(r => ratingValueMap[r]);
     },
 };
 
