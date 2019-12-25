@@ -14,6 +14,7 @@
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.power" :options="filterValues.power" label="Power" />
             </div>
         </div>
+
         <div class="q-gutter-md row q-mb-md">
             <div class="col">
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.extra" :options="filterValues.extra" label="Extra" />
@@ -25,7 +26,10 @@
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.rating" :options="getRatingOptions" label="Rating" />
             </div>
         </div>
-        <q-btn color="primary" label="Apply" @click="applyCurrentFilters(currentFiltersLocal)" />     
+
+        <div class="row justify-end">
+            <q-btn color="primary" label="Apply" @click="applyCurrentFilters(currentFiltersLocal)" />
+        </div>
     </div>
 </template>
 
