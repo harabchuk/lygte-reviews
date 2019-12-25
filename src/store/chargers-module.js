@@ -1,6 +1,6 @@
 const state = {
     filterValues: {},
-    index: [],
+    index: null,
     currentFilters: {
         slots: [],
         chemistry: [],
@@ -10,6 +10,7 @@ const state = {
         rating: [],
     },
     currentList: [],
+    currentListPortioned: [],
     currentPortionStart: 0,
 };
 
@@ -23,6 +24,8 @@ const ratingValueMap = {
     6: 'Good',
     7: 'Very Good',
 };
+
+const pageSize = 20;
 
 function ratingsToInt(ratings) {
     const backMap = {};
@@ -79,11 +82,17 @@ const getters = {
         return JSON.parse(JSON.stringify(state.currentFilters));
     },
     getRatingOptions(state) {
+        if (!state.filterValues.rating) {
+            return [];
+        }
         return state.filterValues.rating.map(r => ratingValueMap[r]);
     },
     getRatingsValuesMap(state) {
         return ratingValueMap;
     },
+    hasMorePortionedItems(state) {
+        return state.currentListPortioned.length < state.currentList.length;
+    }
 };
 
 const mutations = {
@@ -98,11 +107,23 @@ const mutations = {
     },
     setCurrentList(state, items) {
         state.currentList = items;
+        state.currentListPortioned = items.slice(0, pageSize);
+    },
+    setCurrentPortionStart(state, startIndex) {
+        state.currentPortionStart = startIndex;
+        state.currentListPortioned.push(...state.currentList.slice(startIndex, startIndex + pageSize));
+    },
+    incrementCurrentPortionStart(state) {
+        state.currentPortionStart = state.currentPortionStart + pageSize;
+        state.currentListPortioned.push(...state.currentList.slice(state.currentPortionStart, state.currentPortionStart + pageSize));
     },
 };
 
 const actions = {
-    async fetchIndex({ commit }) {
+    async fetchIndex({ commit, state }) {
+        if (state.index) {
+            return;
+        }
         const result = await fetch('/statics/chargers/index.json');
         const data = await result.json();
         const items = data.items || [];
@@ -110,20 +131,15 @@ const actions = {
         commit('setIndex', items);
         commit('setCurrentList', items);
         commit('setFilterValues', filterValues);
-        return items;
     },
     async fetchReview({ commit }, slug) {
         const result = await fetch(`/statics/chargers/items/${slug}.json`);
-        const data = await result.json();
-        return data;
+        return await result.json();
     },
     async applyCurrentFilters({ commit, state }, filterValues) {
         commit('setCurrentFilters', filterValues);
         const filtered = state.index.filter(itemsFilterFactory(filterValues)); 
         commit('setCurrentList', filtered);
-    },
-    async getCurrentListPortion({ state }, {start, count}) {
-        return state.currentList.slice(start, start + count);
     },
 };
 

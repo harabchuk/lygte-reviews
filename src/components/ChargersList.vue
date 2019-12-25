@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <div v-if="currentList.length">
     <q-list>
       <q-item 
-        v-for="item in localItems" :key="item.slug" clickable 
+        v-for="item in currentListPortioned" :key="item.slug" clickable 
         :to="{
           name: 'review',
           params: {
@@ -34,12 +34,12 @@
 
     <div class="row justify-center">
       <q-btn 
-        v-if="hasMoreItems" 
+        v-if="hasMorePortionedItems" 
         outline
         text-color="primary"
         label="Load more..."
         class="q-mt-md q-mb-md"
-        @click="loadNextPortion()"
+        @click="incrementCurrentPortionStart()"
       />
     </div>
 
@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex';
+import { mapGetters, mapMutations, mapState } from 'vuex';
 import RatingIndicator from './RatingIndicator';
 
 export default {
@@ -55,44 +55,20 @@ export default {
     components: {
       RatingIndicator,
     },
-    data() {
-      return {
-        start: 0,
-        localItems: [],
-      };
-    },
-    props: {
-      items: {
-        type: Array,
-      },
-      pageSize: {
-        type: Number,
-        default: 20,
-      }
-    },
-    mounted() {
-      this.loadNextPortion();
-    },
-    watch: {
-      items() {
-        this.start = 0;
-        this.localItems = [];
-        this.loadNextPortion();
-      },
-    },
     computed: {
       ...mapGetters('chargersModule', [
         'getRatingsValuesMap',
+        'hasMorePortionedItems'
       ]),
-      hasMoreItems() {
-        return this.localItems.length < this.items.length; 
-      }
+      ...mapState('chargersModule', [
+        'currentList',
+        'currentListPortioned',
+      ]),
     },
     methods: {
-      loadNextPortion() {
-        this.localItems.push(...this.items.slice(this.start, this.start + this.pageSize));
-        this.start = this.start + this.pageSize;
-      },
+      ...mapMutations('chargersModule', [
+        'incrementCurrentPortionStart',
+      ]),
     },
 }
 </script>

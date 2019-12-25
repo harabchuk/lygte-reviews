@@ -2,17 +2,17 @@
   <q-page>
 
     <div
-      v-if="!items" 
+      v-if="!currentList.length" 
       class="text-center">
       <q-spinner-dots color="primary" size="40px" />
     </div>
 
-    <div v-if="items">
+    <div v-if="currentList.length">
       <ChargerFilters />
 
       <q-separator class="q-mb-xs" />
 
-      <ChargersList :items="currentList" />
+      <ChargersList />
     </div>
 
   </q-page>
@@ -29,14 +29,8 @@ export default {
     ChargersList,
     ChargerFilters,
   },
-  data() {
-    return {
-      items: null,
-    };
-  },
   async mounted() {
-    const index = await this.fetchIndex();
-    this.items = index;
+    await this.fetchIndex();
   },
   computed: {
     ...mapState('chargersModule', [

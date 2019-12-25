@@ -3,10 +3,7 @@
         <div
             v-if="!review" 
             class="text-center">
-            <q-spinner
-                color="primary"
-                size="3em"
-            />
+            <q-spinner-dots color="primary" size="40px" />
         </div>
         <div 
             v-if="review" 
@@ -23,12 +20,11 @@ export default {
     name: "Review",
     data() {
         return {
-            review:null,
+            review: null,
         };
     },
     async mounted() {
         this.review = await this.fetchReview(this.$route.params.slug);
-        console.log(this.review);
     },
     methods: {
         ...mapActions('chargersModule', [
