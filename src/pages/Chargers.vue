@@ -24,7 +24,7 @@ import ChargersList from '../components/ChargersList';
 import ChargerFilters from '../components/ChargerFilters';
 
 export default {
-  name: 'PageIndex',
+  name: 'Chargers',
   components: {
     ChargersList,
     ChargerFilters,

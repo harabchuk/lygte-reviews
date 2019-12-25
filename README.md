@@ -1,6 +1,10 @@
 # Lygte-Info Reviews
 
-A quasar application for filtering and sorting electronics reviews from lygte-info.dk
+A Quasar application for filtering and sorting electronics reviews from https://lygte-info.dk website.
+
+## Copyright notice
+
+All reviews in this application and repository are from https://lygte-info.dk and subject to copyright. 
 
 ## Install the dependencies
 ```bash

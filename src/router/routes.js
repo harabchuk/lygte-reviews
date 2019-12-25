@@ -7,7 +7,7 @@ const routes = [
       { 
         name: 'chargers',
         path: '',
-        component: () => import('pages/Index.vue'),
+        component: () => import('pages/Chargers.vue'),
         meta: {
           title: 'Chargers',
         },
