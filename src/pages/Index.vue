@@ -1,21 +1,20 @@
 <template>
   <q-page>
+
     <div
       v-if="!items" 
       class="text-center">
-      <q-spinner
-        color="primary"
-        size="3em"
-      />
+      <q-spinner-dots color="primary" size="40px" />
     </div>
+
     <div v-if="items">
-      <ChargerFilters 
-        v-if="filterValues"
-        :filterValues="filterValues" 
-      />
+      <ChargerFilters />
+
       <q-separator class="q-mb-xs" />
+
       <ChargersList :items="currentList" />
     </div>
+
   </q-page>
 </template>
 
@@ -36,20 +35,17 @@ export default {
     };
   },
   async mounted() {
-    console.log('index mounted');
     const index = await this.fetchIndex();
     this.items = index;
   },
   computed: {
     ...mapState('chargersModule', [
-      'filterValues',
       'currentList',
     ]),
   },
   methods: {
     ...mapActions('chargersModule', [
       'fetchIndex',
-      'fetchReview',
     ]),
   },
 }

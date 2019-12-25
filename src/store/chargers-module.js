@@ -10,6 +10,7 @@ const state = {
         rating: [],
     },
     currentList: [],
+    currentPortionStart: 0,
 };
 
 const ratingValueMap = {
@@ -120,6 +121,9 @@ const actions = {
         commit('setCurrentFilters', filterValues);
         const filtered = state.index.filter(itemsFilterFactory(filterValues)); 
         commit('setCurrentList', filtered);
+    },
+    async getCurrentListPortion({ state }, {start, count}) {
+        return state.currentList.slice(start, start + count);
     },
 };
 
