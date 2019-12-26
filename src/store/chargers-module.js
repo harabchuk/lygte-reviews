@@ -92,6 +92,9 @@ const getters = {
     },
     hasMorePortionedItems(state) {
         return state.currentListPortioned.length < state.currentList.length;
+    },
+    isIndexLoaded(state) {
+        return Boolean(state.index);
     }
 };
 
