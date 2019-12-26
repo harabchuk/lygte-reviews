@@ -104,14 +104,11 @@
           </q-item-section>
         </q-item>
 
-        <q-item clickable tag="a" target="_blank" href="https://lygte-info.dk/">
-          <q-item-section avatar>
-            <q-icon name="far fa-copyright" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>lygte-info.dk</q-item-label>
-          </q-item-section>
-        </q-item>
+
+        <div class="q-pa-md">
+          © All reviews are from <a href="https://lygte-info.dk/" target="_blank">https://lygte-info.dk/</a> and subject to copyright. 
+        </div>
+
       </q-list>
     </q-drawer>
 
