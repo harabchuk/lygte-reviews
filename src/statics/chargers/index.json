@@ -210,9 +210,7 @@
       "other"
     ],
     "extra": [
-      "(Bluetooth)",
       "9V LiIon",
-      "9V charge",
       "9V charger",
       "Analyzer",
       "Bluetooth",
@@ -222,7 +220,6 @@
       "LiIon 4.3V",
       "PC",
       "Power Bank",
-      "Storage",
       "Store",
       "USB charger",
       "User calibration",
@@ -901,6 +898,33 @@
       ],
       "extra": [],
       "rating": 3,
+      "year": 2019
+    },
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X11%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Fenix/ARE-X11/DSC_0592.jpg",
+      "title": "Fenix ARE-X11 Charger & power bank",
+      "slug": "fenix-are-x11-charger-power-bank",
+      "slots": 1,
+      "slots_max_size": 1,
+      "battery_len_min": 62,
+      "battery_len_max": 70,
+      "battery_d_min": 18,
+      "battery_d_max": 18,
+      "current_all": 1.0,
+      "current_single_max": 1.0,
+      "current_single_min": 1.0,
+      "chemistry": [
+        "LiIon 4.2V"
+      ],
+      "power": [
+        "USB"
+      ],
+      "extra": [
+        "Power Bank",
+        "USB charger"
+      ],
+      "rating": 6,
       "year": 2019
     },
     {
@@ -1766,7 +1790,7 @@
         "Mains"
       ],
       "extra": [
-        "9V charge"
+        "9V charger"
       ],
       "rating": 5,
       "year": 2018
@@ -2374,7 +2398,7 @@
         "Analyzer",
         "USB charger",
         "IR",
-        "Storage"
+        "Store"
       ],
       "rating": 3,
       "year": 2018
@@ -2738,7 +2762,7 @@
       ],
       "extra": [
         "V",
-        "(Bluetooth)"
+        "Bluetooth"
       ],
       "rating": 3,
       "year": 2017
@@ -3120,7 +3144,7 @@
         "Mains"
       ],
       "extra": [
-        "9V charge"
+        "9V charger"
       ],
       "rating": 1,
       "year": 2017
@@ -3396,6 +3420,33 @@
         "Mains adapter included"
       ],
       "extra": [],
+      "rating": 3,
+      "year": 2017
+    },
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X1%2B%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Fenix/ARE-X1%2B/DSC_9450.jpg",
+      "title": "Fenix ARE-X1+",
+      "slug": "fenix-are-x1",
+      "slots": 1,
+      "slots_max_size": 1,
+      "battery_len_min": 33,
+      "battery_len_max": 69,
+      "battery_d_min": 10,
+      "battery_d_max": 26,
+      "current_all": 1.0,
+      "current_single_max": 1.0,
+      "current_single_min": 1.0,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V"
+      ],
+      "power": [
+        "USB"
+      ],
+      "extra": [
+        "V"
+      ],
       "rating": 3,
       "year": 2017
     },
@@ -4418,7 +4469,7 @@
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-X1/DSC_4032.jpg",
       "title": "Fenix ARE-X1",
-      "slug": "fenix-are-x1",
+      "slug": "fenix-are-x1_1",
       "slots": 1,
       "slots_max_size": 1,
       "battery_len_min": 65,
@@ -4984,7 +5035,7 @@
         "Bluetooth",
         "PC",
         "User calibration",
-        "Storage"
+        "Store"
       ],
       "rating": 7,
       "year": 2015
