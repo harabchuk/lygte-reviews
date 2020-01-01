@@ -1,3 +1,7 @@
+import PouchDB from 'pouchdb';
+import FindPlugin from 'pouchdb-find';
+PouchDB.plugin(FindPlugin);
+
 const state = {
     filterValues: {},
     index: null,
@@ -35,45 +39,66 @@ function ratingsToInt(ratings) {
     return ratings.map(r => parseInt(backMap[r]));
 }
 
-function anyValueExist(values, needls) {
-    return values.some(r => needls.indexOf(r) > -1);
+async function populateDatabase(items) {
+    const db = new PouchDB('chargers');
+    if (!items.length) {
+        return db;
+    }
+    try {
+        await db.get(items[0].slug);
+        return db;
+    } catch(err) {}
+    // populate db
+    items.forEach(item => {
+        const doc = item;
+        doc['_id'] = item.slug;
+        db.put(doc);
+    });
+    // index
+    /*
+    await db.createIndex({
+        index: {
+            fields: ['slots'],
+        }
+    });
+    await db.createIndex({
+        index: {
+            fields: ['chemistry'],
+        }
+    }); */
+    return db;
 }
 
-function itemNotInFilter(item, filterValues, key) {
-    return filterValues.hasOwnProperty(key) && filterValues[key].length && !anyValueExist(item[key], filterValues[key]); 
+function queryFromValues(filterName, values) {
+    const query = {};
+    if (!values || !values.length) {
+        return query;
+    }
+    query[filterName] = {
+        $in: values,
+    };
+    return query;
 }
 
-function itemNotInFilterSingle(item, filterValues, key) {
-    return filterValues.hasOwnProperty(key) && filterValues[key].length && filterValues[key].indexOf(item[key])=== -1; 
+function singleFieldQueryArray(currentFilters, filterName) {
+    return queryFromValues(filterName, currentFilters[filterName]);
 }
 
-function itemNotInFilterRating(item, filterValues) {
-    const key = 'rating';
-    const ratingsFilterValues = ratingsToInt(filterValues[key]);
-    return filterValues.hasOwnProperty(key) && filterValues[key].length && ratingsFilterValues.indexOf(item[key])=== -1; 
+function ratingsQueryArray(currentFilters) {
+    const filterName = 'rating';
+    return queryFromValues(filterName, ratingsToInt(currentFilters[filterName]));
 }
 
-function itemsFilterFactory(filterValues) {
-    return function applyFilters (item) {
-        if (itemNotInFilterSingle(item, filterValues, 'slots')) {
-            return false;
+function buildDbQuery(currentFilters) {
+    return {
+        selector: {
+            ...singleFieldQueryArray(currentFilters, 'slots'),
+            ...singleFieldQueryArray(currentFilters, 'chemistry'),
+            ...singleFieldQueryArray(currentFilters, 'power'),
+            ...singleFieldQueryArray(currentFilters, 'extra'),
+            ...singleFieldQueryArray(currentFilters, 'year'),
+            ...ratingsQueryArray(currentFilters),
         }
-        if (itemNotInFilter(item, filterValues, 'chemistry')) {
-            return false;
-        }
-        if (itemNotInFilter(item, filterValues, 'power')) {
-            return false;
-        }
-        if (itemNotInFilter(item, filterValues, 'extra')) {
-            return false;
-        }
-        if (itemNotInFilterRating(item, filterValues)) {
-            return false;
-        }
-        if (itemNotInFilterSingle(item, filterValues, 'year')) {
-            return false;
-        }
-        return true;
     };
 }
 
@@ -122,6 +147,7 @@ const mutations = {
     },
 };
 
+
 const actions = {
     async fetchIndex({ commit, state }) {
         if (state.index) {
@@ -131,6 +157,7 @@ const actions = {
         const data = await result.json();
         const items = data.items || [];
         const filterValues = data.filters || {};
+        await populateDatabase(items);
         commit('setIndex', items);
         commit('setCurrentList', items);
         commit('setFilterValues', filterValues);
@@ -139,10 +166,12 @@ const actions = {
         const result = await fetch(`/statics/chargers/items/${slug}.json`);
         return await result.json();
     },
-    async applyCurrentFilters({ commit, state }, filterValues) {
-        commit('setCurrentFilters', filterValues);
-        const filtered = state.index.filter(itemsFilterFactory(filterValues)); 
-        commit('setCurrentList', filtered);
+    async applyCurrentFilters({ commit, state }, currentFilters) {
+        commit('setCurrentFilters', currentFilters);
+        const db = new PouchDB('chargers');
+        const query = buildDbQuery(currentFilters);
+        const found = await db.find(query);
+        commit('setCurrentList', found.docs);
     },
 };
 

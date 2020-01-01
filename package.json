@@ -13,6 +13,8 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
+    "pouchdb": "^7.1.1",
+    "pouchdb-find": "^7.1.1",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
