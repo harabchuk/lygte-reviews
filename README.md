@@ -1,6 +1,7 @@
 # Lygte-Info Reviews
 
 A Quasar application for filtering and sorting electronics reviews from https://lygte-info.dk website.
+Demo is available at https://lygte-reviews.netlify.com/
 
 ## Copyright notice
 
