@@ -22,6 +22,14 @@ const routes = [
         },
       },
       { 
+        name: 'batteries',
+        path: 'batteries',
+        component: () => import('pages/BatteryTypes.vue'),
+        meta: {
+          title: 'Batteries',
+        },
+      },
+      { 
         name: 'notready',
         path: 'notready/:id', 
         component: () => import('pages/NotReady.vue'),

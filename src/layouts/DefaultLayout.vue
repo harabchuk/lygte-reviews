@@ -46,7 +46,7 @@
           </q-item-section>
         </q-item>
 
-        <q-item clickable to="/notready/1">
+        <q-item clickable to="/batteries">
           <q-item-section avatar>
             <q-icon name="fas fa-battery-three-quarters" />
           </q-item-section>

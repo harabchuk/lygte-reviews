@@ -1,4 +1,4 @@
-<<template>
+<template>
     <div 
         v-if="filterValues && currentFiltersLocal"
         class="q-ma-sm"

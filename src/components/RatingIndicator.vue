@@ -1,4 +1,4 @@
-<<template>
+<template>
     <div style="width: 7em">
         <q-linear-progress size="17px" :value="ratingPercent" color="grey-5">
             <div class="absolute-full flex flex-center text-caption text-uppercase" style="color: white; font-size: 70%" >
