@@ -1,11 +1,11 @@
 <template>
     <q-card>
         <img v-if="imageSrc" :src="imageSrc" />
-        <div class="text-h6">{{ title }}</div>
+        <div class="text-h6 q-ml-xs">{{ title }}</div>
         <q-list>
-            <q-item clickable v-if="routeToComparison">
+            <q-item clickable v-if="routeToComparison" to="routeToComparison">
                 <q-item-section avatar>
-                    <q-icon color="primary" name="local_bar" />
+                    <q-icon color="primary" name="fas fa-balance-scale-right" />
                 </q-item-section>
 
                 <q-item-section>
@@ -13,9 +13,9 @@
                 </q-item-section>
             </q-item>
 
-            <q-item clickablei v-if="routeToList">
+            <q-item clickablei v-if="routeToList" to="routeToList">
                 <q-item-section avatar>
-                    <q-icon color="primary" name="local_bar" />
+                    <q-icon color="primary" name="fas fa-list" />
                 </q-item-section>
 
                 <q-item-section>
