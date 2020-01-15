@@ -93,6 +93,7 @@
       27,
       32,
       33,
+      36,
       50,
       99
     ],
@@ -244,10 +245,66 @@
       2016,
       2017,
       2018,
-      2019
+      2019,
+      2020
     ]
   },
   "items": [
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-500S%20UK.html",
+      "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-500S/DSC_8214.jpg",
+      "title": "LiitoKala Lii-500S",
+      "slug": "liitokala-lii-500s",
+      "slots": 4,
+      "slots_max_size": 2,
+      "battery_len_min": 32,
+      "battery_len_max": 74,
+      "battery_d_min": 10,
+      "battery_d_max": 36,
+      "current_all": 1.0,
+      "current_single_max": 2.0,
+      "current_single_min": 0.5,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V"
+      ],
+      "power": [
+        "12V",
+        "Mains adapter included"
+      ],
+      "extra": [
+        "V",
+        "mAh",
+        "Analyzer",
+        "USB charger"
+      ],
+      "rating": 5,
+      "year": 2020
+    },
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Doublepow%20DP-K209%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Other/Charger%20Doublepow%20DP-K209/DSC_1137.jpg",
+      "title": "Doublepow DP-K209",
+      "slug": "doublepow-dp-k209",
+      "slots": 4,
+      "slots_max_size": 4,
+      "battery_len_min": 44,
+      "battery_len_max": 50,
+      "battery_d_min": 10,
+      "battery_d_max": 14,
+      "current_all": 0.3,
+      "current_single_max": 0.3,
+      "current_single_min": 0.3,
+      "chemistry": [
+        "NiMH"
+      ],
+      "power": [
+        "Mains"
+      ],
+      "extra": [],
+      "rating": 3,
+      "year": 2019
+    },
     {
       "url": "https://lygte-info.dk/review/Review%20Charger%20Vapcell%20S4%2B%20fast%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Vapcell/S4%20plus/DSC_1056.jpg",
@@ -257,8 +314,8 @@
       "slots_max_size": 2,
       "battery_len_min": 33,
       "battery_len_max": 76,
-      "battery_d_min": 26,
-      "battery_d_max": 10,
+      "battery_d_min": 10,
+      "battery_d_max": 26,
       "current_all": 3.0,
       "current_single_max": 3.0,
       "current_single_min": 0.25,
@@ -289,8 +346,8 @@
       "slots_max_size": 2,
       "battery_len_min": 31,
       "battery_len_max": 69,
-      "battery_d_min": 26,
-      "battery_d_max": 10,
+      "battery_d_min": 10,
+      "battery_d_max": 26,
       "current_all": 0.6,
       "current_single_max": 0.6,
       "current_single_min": 0.6,

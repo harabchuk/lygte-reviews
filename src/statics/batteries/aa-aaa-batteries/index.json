@@ -1,0 +1,1301 @@
+{
+  "filters": {},
+  "items": [
+    {
+      "name": "Altizure AA 1200mWh LiIon (Brown)",
+      "slug": "altizure-aa-1200mwh-liion-brown",
+      "url": "https://lygte-info.dk/review/batteries2012/Altizure%20AA%201200mWh%20LiIon%20%28Brown%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Amazon Basic AA 1900mAh (White)",
+      "slug": "amazon-basic-aa-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Amazon Basic AA 2000mAh (Black)",
+      "slug": "amazon-basic-aa-2000mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202000mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Amazon Basic AA 2500mAh (Black)",
+      "slug": "amazon-basic-aa-2500mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202500mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Amazon Basic AAA 750mAh (White)",
+      "slug": "amazon-basic-aaa-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Amazon Basic AAA 800mAh (Black)",
+      "slug": "amazon-basic-aaa-800mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20800mAh%20%28Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ansmann AA 2500mAh (Silver)",
+      "slug": "ansmann-aa-2500mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202500mAh%20%28Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ansmann AA 2850mAh (Silver)",
+      "slug": "ansmann-aa-2850mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ansmann AAA 1100mAh (Silver-blue)",
+      "slug": "ansmann-aaa-1100mah-silver-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%201100mAh%20%28Silver-blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ansmann AAA 800mAh 5035042 (Silver)",
+      "slug": "ansmann-aaa-800mah-5035042-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20800mAh%205035042%20%28Silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ansmann AAA Phone 800mAh 5035332 (Silver)",
+      "slug": "ansmann-aaa-phone-800mah-5035332-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20Phone%20800mAh%205035332%20%28Silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ansmann C 4500mAh 5035352 (Silver)",
+      "slug": "ansmann-c-4500mah-5035352-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20C%204500mAh%205035352%20%28Silver%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Ansmann D 10000mAh 5030642 (Silver)",
+      "slug": "ansmann-d-10000mah-5030642-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20D%2010000mAh%205030642%20%28Silver%29%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Ansmann D 8500mAh 5035362 (Silver)",
+      "slug": "ansmann-d-8500mah-5035362-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20D%208500mAh%205035362%20%28Silver%29%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Arcas AA 2700mAh (Silver-red)",
+      "slug": "arcas-aa-2700mah-silver-red",
+      "url": "https://lygte-info.dk/review/batteries2012/Arcas%20AA%202700mAh%20%28Silver-red%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Arcas AA 800mAh (Silver-red)",
+      "slug": "arcas-aa-800mah-silver-red",
+      "url": "https://lygte-info.dk/review/batteries2012/Arcas%20AA%20800mAh%20%28Silver-red%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Blackube AA 2250mWh USB (Black)",
+      "slug": "blackube-aa-2250mwh-usb-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Blackube%20AA%202250mWh%20USB%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Blackube AA 2550mWh USB (Gray)",
+      "slug": "blackube-aa-2550mwh-usb-gray",
+      "url": "https://lygte-info.dk/review/batteries2012/Blackube%20AA%202550mWh%20USB%20%28Gray%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "BPI AA 2400mAh (White-orange)",
+      "slug": "bpi-aa-2400mah-white-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/BPI%20AA%202400mAh%20%28White-orange%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "BTY AA 2500mAh (Silver-blue)",
+      "slug": "bty-aa-2500mah-silver-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/BTY%20AA%202500mAh%20%28Silver-blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion AA 2700mAh (Silver-orange)",
+      "slug": "camelion-aa-2700mah-silver-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20AA%202700mAh%20%28Silver-orange%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion AA Max 2500mAh (White)",
+      "slug": "camelion-aa-max-2500mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20AA%20Max%202500mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion AA Premium 2300mAh (White)",
+      "slug": "camelion-aa-premium-2300mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20AA%20Premium%202300mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion AAA 1100mAh (Silver-orange)",
+      "slug": "camelion-aaa-1100mah-silver-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20AAA%201100mAh%20%28Silver-orange%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Contour AA (Green-cyan)",
+      "slug": "contour-aa-green-cyan",
+      "url": "https://lygte-info.dk/review/batteries2012/Contour%20AA%20%28Green-cyan%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell AA Duralock 1300mAh (Green-Copper)",
+      "slug": "duracell-aa-duralock-1300mah-green-copper",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20AA%20Duralock%201300mAh%20%28Green-Copper%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell AA Ultra 2400mAh (Green-Copper)",
+      "slug": "duracell-aa-ultra-2400mah-green-copper",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20AA%20Ultra%202400mAh%20%28Green-Copper%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell AAA Duralock 750mAh (Green-Copper)",
+      "slug": "duracell-aaa-duralock-750mah-green-copper",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20AAA%20Duralock%20750mAh%20%28Green-Copper%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Duracell AAA Ultra 900mAh (Green-Copper)",
+      "slug": "duracell-aaa-ultra-900mah-green-copper",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20AAA%20Ultra%20900mAh%20%28Green-Copper%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "EBL AA 2300mAh (White)",
+      "slug": "ebl-aa-2300mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/EBL%20AA%202300mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "enelong AAA 900mAh (White-orange)",
+      "slug": "enelong-aaa-900mah-white-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/enelong%20AAA%20900mAh%20%28White-orange%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Eneloop AA BK-3HCC 2450mAh (Black)",
+      "slug": "eneloop-aa-bk-3hcc-2450mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20BK-3HCC%202450mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AA BK-3MCC 1900mAh (White)",
+      "slug": "eneloop-aa-bk-3mcc-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20BK-3MCC%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AA BK-3MCCE 1900mAh (White)",
+      "slug": "eneloop-aa-bk-3mcce-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20BK-3MCCE%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AA BK-3MCCE 1900mAh (White) 2019",
+      "slug": "eneloop-aa-bk-3mcce-1900mah-white-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20BK-3MCCE%201900mAh%20%28White%29%202019%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AA HR-3UTGB 1900mAh (White)",
+      "slug": "eneloop-aa-hr-3utgb-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20HR-3UTGB%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AA HR-3UWXB 2450mAh (Black)",
+      "slug": "eneloop-aa-hr-3uwxb-2450mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AA%20HR-3UWXB%202450mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop AAA BK-4HCC 900mAh (Black)",
+      "slug": "eneloop-aaa-bk-4hcc-900mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AAA%20BK-4HCC%20900mAh%20%28Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Eneloop AAA BK-4MCCE 750mAh (White) 2019",
+      "slug": "eneloop-aaa-bk-4mcce-750mah-white-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AAA%20BK-4MCCE%20750mAh%20%28White%29%202019%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Eneloop AAA HR-4UTGB 750mAh (White)",
+      "slug": "eneloop-aaa-hr-4utgb-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20AAA%20HR-4UTGB%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Eneloop lite AA 950mAh BK-3LCCE (Cyan)",
+      "slug": "eneloop-lite-aa-950mah-bk-3lcce-cyan",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20lite%20AA%20950mAh%20BK-3LCCE%20%28Cyan%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Eneloop lite AAA BK-4LCCE 550mAh (Blue)",
+      "slug": "eneloop-lite-aaa-bk-4lcce-550mah-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Eneloop%20lite%20AAA%20BK-4LCCE%20550mAh%20%28Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Energizer AA 2000mAh (Silver)",
+      "slug": "energizer-aa-2000mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AA%202000mAh%20%28Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Energizer AAA 500mAh Universal (Green)",
+      "slug": "energizer-aaa-500mah-universal-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20500mAh%20Universal%20%28Green%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Energizer AAA 800mAh Extreme (Silver)",
+      "slug": "energizer-aaa-800mah-extreme-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20800mAh%20Extreme%20%28Silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Energizer C 2500mAh NH35 (Silver)",
+      "slug": "energizer-c-2500mah-nh35-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20C%202500mAh%20NH35%20%28Silver%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Energizer D 2500mAh NH50 (Silver)",
+      "slug": "energizer-d-2500mah-nh50-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20D%202500mAh%20NH50%20%28Silver%29%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Enesense C 4300mAh (White)",
+      "slug": "enesense-c-4300mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Enesense%20C%204300mAh%20%28White%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Flash AA 4600mAh (Yellow-blue)",
+      "slug": "flash-aa-4600mah-yellow-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Flash%20AA%204600mAh%20%28Yellow-blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AA HR-3UTA 1900mAh (White)",
+      "slug": "fujitsu-aa-hr-3uta-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTA%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AA HR-3UTC 1900mAh (White)",
+      "slug": "fujitsu-aa-hr-3utc-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTC%201900mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AA HR-3UTHA 2400mAh (Silver)",
+      "slug": "fujitsu-aa-hr-3utha-2400mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHA%202400mAh%20%28Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AA HR-3UTHC 2450mAh (Black)",
+      "slug": "fujitsu-aa-hr-3uthc-2450mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AA HR-3UTHC 2450mAh (Black) 2019",
+      "slug": "fujitsu-aa-hr-3uthc-2450mah-black-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%202019%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu AAA HR-4UAEU 930mAh (Silver-red)",
+      "slug": "fujitsu-aaa-hr-4uaeu-930mah-silver-red",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UAEU%20930mAh%20%28Silver-red%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu AAA HR-4UTC 750mAh (White)",
+      "slug": "fujitsu-aaa-hr-4utc-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTC%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu AAA HR-4UTHC 950mAh (Black)",
+      "slug": "fujitsu-aaa-hr-4uthc-950mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTHC%20950mAh%20%28Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu AAA HR-4UTI 750mAh (Blue)",
+      "slug": "fujitsu-aaa-hr-4uti-750mah-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTI%20750mAh%20%28Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "GoalZero AA 2300mAh (Gray-Black-Green)",
+      "slug": "goalzero-aa-2300mah-gray-black-green",
+      "url": "https://lygte-info.dk/review/batteries2012/GoalZero%20AA%202300mAh%20%28Gray-Black-Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "GP AA 1300mAh (Green-White-Orange)",
+      "slug": "gp-aa-1300mah-green-white-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20AA%201300mAh%20%28Green-White-Orange%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "GP AA ReCyko+ 2000mAh (Silver-Green)",
+      "slug": "gp-aa-recyko-2000mah-silver-green",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20AA%20ReCyko%2B%202000mAh%20%28Silver-Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "GP AA ReCyko+ Pro 2000mAh (Black)",
+      "slug": "gp-aa-recyko-pro-2000mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20AA%20ReCyko%2B%20Pro%202000mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "GP AAA 1000mAh (Green-White-Orange)",
+      "slug": "gp-aaa-1000mah-green-white-orange",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20AAA%201000mAh%20%28Green-White-Orange%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "GP AAA ReCyklo+ 800mAh (Silver-Green)",
+      "slug": "gp-aaa-recyklo-800mah-silver-green",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20AAA%20ReCyklo%2B%20800mAh%20%28Silver-Green%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "GP ReCyko+ AA 2700mAh (Green)",
+      "slug": "gp-recyko-aa-2700mah-green",
+      "url": "https://lygte-info.dk/review/batteries2012/GP%20ReCyko%2B%20AA%202700mAh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ikea Ladda AA 2450mAh (White)",
+      "slug": "ikea-ladda-aa-2450mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20Ladda%20AA%202450mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ikea Ladda AAA 900mAh (White)",
+      "slug": "ikea-ladda-aaa-900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20Ladda%20AAA%20900mAh%20%28White%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Imedion AA 2400mAh (Black)",
+      "slug": "imedion-aa-2400mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Imedion%20AA%202400mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Imedion AAA 950mAh (Black)",
+      "slug": "imedion-aaa-950mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Imedion%20AAA%20950mAh%20%28Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Kentli AA 2800mWh (Blue)",
+      "slug": "kentli-aa-2800mwh-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Kentli%20AA%202800mWh%20%28Blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Kentli AA PH5 3000mWh (Blue)",
+      "slug": "kentli-aa-ph5-3000mwh-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Kentli%20AA%20PH5%203000mWh%20%28Blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Kentli AAA PH7 1180mWh (Blue)",
+      "slug": "kentli-aaa-ph7-1180mwh-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Kentli%20AAA%20PH7%201180mWh%20%28Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ladda AA 1000mAh (Brown)",
+      "slug": "ladda-aa-1000mah-brown",
+      "url": "https://lygte-info.dk/review/batteries2012/Ladda%20AA%201000mAh%20%28Brown%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ladda AA 2000mAh (Green-Silver)",
+      "slug": "ladda-aa-2000mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ladda%20AA%202000mAh%20%28Green-Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ladda AAA 500mAh (Brown)",
+      "slug": "ladda-aaa-500mah-brown",
+      "url": "https://lygte-info.dk/review/batteries2012/Ladda%20AAA%20500mAh%20%28Brown%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ladda AAA 750mAh (Green-Silver)",
+      "slug": "ladda-aaa-750mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ladda%20AAA%20750mAh%20%28Green-Silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Leise AA 2500mAh (Black)",
+      "slug": "leise-aa-2500mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Leise%20AA%202500mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Leise AA 2700mAh (White-blue)",
+      "slug": "leise-aa-2700mah-white-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Leise%20AA%202700mAh%20%28White-blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Leise AAA 1000mAh (Silver-black)",
+      "slug": "leise-aaa-1000mah-silver-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Leise%20AAA%201000mAh%20%28Silver-black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Leise AAA 950mAh (White-Blue)",
+      "slug": "leise-aaa-950mah-white-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Leise%20AAA%20950mAh%20%28White-Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Lloytron AA 1300mAh B012 (Green-black)",
+      "slug": "lloytron-aa-1300mah-b012-green-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Lloytron%20AA%201300mAh%20B012%20%28Green-black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Lloytron AA 2700mAh B1025 (Green-black)",
+      "slug": "lloytron-aa-2700mah-b1025-green-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Lloytron%20AA%202700mAh%20B1025%20%28Green-black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Lloytron AA 800mAh B011 (Green-black)",
+      "slug": "lloytron-aa-800mah-b011-green-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Lloytron%20AA%20800mAh%20B011%20%28Green-black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Lloytron AAA 550mAh B014 (Green-black)",
+      "slug": "lloytron-aaa-550mah-b014-green-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Lloytron%20AAA%20550mAh%20B014%20%28Green-black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Lloytron AAA 900mAh B015 (Green-black)",
+      "slug": "lloytron-aaa-900mah-b015-green-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Lloytron%20AAA%20900mAh%20B015%20%28Green-black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "NiZn AA 2800mWh (Green)",
+      "slug": "nizn-aa-2800mwh-green",
+      "url": "https://lygte-info.dk/review/batteries2012/NiZn%20AA%202800mWh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic AA 1100mAh BK-3LGAA (White) CAN",
+      "slug": "panasonic-aa-1100mah-bk-3lgaa-white-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20AA%201100mAh%20BK-3LGAA%20%28White%29%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic AA BK-3HGAE 2700mAh (White)",
+      "slug": "panasonic-aa-bk-3hgae-2700mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20AA%20BK-3HGAE%202700mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic AA eneloop lite BK-3LCC 950mAh (Cyan)",
+      "slug": "panasonic-aa-eneloop-lite-bk-3lcc-950mah-cyan",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20AA%20eneloop%20lite%20BK-3LCC%20950mAh%20%28Cyan%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic AA Evolta BK-3HLC 2500mAh (White)",
+      "slug": "panasonic-aa-evolta-bk-3hlc-2500mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20AA%20Evolta%20BK-3HLC%202500mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic AA Evolta HHR-3MVT 2050mAh (White)",
+      "slug": "panasonic-aa-evolta-hhr-3mvt-2050mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20AA%20Evolta%20HHR-3MVT%202050mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Sub-C 3000mAh HHR300SCP (Brown paper)",
+      "slug": "panasonic-sub-c-3000mah-hhr300scp-brown-paper",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Sub-C%203000mAh%20HHR300SCP%20%28Brown%20paper%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "PKCell AA 1300mAh (Green-Silver)",
+      "slug": "pkcell-aa-1300mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AA%201300mAh%20%28Green-Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "PKCell AA 2200mA (Green-silver)",
+      "slug": "pkcell-aa-2200ma-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AA%202200mA%20%28Green-silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "PKCell AA 2600mAh (Green-silver)",
+      "slug": "pkcell-aa-2600mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AA%202600mAh%20%28Green-silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "PKCell AAA 1000mA (Green-silver)",
+      "slug": "pkcell-aaa-1000ma-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AAA%201000mA%20%28Green-silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "PKCell AAA 600mAh (Green-Silver)",
+      "slug": "pkcell-aaa-600mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AAA%20600mAh%20%28Green-Silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "PKCell AAA 850mA (Green-silver)",
+      "slug": "pkcell-aaa-850ma-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AAA%20850mA%20%28Green-silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Powerex AA 2700mAh (Black)",
+      "slug": "powerex-aa-2700mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Powerex%20AA%202700mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Powerex AAA  1000mAh (Black)",
+      "slug": "powerex-aaa-1000mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Powerex%20AAA%20%201000mAh%20%28Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "PowerGenix AA NiZn 2500mWh (Green)",
+      "slug": "powergenix-aa-nizn-2500mwh-green",
+      "url": "https://lygte-info.dk/review/batteries2012/PowerGenix%20AA%20NiZn%202500mWh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Sofirn AA 2600mAh (Black-Blue)",
+      "slug": "sofirn-aa-2600mah-black-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AA%202600mAh%20%28Black-Blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Sofirn AA 3800mAh (White-Black)",
+      "slug": "sofirn-aa-3800mah-white-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AA%203800mAh%20%28White-Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Sofirn AAA 1100mAh (Black-Blue)",
+      "slug": "sofirn-aaa-1100mah-black-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AAA%201100mAh%20%28Black-Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Sofirn AAA 1800mAh (White-Black)",
+      "slug": "sofirn-aaa-1800mah-white-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AAA%201800mAh%20%28White-Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Sofirn AAA 900mAh (Black-Blue)",
+      "slug": "sofirn-aaa-900mah-black-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AAA%20900mAh%20%28Black-Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Soshine C 5500mAh (White)",
+      "slug": "soshine-c-5500mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20C%205500mAh%20%28White%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Soshine D 11000mAh (White)",
+      "slug": "soshine-d-11000mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20D%2011000mAh%20%28White%29%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Sunbeam AA 800mAh (Red-white) CAN",
+      "slug": "sunbeam-aa-800mah-red-white-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Sunbeam%20AA%20800mAh%20%28Red-white%29%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tandy AA 2450mAh (Black)",
+      "slug": "tandy-aa-2450mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Tandy%20AA%202450mAh%20%28Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tecxus AA 2700mAh (Silver-Maroon)",
+      "slug": "tecxus-aa-2700mah-silver-maroon",
+      "url": "https://lygte-info.dk/review/batteries2012/Tecxus%20AA%202700mAh%20%28Silver-Maroon%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tecxus AAA 1100mAh (Silver-Maroon)",
+      "slug": "tecxus-aaa-1100mah-silver-maroon",
+      "url": "https://lygte-info.dk/review/batteries2012/Tecxus%20AAA%201100mAh%20%28Silver-Maroon%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "TenaVolts AA 2775mW (Black-blue)",
+      "slug": "tenavolts-aa-2775mw-black-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/TenaVolts%20AA%202775mW%20%28Black-blue%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tensai AA TR-6 2000mAh (White)",
+      "slug": "tensai-aa-tr-6-2000mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Tensai%20AA%20TR-6%202000mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tensai plus AA TR-6H 2500mAh (White)",
+      "slug": "tensai-plus-aa-tr-6h-2500mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Tensai%20plus%20AA%20TR-6H%202500mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Toshiba AA Impulse TNG-3G 2550mAh (Silver)",
+      "slug": "toshiba-aa-impulse-tng-3g-2550mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Toshiba%20AA%20Impulse%20TNG-3G%202550mAh%20%28Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Toshiba AA Impulse TNH-3A 2400mAh (White)",
+      "slug": "toshiba-aa-impulse-tnh-3a-2400mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Toshiba%20AA%20Impulse%20TNH-3A%202400mAh%20%28White%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Toshiba AAA Impulse TNH-4A 750mAh (White)",
+      "slug": "toshiba-aaa-impulse-tnh-4a-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Toshiba%20AAA%20Impulse%20TNH-4A%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Tronic AA 2300mAh (Silver-Black)",
+      "slug": "tronic-aa-2300mah-silver-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Tronic%20AA%202300mAh%20%28Silver-Black%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tronic AA 2400mAh (Black-green)",
+      "slug": "tronic-aa-2400mah-black-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Tronic%20AA%202400mAh%20%28Black-green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tronic AA 2500mAh (Black-Silver)",
+      "slug": "tronic-aa-2500mah-black-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Tronic%20AA%202500mAh%20%28Black-Silver%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tronic AAA 1000mAh (Silver-Black)",
+      "slug": "tronic-aaa-1000mah-silver-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Tronic%20AAA%201000mAh%20%28Silver-Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Tronic AAA 950mAh (Silver-Black)",
+      "slug": "tronic-aaa-950mah-silver-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Tronic%20AAA%20950mAh%20%28Silver-Black%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Turnigy Sub-C 5000mAh (Gray)",
+      "slug": "turnigy-sub-c-5000mah-gray",
+      "url": "https://lygte-info.dk/review/batteries2012/Turnigy%20Sub-C%205000mAh%20%28Gray%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "UltraCell NiZn AAA 1150mWh (Blue)",
+      "slug": "ultracell-nizn-aaa-1150mwh-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/UltraCell%20NiZn%20AAA%201150mWh%20%28Blue%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Uniross AA hybrio 2100mAh (White-red)",
+      "slug": "uniross-aa-hybrio-2100mah-white-red",
+      "url": "https://lygte-info.dk/review/batteries2012/Uniross%20AA%20hybrio%202100mAh%20%28White-red%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Vapex instant AA 2500mAh (Silver-green)",
+      "slug": "vapex-instant-aa-2500mah-silver-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Vapex%20instant%20AA%202500mAh%20%28Silver-green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta AA 1600mAh (Green)",
+      "slug": "varta-aa-1600mah-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20AA%201600mAh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta AA 2100mAh (Green)",
+      "slug": "varta-aa-2100mah-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20AA%202100mAh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta AA 2600mAh (Green)",
+      "slug": "varta-aa-2600mah-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20AA%202600mAh%20%28Green%29%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta AAA 1000mAh 5703 (Green-silver)",
+      "slug": "varta-aaa-1000mah-5703-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20AAA%201000mAh%205703%20%28Green-silver%29%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Varta D 3000mAh 56720 (Green-silver)",
+      "slug": "varta-d-3000mah-56720-green-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20D%203000mAh%2056720%20%28Green-silver%29%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Xiaomi ZI5 1800mAh (White or Black)",
+      "slug": "xiaomi-zi5-1800mah-white-or-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Xiaomi%20ZI5%201800mAh%20%28White%20or%20Black%29%20UK.html",
+      "type": null
+    },
+    {
+      "name": "Aerocell AA",
+      "slug": "aerocell-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Aerocell%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Aerocell AAA",
+      "slug": "aerocell-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Aerocell%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Amazon basic AA",
+      "slug": "amazon-basic-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20basic%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Amazon basic AAA",
+      "slug": "amazon-basic-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20basic%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Batteroo AA",
+      "slug": "batteroo-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Batteroo%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion Digi Alkaline AA",
+      "slug": "camelion-digi-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20Digi%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion Plus Alkaline AA",
+      "slug": "camelion-plus-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20Plus%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Camelion Plus Alkaline AAA",
+      "slug": "camelion-plus-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Camelion%20Plus%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Defiant Alkaline AA CAN",
+      "slug": "defiant-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Defiant%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Defiant Alkaline AAA CAN",
+      "slug": "defiant-alkaline-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Defiant%20Alkaline%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Dick smith Alkaline AA CAN",
+      "slug": "dick-smith-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Dick%20smith%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell Plus Power AA",
+      "slug": "duracell-plus-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20Plus%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell Plus Power AAA",
+      "slug": "duracell-plus-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20Plus%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Duracell Ultra Power AA",
+      "slug": "duracell-ultra-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20Ultra%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Duracell Ultra Power AAA",
+      "slug": "duracell-ultra-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Duracell%20Ultra%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Energizer C E93 (Silver-black)",
+      "slug": "energizer-c-e93-silver-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20C%20E93%20%28Silver-black%29%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Energizer Ultimate Lithium AA",
+      "slug": "energizer-ultimate-lithium-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20Ultimate%20Lithium%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Energizer Ultimate Lithium AA 2019",
+      "slug": "energizer-ultimate-lithium-aa-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20Ultimate%20Lithium%20AA%202019%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Energizer Ultimate Lithium AAA",
+      "slug": "energizer-ultimate-lithium-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20Ultimate%20Lithium%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Energizer Ultimate Lithium AAA 2019",
+      "slug": "energizer-ultimate-lithium-aaa-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20Ultimate%20Lithium%20AAA%202019%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Etinesan Lithium AA",
+      "slug": "etinesan-lithium-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Etinesan%20Lithium%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Etinesan Lithium AAA",
+      "slug": "etinesan-lithium-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Etinesan%20Lithium%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Eveready Gold Alkaline AA CAN",
+      "slug": "eveready-gold-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Eveready%20Gold%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu Alkaline G AA",
+      "slug": "fujitsu-alkaline-g-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Alkaline%20G%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu Alkaline G AAA",
+      "slug": "fujitsu-alkaline-g-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Alkaline%20G%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu Alkaline G+ AA",
+      "slug": "fujitsu-alkaline-g-aa_1",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Alkaline%20G%2B%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu Alkaline G+ AAA",
+      "slug": "fujitsu-alkaline-g-aaa_1",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Alkaline%20G%2B%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu High Power AA",
+      "slug": "fujitsu-high-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20High%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu High Power AAA",
+      "slug": "fujitsu-high-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20High%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu Premium AA",
+      "slug": "fujitsu-premium-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Premium%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu Premium AAA",
+      "slug": "fujitsu-premium-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Premium%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Fujitsu Universal Power AA",
+      "slug": "fujitsu-universal-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Universal%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Fujitsu Universal Power AAA",
+      "slug": "fujitsu-universal-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20Universal%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Great value Alkaline AA CAN",
+      "slug": "great-value-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Great%20value%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Great value Alkaline AAA CAN",
+      "slug": "great-value-alkaline-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Great%20value%20Alkaline%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "HQ Alkaline Ultra Power AA",
+      "slug": "hq-alkaline-ultra-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/HQ%20Alkaline%20Ultra%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "HQ Alkaline Ultra Power AAA",
+      "slug": "hq-alkaline-ultra-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/HQ%20Alkaline%20Ultra%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "HQ Zinc-Carbon Standard Power AA",
+      "slug": "hq-zinc-carbon-standard-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/HQ%20Zinc-Carbon%20Standard%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ikea AA",
+      "slug": "ikea-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ikea AA 23050",
+      "slug": "ikea-aa-23050",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20AA%2023050%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Ikea AAA",
+      "slug": "ikea-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Ikea AAA 23050",
+      "slug": "ikea-aaa-23050",
+      "url": "https://lygte-info.dk/review/batteries2012/Ikea%20AAA%2023050%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Japcell Lithium AA",
+      "slug": "japcell-lithium-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Japcell%20Lithium%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Kirkland Signature Alkaline AA CAN",
+      "slug": "kirkland-signature-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Kirkland%20Signature%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Kirkland Signature Alkaline AAA CAN",
+      "slug": "kirkland-signature-alkaline-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Kirkland%20Signature%20Alkaline%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Kodak Super Heavy Duty AA",
+      "slug": "kodak-super-heavy-duty-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Kodak%20Super%20Heavy%20Duty%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Kodak Super Heavy Duty AAA",
+      "slug": "kodak-super-heavy-duty-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Kodak%20Super%20Heavy%20Duty%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Likewise Long-lasting Alkaline AA CAN",
+      "slug": "likewise-long-lasting-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Likewise%20Long-lasting%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Maxell Alkaline AA",
+      "slug": "maxell-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Maxell%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Maxell Alkaline AAA",
+      "slug": "maxell-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Maxell%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "NanFu Alkaline AAA",
+      "slug": "nanfu-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/NanFu%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Nice Lithium AA",
+      "slug": "nice-lithium-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Nice%20Lithium%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Nice Lithium AAA",
+      "slug": "nice-lithium-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Nice%20Lithium%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Panasonic Alkaline Plus Power AA CAN",
+      "slug": "panasonic-alkaline-plus-power-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Alkaline%20Plus%20Power%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Alkaline Plus Power AAA CAN",
+      "slug": "panasonic-alkaline-plus-power-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Alkaline%20Plus%20Power%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Panasonic Alkaline Power AA",
+      "slug": "panasonic-alkaline-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Alkaline%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Evolta AA",
+      "slug": "panasonic-evolta-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Evolta%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Evolta AAA",
+      "slug": "panasonic-evolta-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Evolta%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Panasonic Evolta Neo AA",
+      "slug": "panasonic-evolta-neo-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Evolta%20Neo%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Pro Power AA",
+      "slug": "panasonic-pro-power-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Pro%20Power%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Pro Power AAA",
+      "slug": "panasonic-pro-power-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Pro%20Power%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Panasonic Super Heavy Duty AA CAN",
+      "slug": "panasonic-super-heavy-duty-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Super%20Heavy%20Duty%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Panasonic Super Heavy Duty AAA CAN",
+      "slug": "panasonic-super-heavy-duty-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Super%20Heavy%20Duty%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "PC Alkaline AAA CAN",
+      "slug": "pc-alkaline-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/PC%20Alkaline%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Polaroid Super Alkaline AA CAN",
+      "slug": "polaroid-super-alkaline-aa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Polaroid%20Super%20Alkaline%20AA%20CAN%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Polaroid Super Alkaline AAA CAN",
+      "slug": "polaroid-super-alkaline-aaa-can",
+      "url": "https://lygte-info.dk/review/batteries2012/Polaroid%20Super%20Alkaline%20AAA%20CAN%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Powermaker Alkaline AA",
+      "slug": "powermaker-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Powermaker%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Rema1000 Alkaline AAA",
+      "slug": "rema1000-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Rema1000%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Soshine AA 14500 Lithium",
+      "slug": "soshine-aa-14500-lithium",
+      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20AA%2014500%20Lithium%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Soshine AAA 10440 Lithium",
+      "slug": "soshine-aaa-10440-lithium",
+      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20AAA%2010440%20Lithium%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Sostrene Grene Alkaline AA",
+      "slug": "sostrene-grene-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Sostrene%20Grene%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Sostrene Grene Alkaline AAA",
+      "slug": "sostrene-grene-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Sostrene%20Grene%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Tecxus Alkaline Maximum AA",
+      "slug": "tecxus-alkaline-maximum-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Tecxus%20Alkaline%20Maximum%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Tecxus Alkaline Maximum AAA",
+      "slug": "tecxus-alkaline-maximum-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Tecxus%20Alkaline%20Maximum%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Top Craft Ultra Alkaline AA",
+      "slug": "top-craft-ultra-alkaline-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Top%20Craft%20Ultra%20Alkaline%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Top Craft Ultra Alkaline AAA",
+      "slug": "top-craft-ultra-alkaline-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Top%20Craft%20Ultra%20Alkaline%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Varta Energy AA",
+      "slug": "varta-energy-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20Energy%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta Energy AAA",
+      "slug": "varta-energy-aaa",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20Energy%20AAA%20UK.html",
+      "type": "AAA"
+    },
+    {
+      "name": "Varta High Energy AA",
+      "slug": "varta-high-energy-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20AA%20UK.html",
+      "type": "AA"
+    },
+    {
+      "name": "Varta High Energy C 4914",
+      "slug": "varta-high-energy-c-4914",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20C%204914%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Varta High Energy D 4920",
+      "slug": "varta-high-energy-d-4920",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20D%204920%20UK.html",
+      "type": "D"
+    },
+    {
+      "name": "Varta LongLife C 4114",
+      "slug": "varta-longlife-c-4114",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20LongLife%20C%204114%20UK.html",
+      "type": "C"
+    },
+    {
+      "name": "Varta SuperLife AA",
+      "slug": "varta-superlife-aa",
+      "url": "https://lygte-info.dk/review/batteries2012/Varta%20SuperLife%20AA%20UK.html",
+      "type": "AA"
+    }
+  ]
+}
