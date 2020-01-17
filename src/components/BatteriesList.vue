@@ -4,7 +4,7 @@
       <q-item 
         v-for="item in currentListPortioned" :key="item.slug" clickable 
         :to="{
-          name: 'review',
+          name: 'battery-review',
           params: {
             slug: item.slug
           }

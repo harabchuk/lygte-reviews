@@ -38,6 +38,15 @@ const routes = [
         },
       },
       { 
+        name: 'battery-review',
+        path: 'battery-review/:slug', 
+        component: () => import('pages/BatteryReview.vue'),
+        meta: {
+          title: 'Review',
+          backButton: true,
+        },
+      },
+      { 
         name: 'notready',
         path: 'notready/:id', 
         component: () => import('pages/NotReady.vue'),
