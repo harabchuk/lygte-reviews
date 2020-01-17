@@ -11,7 +11,7 @@
         }">
         <q-item-section avatar top>
           <q-avatar rounded size="64" v-if="item.preview">
-            <img :src="item.preview" />
+            <q-img :src="item.preview" ratio="1"/>
           </q-avatar>
         </q-item-section>
 
