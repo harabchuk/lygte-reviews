@@ -13,9 +13,9 @@ const routes = [
         },
       },
       { 
-        name: 'review',
-        path: 'review/:slug', 
-        component: () => import('pages/Review.vue'),
+        name: 'charger-review',
+        path: 'charger-review/:slug', 
+        component: () => import('pages/ChargerReview.vue'),
         meta: {
           title: 'Review',
           backButton: true,

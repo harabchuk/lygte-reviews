@@ -17,7 +17,7 @@
 import { mapActions } from 'vuex';
 
 export default {
-    name: "Review",
+    name: "ChargerReview",
     data() {
         return {
             review: null,
