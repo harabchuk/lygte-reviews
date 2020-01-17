@@ -22,9 +22,17 @@ const routes = [
         },
       },
       { 
+        name: 'battery-types',
+        path: 'battery-types',
+        component: () => import('pages/BatteryTypes.vue'),
+        meta: {
+          title: 'Batteries',
+        },
+      },
+      { 
         name: 'batteries',
         path: 'batteries',
-        component: () => import('pages/BatteryTypes.vue'),
+        component: () => import('pages/Batteries.vue'),
         meta: {
           title: 'Batteries',
         },

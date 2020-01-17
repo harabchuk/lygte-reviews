@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 
 import chargersModule from './chargers-module'
+import batteriesModule from './batteries-module'
 
 Vue.use(Vuex)
 
@@ -18,6 +19,7 @@ export default function (/* { ssrContext } */) {
   const Store = new Vuex.Store({
     modules: {
       chargersModule,
+      batteriesModule,
     },
 
     // enable strict mode (adds overhead!)
