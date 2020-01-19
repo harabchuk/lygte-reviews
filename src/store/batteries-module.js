@@ -96,7 +96,7 @@ const mutations = {
 
 const actions = {
     async fetchIndex({ commit, state }) {
-        if (state.index && dbName === state.currentDbName) {
+        if (state.index) {
             return;
         }
         const result = await fetch(`/statics/batteries/index.json`);

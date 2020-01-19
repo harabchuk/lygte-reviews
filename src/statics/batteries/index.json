@@ -9,6 +9,76 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Altizure%20AA%201200mWh%20LiIon%20(Brown)/DSC_8148.jpg"
     },
     {
+      "title": "Amazon Basic AA 1900mAh (White)",
+      "slug": "amazon-basic-aa-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%201900mAh%20%28White%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%201900mAh%20(White)/DSC_8702.jpg"
+    },
+    {
+      "title": "Amazon Basic AA 2000mAh (Black)",
+      "slug": "amazon-basic-aa-2000mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202000mAh%20%28Black%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%202000mAh%20(Black)/DSC_8664.jpg"
+    },
+    {
+      "title": "Amazon Basic AA 2500mAh (Black)",
+      "slug": "amazon-basic-aa-2500mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202500mAh%20%28Black%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%202500mAh%20(Black)/DSC_9436.jpg"
+    },
+    {
+      "title": "Amazon Basic AAA 750mAh (White)",
+      "slug": "amazon-basic-aaa-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AAA%20750mAh%20(White)/DSC_8672.jpg"
+    },
+    {
+      "title": "Amazon Basic AAA 800mAh (Black)",
+      "slug": "amazon-basic-aaa-800mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20800mAh%20%28Black%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AAA%20800mAh%20(Black)/DSC_8711.jpg"
+    },
+    {
+      "title": "Ansmann AA 2500mAh (Silver)",
+      "slug": "ansmann-aa-2500mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202500mAh%20%28Silver%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202500mAh%20(Silver)/DSC_2156.jpg"
+    },
+    {
+      "title": "Ansmann AA 2850mAh (Silver)",
+      "slug": "ansmann-aa-2850mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202850mAh%20(Silver)/DSC_2162.jpg"
+    },
+    {
+      "title": "Ansmann AAA 1100mAh (Silver-blue)",
+      "slug": "ansmann-aaa-1100mah-silver-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%201100mAh%20%28Silver-blue%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%201100mAh%20(Silver-blue)/DSC_8061.jpg"
+    },
+    {
+      "title": "Ansmann AAA 800mAh 5035042 (Silver)",
+      "slug": "ansmann-aaa-800mah-5035042-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20800mAh%205035042%20%28Silver%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20800mAh%205035042%20(Silver)/DSC_9403.jpg"
+    },
+    {
+      "title": "Ansmann AAA Phone 800mAh 5035332 (Silver)",
+      "slug": "ansmann-aaa-phone-800mah-5035332-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20Phone%20800mAh%205035332%20%28Silver%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20Phone%20800mAh%205035332%20(Silver)/DSC_9397.jpg"
+    },
+    {
       "title": "Ansmann C 4500mAh 5035352 (Silver)",
       "slug": "ansmann-c-4500mah-5035352-silver",
       "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20C%204500mAh%205035352%20%28Silver%29%20UK.html",
@@ -296,94 +366,6 @@
       "preview": "https://lygte-info.dk/pic/Batteries9V/Znter%20S19%209V%20400mAh%20USB%20(Black-green)/DSC_5970.jpg"
     },
     {
-      "title": "Amazon Basic AA 1900mAh (White)",
-      "slug": "amazon-basic-aa-1900mah-white",
-      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%201900mAh%20%28White%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%201900mAh%20(White)/DSC_8702.jpg"
-    },
-    {
-      "title": "Amazon Basic AA 2000mAh (Black)",
-      "slug": "amazon-basic-aa-2000mah-black",
-      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202000mAh%20%28Black%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%202000mAh%20(Black)/DSC_8664.jpg"
-    },
-    {
-      "title": "Amazon Basic AA 2500mAh (Black)",
-      "slug": "amazon-basic-aa-2500mah-black",
-      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AA%202500mAh%20%28Black%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AA%202500mAh%20(Black)/DSC_9436.jpg"
-    },
-    {
-      "title": "Amazon Basic AAA 750mAh (White)",
-      "slug": "amazon-basic-aaa-750mah-white",
-      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20750mAh%20%28White%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AAA%20750mAh%20(White)/DSC_8672.jpg"
-    },
-    {
-      "title": "Amazon Basic AAA 800mAh (Black)",
-      "slug": "amazon-basic-aaa-800mah-black",
-      "url": "https://lygte-info.dk/review/batteries2012/Amazon%20Basic%20AAA%20800mAh%20%28Black%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Amazon%20Basic%20AAA%20800mAh%20(Black)/DSC_8711.jpg"
-    },
-    {
-      "title": "Ansmann AA 2500mAh (Silver)",
-      "slug": "ansmann-aa-2500mah-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202500mAh%20%28Silver%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202500mAh%20(Silver)/DSC_2156.jpg"
-    },
-    {
-      "title": "Ansmann AA 2850mAh (Silver)",
-      "slug": "ansmann-aa-2850mah-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202850mAh%20(Silver)/DSC_2162.jpg"
-    },
-    {
-      "title": "Ansmann AAA 1100mAh (Silver-blue)",
-      "slug": "ansmann-aaa-1100mah-silver-blue",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%201100mAh%20%28Silver-blue%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%201100mAh%20(Silver-blue)/DSC_8061.jpg"
-    },
-    {
-      "title": "Ansmann AAA 800mAh 5035042 (Silver)",
-      "slug": "ansmann-aaa-800mah-5035042-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20800mAh%205035042%20%28Silver%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20800mAh%205035042%20(Silver)/DSC_9403.jpg"
-    },
-    {
-      "title": "Ansmann AAA Phone 800mAh 5035332 (Silver)",
-      "slug": "ansmann-aaa-phone-800mah-5035332-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20Phone%20800mAh%205035332%20%28Silver%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20Phone%20800mAh%205035332%20(Silver)/DSC_9397.jpg"
-    },
-    {
-      "title": "Ansmann C 4500mAh 5035352 (Silver)",
-      "slug": "ansmann-c-4500mah-5035352-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20C%204500mAh%205035352%20%28Silver%29%20UK.html",
-      "type": "C"
-    },
-    {
-      "title": "Ansmann D 10000mAh 5030642 (Silver)",
-      "slug": "ansmann-d-10000mah-5030642-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20D%2010000mAh%205030642%20%28Silver%29%20UK.html",
-      "type": "D"
-    },
-    {
-      "title": "Ansmann D 8500mAh 5035362 (Silver)",
-      "slug": "ansmann-d-8500mah-5035362-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20D%208500mAh%205035362%20%28Silver%29%20UK.html",
-      "type": "D"
-    },
-    {
       "title": "Arcas AA 2700mAh (Silver-red)",
       "slug": "arcas-aa-2700mah-silver-red",
       "url": "https://lygte-info.dk/review/batteries2012/Arcas%20AA%202700mAh%20%28Silver-red%29%20UK.html",
@@ -599,24 +581,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20800mAh%20Extreme%20%28Silver%29%20UK.html",
       "type": "AAA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AAA%20800mAh%20Extreme%20(Silver)/DSC_8526.jpg"
-    },
-    {
-      "title": "Energizer C 2500mAh NH35 (Silver)",
-      "slug": "energizer-c-2500mah-nh35-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20C%202500mAh%20NH35%20%28Silver%29%20UK.html",
-      "type": "C"
-    },
-    {
-      "title": "Energizer D 2500mAh NH50 (Silver)",
-      "slug": "energizer-d-2500mah-nh50-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20D%202500mAh%20NH50%20%28Silver%29%20UK.html",
-      "type": "D"
-    },
-    {
-      "title": "Enesense C 4300mAh (White)",
-      "slug": "enesense-c-4300mah-white_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Enesense%20C%204300mAh%20%28White%29%20UK.html",
-      "type": "C"
     },
     {
       "title": "Flash AA 4600mAh (Yellow-blue)",
@@ -920,12 +884,6 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Panasonic%20AA%20Evolta%20HHR-3MVT%202050mAh%20(White)/DSC_7949.jpg"
     },
     {
-      "title": "Panasonic Sub-C 3000mAh HHR300SCP (Brown paper)",
-      "slug": "panasonic-sub-c-3000mah-hhr300scp-brown-paper_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Panasonic%20Sub-C%203000mAh%20HHR300SCP%20%28Brown%20paper%29%20UK.html",
-      "type": "C"
-    },
-    {
       "title": "PKCell AA 1300mAh (Green-Silver)",
       "slug": "pkcell-aa-1300mah-green-silver",
       "url": "https://lygte-info.dk/review/batteries2012/PKCell%20AA%201300mAh%20%28Green-Silver%29%20UK.html",
@@ -1022,18 +980,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Sofirn%20AAA%20900mAh%20%28Black-Blue%29%20UK.html",
       "type": "AAA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Sofirn%20AAA%20900mAh%20(Black-Blue)/DSC_0982.jpg"
-    },
-    {
-      "title": "Soshine C 5500mAh (White)",
-      "slug": "soshine-c-5500mah-white_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20C%205500mAh%20%28White%29%20UK.html",
-      "type": "C"
-    },
-    {
-      "title": "Soshine D 11000mAh (White)",
-      "slug": "soshine-d-11000mah-white_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Soshine%20D%2011000mAh%20%28White%29%20UK.html",
-      "type": "D"
     },
     {
       "title": "Sunbeam AA 800mAh (Red-white) CAN",
@@ -1141,12 +1087,6 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Tronic%20AAA%20950mAh%20(Silver-Black)/DSC_9101.jpg"
     },
     {
-      "title": "Turnigy Sub-C 5000mAh (Gray)",
-      "slug": "turnigy-sub-c-5000mah-gray_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Turnigy%20Sub-C%205000mAh%20%28Gray%29%20UK.html",
-      "type": "C"
-    },
-    {
       "title": "UltraCell NiZn AAA 1150mWh (Blue)",
       "slug": "ultracell-nizn-aaa-1150mwh-blue",
       "url": "https://lygte-info.dk/review/batteries2012/UltraCell%20NiZn%20AAA%201150mWh%20%28Blue%29%20UK.html",
@@ -1194,12 +1134,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Varta%20AAA%201000mAh%205703%20%28Green-silver%29%20UK.html",
       "type": "AAA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Varta%20AAA%201000mAh%205703%20(Green-silver)/DSC_9415.jpg"
-    },
-    {
-      "title": "Varta D 3000mAh 56720 (Green-silver)",
-      "slug": "varta-d-3000mah-56720-green-silver_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Varta%20D%203000mAh%2056720%20%28Green-silver%29%20UK.html",
-      "type": "D"
     },
     {
       "title": "Xiaomi ZI5 1800mAh (White or Black)",
@@ -1312,12 +1246,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Duracell%20Ultra%20Power%20AAA%20UK.html",
       "type": "AAA",
       "preview": "https://lygte-info.dk/pic/Batteries2013Primary/Duracell%20Ultra%20Power%20AAA/DSC_4291.jpg"
-    },
-    {
-      "title": "Energizer C E93 (Silver-black)",
-      "slug": "energizer-c-e93-silver-black_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20C%20E93%20%28Silver-black%29%20UK.html",
-      "type": "C"
     },
     {
       "title": "Energizer Ultimate Lithium AA",
@@ -1759,24 +1687,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20AA%20UK.html",
       "type": "AA",
       "preview": "https://lygte-info.dk/pic/Batteries2013Primary/Varta%20High%20Energy%20AA/DSC_3826.jpg"
-    },
-    {
-      "title": "Varta High Energy C 4914",
-      "slug": "varta-high-energy-c-4914_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20C%204914%20UK.html",
-      "type": "C"
-    },
-    {
-      "title": "Varta High Energy D 4920",
-      "slug": "varta-high-energy-d-4920_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Varta%20High%20Energy%20D%204920%20UK.html",
-      "type": "D"
-    },
-    {
-      "title": "Varta LongLife C 4114",
-      "slug": "varta-longlife-c-4114_1",
-      "url": "https://lygte-info.dk/review/batteries2012/Varta%20LongLife%20C%204114%20UK.html",
-      "type": "C"
     },
     {
       "title": "Varta SuperLife AA",
