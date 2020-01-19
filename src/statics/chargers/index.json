@@ -7,7 +7,8 @@
       4,
       6,
       8,
-      12
+      12,
+      16
     ],
     "slots_max_size": [
       1,
@@ -16,7 +17,8 @@
       4,
       6,
       8,
-      12
+      12,
+      16
     ],
     "battery_len_min": [
       0,
@@ -250,6 +252,31 @@
     ]
   },
   "items": [
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Rydbatt%20JBC038-11%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Other/Charger%20Rydbatt%20JBC038-11/DSC_1152.jpg",
+      "title": "Rydbatt JBC038-11",
+      "slug": "rydbatt-jbc038-11",
+      "slots": 16,
+      "slots_max_size": 16,
+      "battery_len_min": 44,
+      "battery_len_max": 50,
+      "battery_d_min": 10,
+      "battery_d_max": 14,
+      "current_all": 0.5,
+      "current_single_max": 0.5,
+      "current_single_min": 0.25,
+      "chemistry": [
+        "NiMH"
+      ],
+      "power": [
+        "12V",
+        "Mains adapter included"
+      ],
+      "extra": [],
+      "rating": 5,
+      "year": 2020
+    },
     {
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-500S%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-500S/DSC_8214.jpg",
