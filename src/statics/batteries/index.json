@@ -1,5 +1,13 @@
 {
-  "filters": {},
+  "filters": {
+    "type": [
+      "9v",
+      "AA",
+      "AAA",
+      "C",
+      "D"
+    ]
+  },
   "items": [
     {
       "title": "Altizure AA 1200mWh LiIon (Brown)",
@@ -56,27 +64,6 @@
       "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
       "type": "AA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202850mAh%20(Silver)/DSC_2162.jpg"
-    },
-    {
-      "title": "Ansmann AAA 1100mAh (Silver-blue)",
-      "slug": "ansmann-aaa-1100mah-silver-blue",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%201100mAh%20%28Silver-blue%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%201100mAh%20(Silver-blue)/DSC_8061.jpg"
-    },
-    {
-      "title": "Ansmann AAA 800mAh 5035042 (Silver)",
-      "slug": "ansmann-aaa-800mah-5035042-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20800mAh%205035042%20%28Silver%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20800mAh%205035042%20(Silver)/DSC_9403.jpg"
-    },
-    {
-      "title": "Ansmann AAA Phone 800mAh 5035332 (Silver)",
-      "slug": "ansmann-aaa-phone-800mah-5035332-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20Phone%20800mAh%205035332%20%28Silver%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20Phone%20800mAh%205035332%20(Silver)/DSC_9397.jpg"
     },
     {
       "title": "Ansmann C 4500mAh 5035352 (Silver)",
@@ -226,144 +213,25 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013Primary/Varta%20LongLife%20C%204114/DSC_0168.jpg"
     },
     {
-      "title": "BTY 9V NiMH 300mAh (Green-Silver)",
-      "slug": "bty-9v-nimh-300mah-green-silver",
-      "url": "https://lygte-info.dk/review/batteries9V/BTY%209V%20NiMH%20300mAh%20%28Green-Silver%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/BTY%209V%20NiMH%20300mAh%20(Green-Silver)/DSC_7217.jpg"
+      "title": "Ansmann AAA 1100mAh (Silver-blue)",
+      "slug": "ansmann-aaa-1100mah-silver-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%201100mAh%20%28Silver-blue%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%201100mAh%20(Silver-blue)/DSC_8061.jpg"
     },
     {
-      "title": "Conrad Energy Endurance NiMH 9V 270mAh",
-      "slug": "conrad-energy-endurance-nimh-9v-270mah",
-      "url": "https://lygte-info.dk/review/batteries9V/Conrad%20Energy%20Endurance%20NiMH%209V%20270mAh%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Conrad%20Energy%20Endurance%20NiMH%209V%20270mAh/DSC_1083.jpg"
+      "title": "Ansmann AAA 800mAh 5035042 (Silver)",
+      "slug": "ansmann-aaa-800mah-5035042-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20800mAh%205035042%20%28Silver%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20800mAh%205035042%20(Silver)/DSC_9403.jpg"
     },
     {
-      "title": "Conrad energy LiIon 9V 500mAh (Blue)",
-      "slug": "conrad-energy-liion-9v-500mah-blue",
-      "url": "https://lygte-info.dk/review/batteries9V/Conrad%20energy%20LiIon%209V%20500mAh%20%28Blue%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Conrad%20energy%20LiIon%209V%20500mAh%20(Blue)/DSC_9897.jpg"
-    },
-    {
-      "title": "Delipow 9V LiIon 800mAh (Yellow-green)",
-      "slug": "delipow-9v-liion-800mah-yellow-green",
-      "url": "https://lygte-info.dk/review/batteries9V/Delipow%209V%20LiIon%20800mAh%20%28Yellow-green%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Delipow%209V%20LiIon%20800mAh%20(Yellow-green)/DSC_2110.jpg"
-    },
-    {
-      "title": "Duracell Recharge Ultra NiMH 9V 170mAh",
-      "slug": "duracell-recharge-ultra-nimh-9v-170mah",
-      "url": "https://lygte-info.dk/review/batteries9V/Duracell%20Recharge%20Ultra%20NiMH%209V%20170mAh%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Duracell%20Recharge%20Ultra%20NiMH%209V%20170mAh/DSC_0716.jpg"
-    },
-    {
-      "title": "Emmerich 9V 9.6V 200mAh (Green)",
-      "slug": "emmerich-9v-9-6v-200mah-green",
-      "url": "https://lygte-info.dk/review/batteries9V/Emmerich%209V%209.6V%20200mAh%20%28Green%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Emmerich%209V%209.6V%20200mAh%20(Green)/DSC_5108.jpg"
-    },
-    {
-      "title": "Energizer 9V recharge 175mA NH22-175 (Silver-black)",
-      "slug": "energizer-9v-recharge-175ma-nh22-175-silver-black",
-      "url": "https://lygte-info.dk/review/batteries9V/Energizer%209V%20recharge%20175mA%20NH22-175%20%28Silver-black%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Energizer%209V%20recharge%20175mA%20NH22-175%20(Silver-black)/DSC_3455.jpg"
-    },
-    {
-      "title": "enesense 9V 200mA (White)",
-      "slug": "enesense-9v-200ma-white",
-      "url": "https://lygte-info.dk/review/batteries9V/enesense%209V%20200mA%20%28White%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/enesense%209V%20200mA%20(White)/DSC_4822.jpg"
-    },
-    {
-      "title": "Fujitsu 9V Alkaline (Gold)",
-      "slug": "fujitsu-9v-alkaline-gold",
-      "url": "https://lygte-info.dk/review/batteries9V/Fujitsu%209V%20Alkaline%20%28Gold%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Fujitsu%209V%20Alkaline%20(Gold)/DSC_0690.jpg"
-    },
-    {
-      "title": "GP 17R9H 9V 9.6V 170mAh (Black)",
-      "slug": "gp-17r9h-9v-9-6v-170mah-black",
-      "url": "https://lygte-info.dk/review/batteries9V/GP%2017R9H%209V%209.6V%20170mAh%20%28Black%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/GP%2017R9H%209V%209.6V%20170mAh%20(Black)/DSC_5107.jpg"
-    },
-    {
-      "title": "GP Recyko+ 9V 150mAh 15R8H (Green-Black)",
-      "slug": "gp-recyko-9v-150mah-15r8h-green-black",
-      "url": "https://lygte-info.dk/review/batteries9V/GP%20Recyko%2B%209V%20150mAh%2015R8H%20%28Green-Black%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/GP%20Recyko+%209V%20150mAh%2015R8H%20(Green-Black)/DSC_0064.jpg"
-    },
-    {
-      "title": "Ikea 9V Alkaliske",
-      "slug": "ikea-9v-alkaliske",
-      "url": "https://lygte-info.dk/review/batteries9V/Ikea%209V%20Alkaliske%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Ikea%209V%20Alkaliske/DSC_4161.jpg"
-    },
-    {
-      "title": "iPowerUS 9V Pro 520mAh (Silver)",
-      "slug": "ipowerus-9v-pro-520mah-silver",
-      "url": "https://lygte-info.dk/review/batteries9V/iPowerUS%209V%20Pro%20520mAh%20%28Silver%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/iPowerUS%209V%20Pro%20520mAh%20(Silver)/DSC_4454.jpg"
-    },
-    {
-      "title": "Naccon 9V Super Heavy Duty (Red)",
-      "slug": "naccon-9v-super-heavy-duty-red",
-      "url": "https://lygte-info.dk/review/batteries9V/Naccon%209V%20Super%20Heavy%20Duty%20%28Red%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Naccon%209V%20Super%20Heavy%20Duty%20(Red)/DSC_8763.jpg"
-    },
-    {
-      "title": "Panasonic 9V ProPower",
-      "slug": "panasonic-9v-propower",
-      "url": "https://lygte-info.dk/review/batteries9V/Panasonic%209V%20ProPower%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Panasonic%209V%20ProPower/DSC_4168.jpg"
-    },
-    {
-      "title": "Powercell 9V Super Heavy Duty (Black-blue)",
-      "slug": "powercell-9v-super-heavy-duty-black-blue",
-      "url": "https://lygte-info.dk/review/batteries9V/Powercell%209V%20Super%20Heavy%20Duty%20%28Black-blue%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Powercell%209V%20Super%20Heavy%20Duty%20(Black-blue)/DSC_8553.jpg"
-    },
-    {
-      "title": "Soshine 9V LiFePO4 320mAh (White)",
-      "slug": "soshine-9v-lifepo4-320mah-white",
-      "url": "https://lygte-info.dk/review/batteries9V/Soshine%209V%20LiFePO4%20320mAh%20%28White%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Soshine%209V%20LiFePO4%20320mAh%20(White)/DSC_7258.jpg"
-    },
-    {
-      "title": "Soshine 9V LiIon 650mAh (White)",
-      "slug": "soshine-9v-liion-650mah-white",
-      "url": "https://lygte-info.dk/review/batteries9V/Soshine%209V%20LiIon%20650mAh%20%28White%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Soshine%209V%20LiIon%20650mAh%20(White)/DSC_7251.jpg"
-    },
-    {
-      "title": "Varta 9V 200mAh (Green)",
-      "slug": "varta-9v-200mah-green",
-      "url": "https://lygte-info.dk/review/batteries9V/Varta%209V%20200mAh%20%28Green%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Varta%209V%20200mAh%20(Green)/DSC_4183.jpg"
-    },
-    {
-      "title": "Znter S19 9V 400mAh USB (Black-green)",
-      "slug": "znter-s19-9v-400mah-usb-black-green",
-      "url": "https://lygte-info.dk/review/batteries9V/Znter%20S19%209V%20400mAh%20USB%20%28Black-green%29%20UK.html",
-      "type": "9v",
-      "preview": "https://lygte-info.dk/pic/Batteries9V/Znter%20S19%209V%20400mAh%20USB%20(Black-green)/DSC_5970.jpg"
+      "title": "Ansmann AAA Phone 800mAh 5035332 (Silver)",
+      "slug": "ansmann-aaa-phone-800mah-5035332-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AAA%20Phone%20800mAh%205035332%20%28Silver%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AAA%20Phone%20800mAh%205035332%20(Silver)/DSC_9397.jpg"
     },
     {
       "title": "Arcas AA 2700mAh (Silver-red)",
@@ -651,6 +519,146 @@
       "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTI%20750mAh%20%28Blue%29%20UK.html",
       "type": "AAA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTI%20750mAh%20(Blue)/DSC_9545.jpg"
+    },
+    {
+      "title": "BTY 9V NiMH 300mAh (Green-Silver)",
+      "slug": "bty-9v-nimh-300mah-green-silver",
+      "url": "https://lygte-info.dk/review/batteries9V/BTY%209V%20NiMH%20300mAh%20%28Green-Silver%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/BTY%209V%20NiMH%20300mAh%20(Green-Silver)/DSC_7217.jpg"
+    },
+    {
+      "title": "Conrad Energy Endurance NiMH 9V 270mAh",
+      "slug": "conrad-energy-endurance-nimh-9v-270mah",
+      "url": "https://lygte-info.dk/review/batteries9V/Conrad%20Energy%20Endurance%20NiMH%209V%20270mAh%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Conrad%20Energy%20Endurance%20NiMH%209V%20270mAh/DSC_1083.jpg"
+    },
+    {
+      "title": "Conrad energy LiIon 9V 500mAh (Blue)",
+      "slug": "conrad-energy-liion-9v-500mah-blue",
+      "url": "https://lygte-info.dk/review/batteries9V/Conrad%20energy%20LiIon%209V%20500mAh%20%28Blue%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Conrad%20energy%20LiIon%209V%20500mAh%20(Blue)/DSC_9897.jpg"
+    },
+    {
+      "title": "Delipow 9V LiIon 800mAh (Yellow-green)",
+      "slug": "delipow-9v-liion-800mah-yellow-green",
+      "url": "https://lygte-info.dk/review/batteries9V/Delipow%209V%20LiIon%20800mAh%20%28Yellow-green%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Delipow%209V%20LiIon%20800mAh%20(Yellow-green)/DSC_2110.jpg"
+    },
+    {
+      "title": "Duracell Recharge Ultra NiMH 9V 170mAh",
+      "slug": "duracell-recharge-ultra-nimh-9v-170mah",
+      "url": "https://lygte-info.dk/review/batteries9V/Duracell%20Recharge%20Ultra%20NiMH%209V%20170mAh%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Duracell%20Recharge%20Ultra%20NiMH%209V%20170mAh/DSC_0716.jpg"
+    },
+    {
+      "title": "Emmerich 9V 9.6V 200mAh (Green)",
+      "slug": "emmerich-9v-9-6v-200mah-green",
+      "url": "https://lygte-info.dk/review/batteries9V/Emmerich%209V%209.6V%20200mAh%20%28Green%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Emmerich%209V%209.6V%20200mAh%20(Green)/DSC_5108.jpg"
+    },
+    {
+      "title": "Energizer 9V recharge 175mA NH22-175 (Silver-black)",
+      "slug": "energizer-9v-recharge-175ma-nh22-175-silver-black",
+      "url": "https://lygte-info.dk/review/batteries9V/Energizer%209V%20recharge%20175mA%20NH22-175%20%28Silver-black%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Energizer%209V%20recharge%20175mA%20NH22-175%20(Silver-black)/DSC_3455.jpg"
+    },
+    {
+      "title": "enesense 9V 200mA (White)",
+      "slug": "enesense-9v-200ma-white",
+      "url": "https://lygte-info.dk/review/batteries9V/enesense%209V%20200mA%20%28White%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/enesense%209V%20200mA%20(White)/DSC_4822.jpg"
+    },
+    {
+      "title": "Fujitsu 9V Alkaline (Gold)",
+      "slug": "fujitsu-9v-alkaline-gold",
+      "url": "https://lygte-info.dk/review/batteries9V/Fujitsu%209V%20Alkaline%20%28Gold%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Fujitsu%209V%20Alkaline%20(Gold)/DSC_0690.jpg"
+    },
+    {
+      "title": "GP 17R9H 9V 9.6V 170mAh (Black)",
+      "slug": "gp-17r9h-9v-9-6v-170mah-black",
+      "url": "https://lygte-info.dk/review/batteries9V/GP%2017R9H%209V%209.6V%20170mAh%20%28Black%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/GP%2017R9H%209V%209.6V%20170mAh%20(Black)/DSC_5107.jpg"
+    },
+    {
+      "title": "GP Recyko+ 9V 150mAh 15R8H (Green-Black)",
+      "slug": "gp-recyko-9v-150mah-15r8h-green-black",
+      "url": "https://lygte-info.dk/review/batteries9V/GP%20Recyko%2B%209V%20150mAh%2015R8H%20%28Green-Black%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/GP%20Recyko+%209V%20150mAh%2015R8H%20(Green-Black)/DSC_0064.jpg"
+    },
+    {
+      "title": "Ikea 9V Alkaliske",
+      "slug": "ikea-9v-alkaliske",
+      "url": "https://lygte-info.dk/review/batteries9V/Ikea%209V%20Alkaliske%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Ikea%209V%20Alkaliske/DSC_4161.jpg"
+    },
+    {
+      "title": "iPowerUS 9V Pro 520mAh (Silver)",
+      "slug": "ipowerus-9v-pro-520mah-silver",
+      "url": "https://lygte-info.dk/review/batteries9V/iPowerUS%209V%20Pro%20520mAh%20%28Silver%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/iPowerUS%209V%20Pro%20520mAh%20(Silver)/DSC_4454.jpg"
+    },
+    {
+      "title": "Naccon 9V Super Heavy Duty (Red)",
+      "slug": "naccon-9v-super-heavy-duty-red",
+      "url": "https://lygte-info.dk/review/batteries9V/Naccon%209V%20Super%20Heavy%20Duty%20%28Red%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Naccon%209V%20Super%20Heavy%20Duty%20(Red)/DSC_8763.jpg"
+    },
+    {
+      "title": "Panasonic 9V ProPower",
+      "slug": "panasonic-9v-propower",
+      "url": "https://lygte-info.dk/review/batteries9V/Panasonic%209V%20ProPower%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Panasonic%209V%20ProPower/DSC_4168.jpg"
+    },
+    {
+      "title": "Powercell 9V Super Heavy Duty (Black-blue)",
+      "slug": "powercell-9v-super-heavy-duty-black-blue",
+      "url": "https://lygte-info.dk/review/batteries9V/Powercell%209V%20Super%20Heavy%20Duty%20%28Black-blue%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Powercell%209V%20Super%20Heavy%20Duty%20(Black-blue)/DSC_8553.jpg"
+    },
+    {
+      "title": "Soshine 9V LiFePO4 320mAh (White)",
+      "slug": "soshine-9v-lifepo4-320mah-white",
+      "url": "https://lygte-info.dk/review/batteries9V/Soshine%209V%20LiFePO4%20320mAh%20%28White%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Soshine%209V%20LiFePO4%20320mAh%20(White)/DSC_7258.jpg"
+    },
+    {
+      "title": "Soshine 9V LiIon 650mAh (White)",
+      "slug": "soshine-9v-liion-650mah-white",
+      "url": "https://lygte-info.dk/review/batteries9V/Soshine%209V%20LiIon%20650mAh%20%28White%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Soshine%209V%20LiIon%20650mAh%20(White)/DSC_7251.jpg"
+    },
+    {
+      "title": "Varta 9V 200mAh (Green)",
+      "slug": "varta-9v-200mah-green",
+      "url": "https://lygte-info.dk/review/batteries9V/Varta%209V%20200mAh%20%28Green%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Varta%209V%20200mAh%20(Green)/DSC_4183.jpg"
+    },
+    {
+      "title": "Znter S19 9V 400mAh USB (Black-green)",
+      "slug": "znter-s19-9v-400mah-usb-black-green",
+      "url": "https://lygte-info.dk/review/batteries9V/Znter%20S19%209V%20400mAh%20USB%20%28Black-green%29%20UK.html",
+      "type": "9v",
+      "preview": "https://lygte-info.dk/pic/Batteries9V/Znter%20S19%209V%20400mAh%20USB%20(Black-green)/DSC_5970.jpg"
     },
     {
       "title": "GoalZero AA 2300mAh (Gray-Black-Green)",
@@ -1139,7 +1147,7 @@
       "title": "Xiaomi ZI5 1800mAh (White or Black)",
       "slug": "xiaomi-zi5-1800mah-white-or-black",
       "url": "https://lygte-info.dk/review/batteries2012/Xiaomi%20ZI5%201800mAh%20%28White%20or%20Black%29%20UK.html",
-      "type": null,
+      "type": "AA",
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Xiaomi%20ZI5%201800mAh%20(White%20or%20Black)/DSC_5070.jpg"
     },
     {
