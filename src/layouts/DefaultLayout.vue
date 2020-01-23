@@ -36,7 +36,7 @@
       <q-list>
         <q-item-label header>Sections</q-item-label>
 
-        <q-item clickable to="/">
+        <q-item clickable to="/chargers">
           <q-item-section avatar>
             <q-icon name="fas fa-charging-station" />
           </q-item-section>

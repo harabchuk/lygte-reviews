@@ -1,8 +1,10 @@
 
+const defaultLayout = import('layouts/DefaultLayout.vue');
+
 const routes = [
   {
-    path: '/',
-    component: () => import('layouts/DefaultLayout.vue'),
+    path: '/chargers',
+    component: () => defaultLayout,
     children: [
       { 
         name: 'chargers',
@@ -21,17 +23,16 @@ const routes = [
           backButton: true,
         },
       },
-      { 
-        name: 'battery-types',
-        path: 'battery-types',
-        component: () => import('pages/BatteryTypes.vue'),
-        meta: {
-          title: 'Batteries',
-        },
-      },
+      
+    ],
+  },
+  {
+    path: '/batteries',
+    component: () => defaultLayout,
+    children: [
       { 
         name: 'batteries',
-        path: 'batteries',
+        path: '',
         component: () => import('pages/Batteries.vue'),
         meta: {
           title: 'Batteries',
@@ -46,9 +47,15 @@ const routes = [
           backButton: true,
         },
       },
+    ],
+  },
+  {
+    path: '/notready',
+    component: () => defaultLayout,
+    children: [
       { 
         name: 'notready',
-        path: 'notready/:id', 
+        path: ':id', 
         component: () => import('pages/NotReady.vue'),
         meta: {
           title: 'Not ready yet',
