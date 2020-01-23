@@ -9,6 +9,8 @@
 
     <div v-if="isIndexLoaded">
 
+      <BatteryFilters />
+
       <q-separator class="q-mb-xs" />
 
       <BatteriesList />
@@ -20,11 +22,13 @@
 <script>
 import { mapActions, mapGetters } from 'vuex';
 import BatteriesList from '../components/BatteriesList';
+import BatteryFilters from '../components/BatteryFilters';
 
 export default {
   name: 'Batteries',
   components: {
     BatteriesList,
+    BatteryFilters,
   },
   async mounted() {
     await this.fetchIndex();
