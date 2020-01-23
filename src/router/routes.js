@@ -35,7 +35,7 @@ const routes = [
         path: '',
         component: () => import('pages/Batteries.vue'),
         meta: {
-          title: 'Batteries',
+          title: 'Batteries (AA/AAA/C/D/9V)',
         },
       },
       { 

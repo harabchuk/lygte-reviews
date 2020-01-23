@@ -51,8 +51,18 @@
             <q-icon name="fas fa-battery-three-quarters" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Batteries</q-item-label>
-            <q-item-label caption>Rechargarble batteries reviews</q-item-label>
+            <q-item-label>Consumer Batteries</q-item-label>
+            <q-item-label caption>AA/AAA/C/D/9V rechargarble and non rechargarble</q-item-label>
+          </q-item-section>
+        </q-item>
+
+         <q-item clickable to="/notready/1">
+          <q-item-section avatar>
+            <q-icon name="fas fa-battery-three-quarters" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>LiIon Batteries</q-item-label>
+            <q-item-label caption>18650/18360/26500 etc. LiIon batteries</q-item-label>
           </q-item-section>
         </q-item>
 
