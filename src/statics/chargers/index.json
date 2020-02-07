@@ -95,7 +95,6 @@
       27,
       32,
       33,
-      36,
       50,
       99
     ],
@@ -253,6 +252,69 @@
   },
   "items": [
     {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20M8%20Battery%20Charger%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Dlyfull/M8%20Battery%20Charger/DSC_1543.jpg",
+      "title": "Dlyfull M8 Battery Charger",
+      "slug": "dlyfull-m8-battery-charger",
+      "slots": 8,
+      "slots_max_size": 2,
+      "battery_len_min": 31,
+      "battery_len_max": 77,
+      "battery_d_min": 10,
+      "battery_d_max": 32,
+      "current_all": 1.0,
+      "current_single_max": 2.0,
+      "current_single_min": 0.2,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V",
+        "LiIon 4.35V",
+        "LiFePO4"
+      ],
+      "power": [
+        "12V",
+        "Mains adapter included"
+      ],
+      "extra": [
+        "V",
+        "mAh"
+      ],
+      "rating": 6,
+      "year": 2020
+    },
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20T5%20Test%20Charger%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Dlyfull/T5%20Test%20Charger/DSC_1522.jpg",
+      "title": "Dlyfull T5 Test Charger",
+      "slug": "dlyfull-t5-test-charger",
+      "slots": 4,
+      "slots_max_size": 2,
+      "battery_len_min": 33,
+      "battery_len_max": 71,
+      "battery_d_min": 10,
+      "battery_d_max": 32,
+      "current_all": 1.0,
+      "current_single_max": 2.0,
+      "current_single_min": 0.5,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V"
+      ],
+      "power": [
+        "12V",
+        "Mains adapter included"
+      ],
+      "extra": [
+        "V",
+        "mAh",
+        "Analyzer",
+        "Power Bank",
+        "IR"
+      ],
+      "rating": 6,
+      "year": 2020
+    },
+    {
       "url": "https://lygte-info.dk/review/Review%20Charger%20Rydbatt%20JBC038-11%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Rydbatt%20JBC038-11/DSC_1152.jpg",
       "title": "Rydbatt JBC038-11",
@@ -287,7 +349,7 @@
       "battery_len_min": 32,
       "battery_len_max": 74,
       "battery_d_min": 10,
-      "battery_d_max": 36,
+      "battery_d_max": 32,
       "current_all": 1.0,
       "current_single_max": 2.0,
       "current_single_min": 0.5,

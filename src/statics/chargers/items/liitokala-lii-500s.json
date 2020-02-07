@@ -9,7 +9,7 @@
   "battery_len_min": 32,
   "battery_len_max": 74,
   "battery_d_min": 10,
-  "battery_d_max": 36,
+  "battery_d_max": 32,
   "current_all": 1.0,
   "current_single_max": 2.0,
   "current_single_min": 0.5,

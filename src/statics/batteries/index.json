@@ -59,13 +59,6 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202500mAh%20(Silver)/DSC_2156.jpg"
     },
     {
-      "title": "Ansmann AA 2850mAh (Silver)",
-      "slug": "ansmann-aa-2850mah-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202850mAh%20(Silver)/DSC_2162.jpg"
-    },
-    {
       "title": "Ansmann C 4500mAh 5035352 (Silver)",
       "slug": "ansmann-c-4500mah-5035352-silver",
       "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20C%204500mAh%205035352%20%28Silver%29%20UK.html",
@@ -211,6 +204,13 @@
       "url": "https://lygte-info.dk/review/batteries2012/Varta%20LongLife%20C%204114%20UK.html",
       "type": "C",
       "preview": "https://lygte-info.dk/pic/Batteries2013Primary/Varta%20LongLife%20C%204114/DSC_0168.jpg"
+    },
+    {
+      "title": "Ansmann AA 2850mAh (Silver)",
+      "slug": "ansmann-aa-2850mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Ansmann%20AA%202850mAh%20%28Silver%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Ansmann%20AA%202850mAh%20(Silver)/DSC_2162.jpg"
     },
     {
       "title": "Ansmann AAA 1100mAh (Silver-blue)",
@@ -437,90 +437,6 @@
       "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AA%202000mAh%20(Silver)/DSC_9413.jpg"
     },
     {
-      "title": "Energizer AAA 500mAh Universal (Green)",
-      "slug": "energizer-aaa-500mah-universal-green",
-      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20500mAh%20Universal%20%28Green%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AAA%20500mAh%20Universal%20(Green)/DSC_8683.jpg"
-    },
-    {
-      "title": "Energizer AAA 800mAh Extreme (Silver)",
-      "slug": "energizer-aaa-800mah-extreme-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20800mAh%20Extreme%20%28Silver%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AAA%20800mAh%20Extreme%20(Silver)/DSC_8526.jpg"
-    },
-    {
-      "title": "Flash AA 4600mAh (Yellow-blue)",
-      "slug": "flash-aa-4600mah-yellow-blue",
-      "url": "https://lygte-info.dk/review/batteries2012/Flash%20AA%204600mAh%20%28Yellow-blue%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Flash%20AA%204600mAh%20(Yellow-blue)/DSC_5871.jpg"
-    },
-    {
-      "title": "Fujitsu AA HR-3UTA 1900mAh (White)",
-      "slug": "fujitsu-aa-hr-3uta-1900mah-white",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTA%201900mAh%20%28White%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTA%201900mAh%20(White)/DSC_5056.jpg"
-    },
-    {
-      "title": "Fujitsu AA HR-3UTC 1900mAh (White)",
-      "slug": "fujitsu-aa-hr-3utc-1900mah-white",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTC%201900mAh%20%28White%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTC%201900mAh%20(White)/DSC_8326.jpg"
-    },
-    {
-      "title": "Fujitsu AA HR-3UTHA 2400mAh (Silver)",
-      "slug": "fujitsu-aa-hr-3utha-2400mah-silver",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHA%202400mAh%20%28Silver%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHA%202400mAh%20(Silver)/DSC_5050.jpg"
-    },
-    {
-      "title": "Fujitsu AA HR-3UTHC 2450mAh (Black)",
-      "slug": "fujitsu-aa-hr-3uthc-2450mah-black",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHC%202450mAh%20(Black)/DSC_8338.jpg"
-    },
-    {
-      "title": "Fujitsu AA HR-3UTHC 2450mAh (Black) 2019",
-      "slug": "fujitsu-aa-hr-3uthc-2450mah-black-2019",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%202019%20UK.html",
-      "type": "AA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHC%202450mAh%20(Black)%202019/DSC_7129.jpg"
-    },
-    {
-      "title": "Fujitsu AAA HR-4UAEU 930mAh (Silver-red)",
-      "slug": "fujitsu-aaa-hr-4uaeu-930mah-silver-red",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UAEU%20930mAh%20%28Silver-red%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UAEU%20930mAh%20(Silver-red)/DSC_8509.jpg"
-    },
-    {
-      "title": "Fujitsu AAA HR-4UTC 750mAh (White)",
-      "slug": "fujitsu-aaa-hr-4utc-750mah-white",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTC%20750mAh%20%28White%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTC%20750mAh%20(White)/DSC_8332.jpg"
-    },
-    {
-      "title": "Fujitsu AAA HR-4UTHC 950mAh (Black)",
-      "slug": "fujitsu-aaa-hr-4uthc-950mah-black",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTHC%20950mAh%20%28Black%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTHC%20950mAh%20(Black)/DSC_8344.jpg"
-    },
-    {
-      "title": "Fujitsu AAA HR-4UTI 750mAh (Blue)",
-      "slug": "fujitsu-aaa-hr-4uti-750mah-blue",
-      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTI%20750mAh%20%28Blue%29%20UK.html",
-      "type": "AAA",
-      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTI%20750mAh%20(Blue)/DSC_9545.jpg"
-    },
-    {
       "title": "BTY 9V NiMH 300mAh (Green-Silver)",
       "slug": "bty-9v-nimh-300mah-green-silver",
       "url": "https://lygte-info.dk/review/batteries9V/BTY%209V%20NiMH%20300mAh%20%28Green-Silver%29%20UK.html",
@@ -659,6 +575,90 @@
       "url": "https://lygte-info.dk/review/batteries9V/Znter%20S19%209V%20400mAh%20USB%20%28Black-green%29%20UK.html",
       "type": "9v",
       "preview": "https://lygte-info.dk/pic/Batteries9V/Znter%20S19%209V%20400mAh%20USB%20(Black-green)/DSC_5970.jpg"
+    },
+    {
+      "title": "Energizer AAA 500mAh Universal (Green)",
+      "slug": "energizer-aaa-500mah-universal-green",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20500mAh%20Universal%20%28Green%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AAA%20500mAh%20Universal%20(Green)/DSC_8683.jpg"
+    },
+    {
+      "title": "Energizer AAA 800mAh Extreme (Silver)",
+      "slug": "energizer-aaa-800mah-extreme-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Energizer%20AAA%20800mAh%20Extreme%20%28Silver%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Energizer%20AAA%20800mAh%20Extreme%20(Silver)/DSC_8526.jpg"
+    },
+    {
+      "title": "Flash AA 4600mAh (Yellow-blue)",
+      "slug": "flash-aa-4600mah-yellow-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Flash%20AA%204600mAh%20%28Yellow-blue%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Flash%20AA%204600mAh%20(Yellow-blue)/DSC_5871.jpg"
+    },
+    {
+      "title": "Fujitsu AA HR-3UTA 1900mAh (White)",
+      "slug": "fujitsu-aa-hr-3uta-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTA%201900mAh%20%28White%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTA%201900mAh%20(White)/DSC_5056.jpg"
+    },
+    {
+      "title": "Fujitsu AA HR-3UTC 1900mAh (White)",
+      "slug": "fujitsu-aa-hr-3utc-1900mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTC%201900mAh%20%28White%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTC%201900mAh%20(White)/DSC_8326.jpg"
+    },
+    {
+      "title": "Fujitsu AA HR-3UTHA 2400mAh (Silver)",
+      "slug": "fujitsu-aa-hr-3utha-2400mah-silver",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHA%202400mAh%20%28Silver%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHA%202400mAh%20(Silver)/DSC_5050.jpg"
+    },
+    {
+      "title": "Fujitsu AA HR-3UTHC 2450mAh (Black)",
+      "slug": "fujitsu-aa-hr-3uthc-2450mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHC%202450mAh%20(Black)/DSC_8338.jpg"
+    },
+    {
+      "title": "Fujitsu AA HR-3UTHC 2450mAh (Black) 2019",
+      "slug": "fujitsu-aa-hr-3uthc-2450mah-black-2019",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AA%20HR-3UTHC%202450mAh%20%28Black%29%202019%20UK.html",
+      "type": "AA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AA%20HR-3UTHC%202450mAh%20(Black)%202019/DSC_7129.jpg"
+    },
+    {
+      "title": "Fujitsu AAA HR-4UAEU 930mAh (Silver-red)",
+      "slug": "fujitsu-aaa-hr-4uaeu-930mah-silver-red",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UAEU%20930mAh%20%28Silver-red%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UAEU%20930mAh%20(Silver-red)/DSC_8509.jpg"
+    },
+    {
+      "title": "Fujitsu AAA HR-4UTC 750mAh (White)",
+      "slug": "fujitsu-aaa-hr-4utc-750mah-white",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTC%20750mAh%20%28White%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTC%20750mAh%20(White)/DSC_8332.jpg"
+    },
+    {
+      "title": "Fujitsu AAA HR-4UTHC 950mAh (Black)",
+      "slug": "fujitsu-aaa-hr-4uthc-950mah-black",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTHC%20950mAh%20%28Black%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTHC%20950mAh%20(Black)/DSC_8344.jpg"
+    },
+    {
+      "title": "Fujitsu AAA HR-4UTI 750mAh (Blue)",
+      "slug": "fujitsu-aaa-hr-4uti-750mah-blue",
+      "url": "https://lygte-info.dk/review/batteries2012/Fujitsu%20AAA%20HR-4UTI%20750mAh%20%28Blue%29%20UK.html",
+      "type": "AAA",
+      "preview": "https://lygte-info.dk/pic/Batteries2013NiMH/Fujitsu%20AAA%20HR-4UTI%20750mAh%20(Blue)/DSC_9545.jpg"
     },
     {
       "title": "GoalZero AA 2300mAh (Gray-Black-Green)",
