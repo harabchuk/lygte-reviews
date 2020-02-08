@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Brillipower 26650 4000mAh (Black) UK.html",
   "title": "Brillipower 26650 4000mAh (Black)",
   "slug": "brillipower-26650-4000mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "LB",
   "rated_mah": 4000,
-  "prot": "5.7",
-  "year": "5-2014",
+  "prot": "3.0 - 6.0",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Brillipower%2026650%204000mAh%20(Black)/DSC_5742.jpg"
 }

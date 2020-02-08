@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-30Q 3000mAh (Pink) UK.html",
   "title": "Samsung INR18650-30Q 3000mAh (Pink)",
   "slug": "samsung-inr18650-30q-3000mah-pink",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "9-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-30Q%203000mAh%20(Pink)/DSC_2344.jpg"
 }

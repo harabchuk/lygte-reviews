@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 18650 3200mAh (Black) 2014 UK.html",
   "title": "Keeppower 18650 3200mAh (Black) 2014",
   "slug": "keeppower-18650-3200mah-black-2014",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3200,
-  "prot": "7.5",
-  "year": "1-2014",
+  "rated_mah": 3000,
+  "prot": "6.0 - 10",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2018650%203200mAh%20(Black)%202014/DSC_4824.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Soshine 16340 RCR-123 700mAh (Black) UK.html",
   "title": "Soshine 16340 RCR-123 700mAh (Black)",
   "slug": "soshine-16340-rcr-123-700mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Soshine%2016340%20RCR-123%20700mAh%20(Black)/DSC_8671.jpg"
 }

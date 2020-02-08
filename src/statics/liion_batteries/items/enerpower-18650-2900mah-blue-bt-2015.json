@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/EnerPower+ 18650 2900mAh (Blue) BT 2015 UK.html",
   "title": "EnerPower+ 18650 2900mAh (Blue) BT 2015",
   "slug": "enerpower-18650-2900mah-blue-bt-2015",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2900,
-  "prot": "10",
-  "year": "3-2015",
+  "rated_mah": 3000,
+  "prot": "> 10",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/EnerPower+%2018650%202900mAh%20(Blue)%20BT%202015/DSC_9066.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR18650 2800mAh (Black) 2018 UK.html",
   "title": "Vapcell INR18650 2800mAh (Black)",
   "slug": "vapcell-inr18650-2800mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2800,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "9-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR18650%202800mAh%20(Black)%202018/DSC_2106.jpg"
 }

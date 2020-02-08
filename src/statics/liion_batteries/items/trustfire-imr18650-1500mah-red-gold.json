@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/TrustFire IMR18650 1500mAh (Red-gold) UK.html",
   "title": "TrustFire IMR18650 1500mAh (Red-gold)",
   "slug": "trustfire-imr18650-1500mah-red-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/TrustFire%20IMR18650%201500mAh%20(Red-gold)/DSC_8954.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Ampsplus INR18650 3000mAh (Black) UK.html",
   "title": "Ampsplus INR18650 3000mAh (Black)",
   "slug": "ampsplus-inr18650-3000mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "9-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Ampsplus%20INR18650%203000mAh%20(Black)/DSC_2118.jpg"
 }

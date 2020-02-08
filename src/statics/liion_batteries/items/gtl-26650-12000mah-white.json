@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/GTL 26650 12000mAh (White) UK.html",
   "title": "GTL 26650 12000mAh (White)",
   "slug": "gtl-26650-12000mah-white",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 12000,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "2-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/GTL%2026650%2012000mAh%20(White)/DSC_8590.jpg"
 }

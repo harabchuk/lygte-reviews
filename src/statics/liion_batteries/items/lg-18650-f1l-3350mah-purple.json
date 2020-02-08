@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 F1L 3350mAh (Purple) UK.html",
   "title": "LG 18650 F1L 3350mAh (Purple)",
   "slug": "lg-18650-f1l-3350mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3350,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20F1L%203350mAh%20(Purple)/DSC_7366.jpg"
 }

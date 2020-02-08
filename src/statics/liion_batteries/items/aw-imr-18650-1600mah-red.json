@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AW IMR 18650 1600mAh (Red) UK.html",
   "title": "AW IMR 18650 1600mAh (Red)",
   "slug": "aw-imr-18650-1600mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 1600,
+  "rated_mah": 1500,
   "prot": "na",
-  "year": "12-2011",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AW%20IMR%2018650%201600mAh%20(Red)/DSC_0351.jpg"
 }

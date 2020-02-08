@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-15M 1500mAh (Cyan) UK.html",
   "title": "Samsung INR18650-15M 1500mAh (Cyan)",
   "slug": "samsung-inr18650-15m-1500mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-15M%201500mAh%20(Cyan)/DSC_7242.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 20650 HG6 3000mAh (Blue) UK.html",
   "title": "LG 20650 HG6 3000mAh (Blue)",
   "slug": "lg-20650-hg6-3000mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2020650%20HG6%203000mAh%20(Blue)/DSC_5155.jpg"
 }

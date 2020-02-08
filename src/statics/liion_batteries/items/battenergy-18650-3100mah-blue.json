@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/BattEnergy 18650 3100mAh (Blue) UK.html",
   "title": "BattEnergy 18650 3100mAh (Blue)",
   "slug": "battenergy-18650-3100mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3100,
-  "prot": "9.4",
-  "year": "2-2013",
+  "rated_mah": 3000,
+  "prot": "6.0 - 10",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/BattEnergy%2018650%203100mAh%20(Blue)/DSC_1631.jpg"
 }

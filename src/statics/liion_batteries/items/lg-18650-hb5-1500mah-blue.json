@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HB5 1500mAh (Blue) UK.html",
   "title": "LG 18650 HB5 1500mAh (Blue)",
   "slug": "lg-18650-hb5-1500mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HB5%201500mAh%20(Blue)/DSC_7382.jpg"
 }

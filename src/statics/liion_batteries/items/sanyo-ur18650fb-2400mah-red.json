@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18650FB 2400mAh (Red) UK.html",
   "title": "Sanyo UR18650FB 2400mAh (Red)",
   "slug": "sanyo-ur18650fb-2400mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2400,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18650FB%202400mAh%20(Red)/DSC_7344.jpg"
 }

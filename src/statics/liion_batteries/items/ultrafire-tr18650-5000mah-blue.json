@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire TR18650 5000mAh (Blue) UK.html",
   "title": "UltraFire TR18650 5000mAh (Blue)",
   "slug": "ultrafire-tr18650-5000mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 5000,
   "prot": "na",
-  "year": "4-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20TR18650%205000mAh%20(Blue)/DSC_5402.jpg"
 }

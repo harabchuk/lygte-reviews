@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/A123 ANR26650M1A 2300mAh (Green) UK.html",
   "title": "A123 ANR26650M1A 2300mAh (Green)",
   "slug": "a123-anr26650m1a-2300mah-green",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 2300,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/A123%20ANR26650M1A%202300mAh%20(Green)/DSC_7313.jpg"
 }

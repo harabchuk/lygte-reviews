@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Windyfire 18650 2600mAh (Green) UK.html",
   "title": "Windyfire 18650 2600mAh (Green)",
   "slug": "windyfire-18650-2600mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "6-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Windyfire%2018650%202600mAh%20(Green)/DSC_5917.jpg"
 }

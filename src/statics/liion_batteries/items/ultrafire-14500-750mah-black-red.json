@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire 14500 750mAh (Black-red) UK.html",
   "title": "UltraFire 14500 750mAh (Black-red)",
   "slug": "ultrafire-14500-750mah-black-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
-  "rated_mah": 750,
-  "prot": "4",
-  "year": "5-2017",
+  "rated_mah": 1000,
+  "prot": "3.0 - 6.0",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/UltraFire%2014500%20750mAh%20(Black-red)/DSC_9421.jpg"
 }

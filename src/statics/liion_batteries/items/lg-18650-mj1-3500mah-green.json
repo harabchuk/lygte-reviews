@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 MJ1 3500mAh (Green) UK.html",
   "title": "LG 18650 MJ1 3500mAh (Green)",
   "slug": "lg-18650-mj1-3500mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3500,
   "prot": "na",
-  "year": "1-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20MJ1%203500mAh%20(Green)/DSC_3672.jpg"
 }

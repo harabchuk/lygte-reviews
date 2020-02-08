@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 26650 4000mAh (Black) 2014 UK.html",
   "title": "Keeppower 26650 4000mAh (Black) 2014",
   "slug": "keeppower-26650-4000mah-black-2014",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "LB",
   "rated_mah": 4000,
-  "prot": "High",
-  "year": "11-2013",
+  "prot": "na",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2026650%204000mAh%20(Black)%202014/DSC_4437.jpg"
 }

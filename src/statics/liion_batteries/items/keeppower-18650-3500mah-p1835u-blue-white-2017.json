@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 18650 3500mAh P1835U (Blue-white) 2017 UK.html",
   "title": "Keeppower 18650 3500mAh P1835U (Blue-white) 2017",
   "slug": "keeppower-18650-3500mah-p1835u-blue-white-2017",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 3500,
-  "prot": "6.1",
-  "year": "9-2017",
+  "prot": "6.0 - 10",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2018650%203500mAh%20P1835U%20(Blue-white)%202017/DSC_2637.jpg"
 }

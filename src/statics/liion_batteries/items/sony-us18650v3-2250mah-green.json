@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US18650V3 2250mAh (Green) UK.html",
   "title": "Sony US18650V3 2250mAh (Green)",
   "slug": "sony-us18650v3-2250mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2250,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sony%20US18650V3%202250mAh%20(Green)/DSC_9655.jpg"
 }

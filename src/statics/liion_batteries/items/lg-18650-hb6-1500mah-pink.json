@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HB6 1500mAh (Pink) UK.html",
   "title": "LG 18650 HB6 1500mAh (Pink)",
   "slug": "lg-18650-hb6-1500mah-pink",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HB6%201500mAh%20(Pink)/DSC_5180.jpg"
 }

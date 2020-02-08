@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enerpower+ 18650 3000mAh (Gray) bt UK.html",
   "title": "Enerpower+ 18650 3000mAh (Gray) bt",
   "slug": "enerpower-18650-3000mah-gray-bt",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 3000,
-  "prot": "9.9",
-  "year": "2-2016",
+  "prot": "6.0 - 10",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enerpower+%2018650%203000mAh%20(Gray)%20bt/DSC_3699.jpg"
 }

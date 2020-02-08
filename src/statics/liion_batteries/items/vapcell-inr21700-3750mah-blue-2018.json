@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR21700 3750mAh (Blue) 2018 UK.html",
   "title": "Vapcell INR21700 3750mAh (Blue) 2018",
   "slug": "vapcell-inr21700-3750mah-blue-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
-  "rated_mah": 3750,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "11-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR21700%203750mAh%20(Blue)%202018/DSC_3691.jpg"
 }

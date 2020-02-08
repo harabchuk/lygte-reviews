@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire BRC26650 7800mAh (Red) UK.html",
   "title": "UltraFire BRC26650 7800mAh (Red)",
   "slug": "ultrafire-brc26650-7800mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 7800,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "2-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20BRC26650%207800mAh%20(Red)/DSC_8596.jpg"
 }

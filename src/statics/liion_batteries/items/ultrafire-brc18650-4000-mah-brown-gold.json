@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire BRC18650 4000 mAh (Brown-Gold) UK.html",
   "title": "UltraFire BRC18650 4000 mAh (Brown-Gold)",
   "slug": "ultrafire-brc18650-4000-mah-brown-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 4000,
-  "prot": "4.1",
-  "year": "1-2012",
+  "prot": "3.0 - 6.0",
+  "year": 2012,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20BRC18650%204000%20mAh%20(Brown-Gold)/DSC_0984.jpg"
 }

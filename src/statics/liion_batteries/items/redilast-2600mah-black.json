@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/RediLast 2600mAh (Black) UK.html",
   "title": "RediLast 2600mAh (Black)",
   "slug": "redilast-2600mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "LB",
-  "rated_mah": 2600,
-  "prot": "8.4",
-  "year": "12-2011",
+  "rated_mah": 2500,
+  "prot": "6.0 - 10",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/RediLast%202600mAh%20(Black)/DSC_0461.jpg"
 }

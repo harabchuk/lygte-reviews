@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/SkyRay SR14500 900mAh (Yellow) UK.html",
   "title": "SkyRay SR14500 900mAh (Yellow)",
   "slug": "skyray-sr14500-900mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
-  "rated_mah": 900,
+  "rated_mah": 1000,
   "prot": "na",
-  "year": "6-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/SkyRay%20SR14500%20900mAh%20(Yellow)/DSC_0657.jpg"
 }

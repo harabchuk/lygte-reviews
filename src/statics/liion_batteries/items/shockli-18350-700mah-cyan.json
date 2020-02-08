@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 18350 700mAh (Cyan) UK.html",
   "title": "Shockli 18350 700mAh (Cyan)",
   "slug": "shockli-18350-700mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18350",
   "top": "flat",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Shockli%2018350%20700mAh%20(Cyan)/DSC_9940.jpg"
 }

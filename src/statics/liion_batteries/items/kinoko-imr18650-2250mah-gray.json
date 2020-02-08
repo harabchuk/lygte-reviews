@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Kinoko IMR18650 2250mAh (Gray) UK.html",
   "title": "Kinoko IMR18650 2250mAh (Gray)",
   "slug": "kinoko-imr18650-2250mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2250,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "9-2013",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Kinoko%20IMR18650%202250mAh%20(Gray)/DSC_3913.jpg"
 }

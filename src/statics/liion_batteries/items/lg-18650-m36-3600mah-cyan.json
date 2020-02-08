@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 M36 3600mAh (Cyan) UK.html",
   "title": "LG 18650 M36 3600mAh (Cyan)",
   "slug": "lg-18650-m36-3600mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3600,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20M36%203600mAh%20(Cyan)/DSC_5168.jpg"
 }

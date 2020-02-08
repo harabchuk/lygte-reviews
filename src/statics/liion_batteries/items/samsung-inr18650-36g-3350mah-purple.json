@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-36G 3350mAh (Purple) UK.html",
   "title": "Samsung INR18650-36G 3350mAh (Purple)",
   "slug": "samsung-inr18650-36g-3350mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3350,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "11-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-36G%203350mAh%20(Purple)/DSC_3734.jpg"
 }

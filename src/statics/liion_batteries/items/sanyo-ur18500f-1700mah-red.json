@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18500F 1700mAh (Red) UK.html",
   "title": "Sanyo UR18500F 1700mAh (Red)",
   "slug": "sanyo-ur18500f-1700mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18500",
   "top": "flat",
-  "rated_mah": 1700,
+  "rated_mah": 1500,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18500F%201700mAh%20(Red)/DSC_9668.jpg"
 }

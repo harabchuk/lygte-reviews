@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LiitoKala INR26650-50A 5000mAh (Black) UK.html",
   "title": "LiitoKala INR26650-50A 5000mAh (Blak)",
   "slug": "liitokala-inr26650-50a-5000mah-blak",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
   "rated_mah": 5000,
   "prot": "na",
-  "year": "8-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LiitoKala%20INR26650-50A%205000mAh%20(Black)/DSC_1560.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 E1 2100mAh (Brown) UK.html",
   "title": "LG 18650 E1 2100mAh (Brown)",
   "slug": "lg-18650-e1-2100mah-brown",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "12-2011",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20E1%202100mAh%20(Brown)/DSC_0500.jpg"
 }

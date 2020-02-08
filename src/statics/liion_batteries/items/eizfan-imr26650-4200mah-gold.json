@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Eizfan IMR26650 4200mAh (Gold) UK.html",
   "title": "Eizfan IMR26650 4200mAh (Gold)",
   "slug": "eizfan-imr26650-4200mah-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 4200,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "12-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Eizfan%20IMR26650%204200mAh%20(Gold)/DSC_8515.jpg"
 }

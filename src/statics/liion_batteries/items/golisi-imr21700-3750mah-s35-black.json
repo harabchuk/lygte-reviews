@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Golisi IMR21700 3750mAh S35 (Black) UK.html",
   "title": "Golisi IMR21700 3750mAh S35 (Black)",
   "slug": "golisi-imr21700-3750mah-s35-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
-  "rated_mah": 3750,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "11-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Golisi%20IMR21700%203750mAh%20S35%20(Black)/DSC_5204.jpg"
 }

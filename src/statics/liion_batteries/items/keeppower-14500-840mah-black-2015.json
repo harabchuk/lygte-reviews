@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 14500 840mAh (Black) 2015 UK.html",
   "title": "Keeppower 14500 840mAh (Black) 2015",
   "slug": "keeppower-14500-840mah-black-2015",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
-  "rated_mah": 840,
-  "prot": "4.9",
-  "year": "7-2015",
+  "rated_mah": 1000,
+  "prot": "3.0 - 6.0",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Keeppower%2014500%20840mAh%20(Black)%202015/DSC_1096.jpg"
 }

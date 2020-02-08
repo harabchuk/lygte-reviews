@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 20700 3200mAh (Orange) 2018 UK.html",
   "title": "Shockli 20700 3200mAh (Orange)",
   "slug": "shockli-20700-3200mah-orange",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
-  "rated_mah": 3200,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "8-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Shockli%2020700%203200mAh%20(Orange)%202018/DSC_1283.jpg"
 }

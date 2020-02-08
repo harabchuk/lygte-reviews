@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Evva 18650 3400mAh (Black) UK.html",
   "title": "Evva 18650 3400mAh (Black)",
   "slug": "evva-18650-3400mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3400,
-  "prot": "8.1",
-  "year": "7-2015",
+  "rated_mah": 3500,
+  "prot": "6.0 - 10",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Evva%2018650%203400mAh%20(Black)/DSC_1174.jpg"
 }

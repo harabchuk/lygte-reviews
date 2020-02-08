@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Spark 18650 2600 mAh (Black) UK.html",
   "title": "Spark 18650 2600 mAh (Black)",
   "slug": "spark-18650-2600-mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2600,
-  "prot": "6.4",
-  "year": "12-2011",
+  "rated_mah": 2500,
+  "prot": "6.0 - 10",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Spark%2018650%202600%20mAh%20(Black)/DSC_0308.jpg"
 }

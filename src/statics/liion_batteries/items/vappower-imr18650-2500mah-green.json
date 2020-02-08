@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vappower IMR18650 2500mAh (Green) UK.html",
   "title": "Vappower IMR18650 2500mAh (Green)",
   "slug": "vappower-imr18650-2500mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "5-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vappower%20IMR18650%202500mAh%20(Green)/DSC_0129.jpg"
 }

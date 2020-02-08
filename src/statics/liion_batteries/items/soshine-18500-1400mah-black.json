@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Soshine 18500 1400mAh (Black) UK.html",
   "title": "Soshine 18500 1400mAh (Black)",
   "slug": "soshine-18500-1400mah-black",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "18500",
   "top": "LB",
-  "rated_mah": 1400,
-  "prot": "4.8",
-  "year": "3-2017",
+  "rated_mah": 1500,
+  "prot": "3.0 - 6.0",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Soshine%2018500%201400mAh%20(Black)/DSC_8664.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-13BM 1300mAh (Pink) UK.html",
   "title": "Samsung INR18650-13BM 1300mAh (Pink)",
   "slug": "samsung-inr18650-13bm-1300mah-pink",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 1300,
+  "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-13BM%201300mAh%20(Pink)/DSC_3120.jpg"
 }

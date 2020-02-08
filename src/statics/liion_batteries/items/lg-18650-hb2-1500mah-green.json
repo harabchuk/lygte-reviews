@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HB2 1500mAh (Green) UK.html",
   "title": "LG 18650 HB2 1500mAh (Green)",
   "slug": "lg-18650-hb2-1500mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "1-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HB2%201500mAh%20(Green)/DSC_8609.jpg"
 }

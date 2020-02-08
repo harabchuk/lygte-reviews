@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Efest IMR18650 2500mAh (Purple) 2017 UK.html",
   "title": "Efest IMR18650 2500mAh (Purple) 2017",
   "slug": "efest-imr18650-2500mah-purple-2017",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "6-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Efest%20IMR18650%202500mAh%20(Purple)%202017/DSC_0284.jpg"
 }

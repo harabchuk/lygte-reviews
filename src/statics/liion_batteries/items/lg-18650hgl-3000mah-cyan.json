@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HGL 3000mAh (Cyan) UK.html",
   "title": "LG 18650HGL 3000mAh (Cyan)",
   "slug": "lg-18650hgl-3000mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HGL%203000mAh%20(Cyan)/DSC_1489.jpg"
 }

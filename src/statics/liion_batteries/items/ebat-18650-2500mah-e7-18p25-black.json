@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Ebat 18650 2500mAh E7-18P25 (Black) UK.html",
   "title": "Ebat 18650 2500mAh E7-18P25 (Black)",
   "slug": "ebat-18650-2500mah-e7-18p25-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "6-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Ebat%2018650%202500mAh%20E7-18P25%20(Black)/DSC_0016.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung ICR18650-24F 2400mAh (Green) UK.html",
   "title": "Samsung ICR18650-24F 2400mAh (Green)",
   "slug": "samsung-icr18650-24f-2400mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2400,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20ICR18650-24F%202400mAh%20(Green)/DSC_3096.jpg"
 }

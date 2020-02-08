@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Ijoy INR26650 4200mAh (Black-Yellow) UK.html",
   "title": "Ijoy INR26650 4200mAh (Black-Yellow)",
   "slug": "ijoy-inr26650-4200mah-black-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 4200,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Ijoy%20INR26650%204200mAh%20(Black-Yellow)/DSC_8852.jpg"
 }

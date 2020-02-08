@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AWT IMR18650 2000mAh (Yellow) UK.html",
   "title": "AWT IMR18650 2000mAh (Yellow)",
   "slug": "awt-imr18650-2000mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2000,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AWT%20IMR18650%202000mAh%20(Yellow)/DSC_6507.jpg"
 }

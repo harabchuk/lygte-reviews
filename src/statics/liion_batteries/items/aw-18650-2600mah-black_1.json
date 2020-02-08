@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AW 18650 2600mAh (Black) 2016 UK.html",
   "title": "AW 18650 2600mAh (Black)",
   "slug": "aw-18650-2600mah-black_1",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
-  "prot": "9.1",
-  "year": "5-2016",
+  "rated_mah": 2500,
+  "prot": "6.0 - 10",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AW%2018650%202600mAh%20(Black)%202016/DSC_4505.jpg"
 }

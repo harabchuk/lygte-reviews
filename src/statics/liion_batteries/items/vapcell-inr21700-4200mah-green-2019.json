@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR21700 4200mAh (Green) 2019 UK.html",
   "title": "Vapcell INR21700 4200mAh (Green) 2019",
   "slug": "vapcell-inr21700-4200mah-green-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
-  "rated_mah": 4200,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "1-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR21700%204200mAh%20(Green)%202019/DSC_5806.jpg"
 }

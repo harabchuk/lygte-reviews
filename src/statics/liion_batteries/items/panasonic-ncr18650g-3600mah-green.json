@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Panasonic NCR18650G 3600mAh (Green) UK.html",
   "title": "Panasonic NCR18650G 3600mAh (Green)",
   "slug": "panasonic-ncr18650g-3600mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3600,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Panasonic%20NCR18650G%203600mAh%20(Green)/DSC_7256.jpg"
 }

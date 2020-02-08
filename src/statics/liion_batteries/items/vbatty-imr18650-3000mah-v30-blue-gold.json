@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vbatty IMR18650 3000mAh V30 (Blue-gold) UK.html",
   "title": "Vbatty IMR18650 3000mAh V30 (Blue-gold)",
   "slug": "vbatty-imr18650-3000mah-v30-blue-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "1-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vbatty%20IMR18650%203000mAh%20V30%20(Blue-gold)/DSC_8072.jpg"
 }

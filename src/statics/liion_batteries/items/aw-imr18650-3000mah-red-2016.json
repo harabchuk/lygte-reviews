@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AW IMR18650 3000mAh (Red) 2016 UK.html",
   "title": "AW IMR18650 3000mAh (Red) 2016",
   "slug": "aw-imr18650-3000mah-red-2016",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AW%20IMR18650%203000mAh%20(Red)%202016/DSC_5289.jpg"
 }

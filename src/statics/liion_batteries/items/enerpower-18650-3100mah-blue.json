@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/EnerPower+ 18650 3100mAh (Blue) UK.html",
   "title": "EnerPower+ 18650 3100mAh (Blue)",
   "slug": "enerpower-18650-3100mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3100,
-  "prot": "9.5",
-  "year": "12-2011",
+  "rated_mah": 3000,
+  "prot": "6.0 - 10",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/EnerPower+%2018650%203100mAh%20(Blue)/DSC_0486.jpg"
 }

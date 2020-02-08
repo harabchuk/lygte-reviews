@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR18350 1000mAh (Blue) 2019 UK.html",
   "title": "Vapcell INR18350 1000mAh (Blue) 2019",
   "slug": "vapcell-inr18350-1000mah-blue-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18350",
   "top": "flat",
   "rated_mah": 1000,
   "prot": "na",
-  "year": "11-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Vapcell%20INR18350%201000mAh%20(Blue)%202019/DSC_1446.jpg"
 }

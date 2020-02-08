@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 18650 3120mAh P1831R (Black) 2017 UK.html",
   "title": "Keeppower 18650 3120mAh P1831R (Black) 2017",
   "slug": "keeppower-18650-3120mah-p1831r-black-2017",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3120,
-  "prot": "High",
-  "year": "9-2017",
+  "rated_mah": 3000,
+  "prot": "na",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2018650%203120mAh%20P1831R%20(Black)%202017/DSC_2629.jpg"
 }

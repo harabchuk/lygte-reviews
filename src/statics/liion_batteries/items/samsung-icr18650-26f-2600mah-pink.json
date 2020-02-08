@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung ICR18650-26F 2600mAh (Pink) UK.html",
   "title": "Samsung ICR18650-26F 2600mAh (Pink)",
   "slug": "samsung-icr18650-26f-2600mah-pink",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "6-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20ICR18650-26F%202600mAh%20%28Pink%29/DSC_6313.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo NCR20650A 3100mAh (Red) UK.html",
   "title": "Sanyo NCR20650A 3100mAh (Red)",
   "slug": "sanyo-ncr20650a-3100mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20650",
   "top": "LB",
-  "rated_mah": 3100,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "1-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20NCR20650A%203100mAh%20(Red)/DSC_7760.jpg"
 }

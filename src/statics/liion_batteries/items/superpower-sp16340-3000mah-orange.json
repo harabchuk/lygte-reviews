@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/SuperPower SP16340 3000mAh (Orange) UK.html",
   "title": "SuperPower SP16340 3000mAh (Orange)",
   "slug": "superpower-sp16340-3000mah-orange",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/SuperPower%20SP16340%203000mAh%20(Orange)/DSC_6742.jpg"
 }

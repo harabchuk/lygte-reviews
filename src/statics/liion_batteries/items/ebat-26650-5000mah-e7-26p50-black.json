@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Ebat 26650 5000mAh E7-26P50 (Black) UK.html",
   "title": "Ebat 26650 5000mAh E7-26P50 (Black)",
   "slug": "ebat-26650-5000mah-e7-26p50-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
   "rated_mah": 5000,
   "prot": "na",
-  "year": "6-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Ebat%2026650%205000mAh%20E7-26P50%20(Black)/DSC_0023.jpg"
 }

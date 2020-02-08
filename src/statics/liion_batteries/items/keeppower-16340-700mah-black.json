@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 16340 700mAh (Black) UK.html",
   "title": "Keeppower 16340 700mAh (Black)",
   "slug": "keeppower-16340-700mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 700,
-  "prot": "3.4",
-  "year": "3-2012",
+  "rated_mah": 500,
+  "prot": "3.0 - 6.0",
+  "year": 2012,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Keeppower%2016340%20700mAh%20(Black)/DSC_1546.jpg"
 }

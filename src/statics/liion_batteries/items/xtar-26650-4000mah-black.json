@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Xtar 26650 4000mAh (Black) UK.html",
   "title": "Xtar 26650 4000mAh (Black)",
   "slug": "xtar-26650-4000mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "LB",
   "rated_mah": 4000,
   "prot": "na",
-  "year": "8-2013",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Xtar%2026650%204000mAh%20(Black)/DSC_3631.jpg"
 }

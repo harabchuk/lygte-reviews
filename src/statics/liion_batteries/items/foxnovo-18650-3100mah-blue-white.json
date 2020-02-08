@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Foxnovo 18650 3100mAh (Blue-white) UK.html",
   "title": "Foxnovo 18650 3100mAh (Blue-white)",
   "slug": "foxnovo-18650-3100mah-blue-white",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3100,
-  "prot": "High",
-  "year": "1-2015",
+  "rated_mah": 3000,
+  "prot": "na",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Foxnovo%2018650%203100mAh%20(Blue-white)/DSC_8719.jpg"
 }

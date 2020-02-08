@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AWT IMR26650 5200mAh (Red) 2015 UK.html",
   "title": "AWT IMR26650 5200mAh (Red) 2015",
   "slug": "awt-imr26650-5200mah-red-2015",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "LB",
-  "rated_mah": 5200,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "7-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AWT%20IMR26650%205200mAh%20(Red)%202015/DSC_1189.jpg"
 }

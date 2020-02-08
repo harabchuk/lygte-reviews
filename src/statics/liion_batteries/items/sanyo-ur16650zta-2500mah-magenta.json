@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR16650ZTA 2500mAh (Magenta) UK.html",
   "title": "Sanyo UR16650ZTA 2500mAh (Magenta)",
   "slug": "sanyo-ur16650zta-2500mah-magenta",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "9-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR16650ZTA%202500mAh%20(Magenta)/DSC_6795.jpg"
 }

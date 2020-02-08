@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR21700-30T 3000mAh (Gray) UK.html",
   "title": "Samsung INR21700-30T 3000mAh (Gray)",
   "slug": "samsung-inr21700-30t-3000mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR21700-30T%203000mAh%20(Gray)/DSC_8691.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Aucooma IMR18650 2800mAh (Purple-blue) UK.html",
   "title": "Aucooma IMR18650 2800mAh (Purple-blue)",
   "slug": "aucooma-imr18650-2800mah-purple-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2800,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "3-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Aucooma%20IMR18650%202800mAh%20(Purple-blue)/DSC_4198.jpg"
 }

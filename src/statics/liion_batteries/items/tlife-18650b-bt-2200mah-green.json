@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/TLife 18650B BT 2200mAh (Green) UK.html",
   "title": "TLife 18650B BT 2200mAh (Green)",
   "slug": "tlife-18650b-bt-2200mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2200,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "8-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/TLife%2018650B%20BT%202200mAh%20(Green)/DSC_6529.jpg"
 }

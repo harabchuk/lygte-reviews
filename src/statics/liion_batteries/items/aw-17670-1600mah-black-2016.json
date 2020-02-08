@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AW 17670 1600mAh (Black) 2016 UK.html",
   "title": "AW 17670 1600mAh (Black) 2016",
   "slug": "aw-17670-1600mah-black-2016",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "17670",
   "top": "SB",
-  "rated_mah": 1600,
-  "prot": "7.9",
-  "year": "5-2016",
+  "rated_mah": 1500,
+  "prot": "6.0 - 10",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AW%2017670%201600mAh%20(Black)%202016/DSC_4499.jpg"
 }

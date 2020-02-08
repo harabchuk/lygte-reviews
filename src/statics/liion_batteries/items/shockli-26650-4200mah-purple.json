@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 26650 4200mAh (Purple) UK.html",
   "title": "Shockli 26650 4200mAh (Purple)",
   "slug": "shockli-26650-4200mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 4200,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Shockli%2026650%204200mAh%20(Purple)/DSC_9961.jpg"
 }

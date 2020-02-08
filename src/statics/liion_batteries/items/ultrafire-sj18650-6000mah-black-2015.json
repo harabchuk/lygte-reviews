@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire SJ18650 6000mAh (Black) 2015 UK.html",
   "title": "UltraFire SJ18650 6000mAh (Black) 2015",
   "slug": "ultrafire-sj18650-6000mah-black-2015",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 6000,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20SJ18650%206000mAh%20(Black)%202015/DSC_9646.jpg"
 }

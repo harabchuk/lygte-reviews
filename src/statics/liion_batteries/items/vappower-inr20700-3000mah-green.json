@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vappower INR20700 3000mAh (Green) UK.html",
   "title": "Vappower INR20700 3000mAh (Green)",
   "slug": "vappower-inr20700-3000mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "11-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vappower%20INR20700%203000mAh%20(Green)/DSC_5216.jpg"
 }

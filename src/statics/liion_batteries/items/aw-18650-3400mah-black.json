@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AW 18650 3400mAh (Black) 2016 UK.html",
   "title": "AW 18650 3400mAh (Black)",
   "slug": "aw-18650-3400mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3400,
-  "prot": "9.5",
-  "year": "5-2016",
+  "rated_mah": 3500,
+  "prot": "6.0 - 10",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AW%2018650%203400mAh%20(Black)%202016/DSC_4511.jpg"
 }

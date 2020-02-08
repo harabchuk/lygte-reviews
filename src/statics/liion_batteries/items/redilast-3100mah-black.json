@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/RediLast 3100mAh (Black) UK.html",
   "title": "RediLast 3100mAh (Black)",
   "slug": "redilast-3100mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "LB",
-  "rated_mah": 3100,
-  "prot": "11.7",
-  "year": "12-2011",
+  "rated_mah": 3000,
+  "prot": "> 10",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/RediLast%203100mAh%20(Black)/DSC_0451.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enercig EC-14500HP 650mA (Gray) UK.html",
   "title": "Enercig EC-14500HP 650mA (Gray)",
   "slug": "enercig-ec-14500hp-650ma-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "flat",
-  "rated_mah": 650,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Enercig%20EC-14500HP%20650mA%20(Gray)/DSC_4855.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 21700 3800mAh (Green) 2018 UK.html",
   "title": "Shockli 21700 3800mAh (Green) 2018",
   "slug": "shockli-21700-3800mah-green-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
-  "rated_mah": 3800,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "2-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Shockli%2021700%203800mAh%20(Green)%202018/DSC_6897.jpg"
 }

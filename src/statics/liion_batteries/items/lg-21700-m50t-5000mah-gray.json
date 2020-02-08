@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 21700 M50T 5000mAh (Gray) UK.html",
   "title": "LG 21700 M50T 5000mAh (Gray)",
   "slug": "lg-21700-m50t-5000mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
   "rated_mah": 5000,
   "prot": "na",
-  "year": "9-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2021700%20M50T%205000mAh%20(Gray)/DSC_0285.jpg"
 }

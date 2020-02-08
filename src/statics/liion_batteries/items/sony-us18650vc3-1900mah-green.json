@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US18650VC3 1900mAh (Green) UK.html",
   "title": "Sony US18650VC3 1900mAh (Green)",
   "slug": "sony-us18650vc3-1900mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 1900,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sony%20US18650VC3%201900mAh%20(Green)/DSC_7352.jpg"
 }

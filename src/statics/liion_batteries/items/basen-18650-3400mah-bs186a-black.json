@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Basen 18650 3400mAh BS186A (Black) UK.html",
   "title": "Basen 18650 3400mAh BS186A (Black)",
   "slug": "basen-18650-3400mah-bs186a-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3400,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Basen%2018650%203400mAh%20BS186A%20(Black)/DSC_6488.jpg"
 }

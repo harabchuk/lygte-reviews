@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Efest IMR14500 650mAh (Purple) 2017 UK.html",
   "title": "Efest IMR14500 650mAh (Purple) 2017",
   "slug": "efest-imr14500-650mah-purple-2017",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "flat",
-  "rated_mah": 650,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "6-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Efest%20IMR14500%20650mAh%20(Purple)%202017/DSC_0254.jpg"
 }

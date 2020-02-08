@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enercig 20700 4000mAh EC-27B (Red) UK.html",
   "title": "Enercig 20700 4000mAh EC-27B (Red)",
   "slug": "enercig-20700-4000mah-ec-27b-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "LB",
   "rated_mah": 4000,
   "prot": "na",
-  "year": "9-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enercig%2020700%204000mAh%20EC-27B%20(Red)/DSC_1832.jpg"
 }

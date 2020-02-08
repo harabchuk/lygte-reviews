@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 14500 AA 1000mAh (Black) UK.html",
   "title": "Shockli 14500 AA 1000mAh (Black)",
   "slug": "shockli-14500-aa-1000mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
   "rated_mah": 1000,
   "prot": "na",
-  "year": "6-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Shockli%2014500%20AA%201000mAh%20(Black)/DSC_8348.jpg"
 }

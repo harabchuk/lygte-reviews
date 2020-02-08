@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Golisi IMR18650 3500mAh L35 (Gray) 2019 UK.html",
   "title": "Golisi IMR18650 3500mAh L35 (Gray) 2019",
   "slug": "golisi-imr18650-3500mah-l35-gray-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3500,
   "prot": "na",
-  "year": "11-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Golisi%20IMR18650%203500mAh%20L35%20(Gray)%202019/DSC_1079.jpg"
 }

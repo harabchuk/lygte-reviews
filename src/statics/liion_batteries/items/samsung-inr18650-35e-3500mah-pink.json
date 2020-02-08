@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-35E 3500mAh (Pink) UK.html",
   "title": "Samsung INR18650-35E 3500mAh (Pink)",
   "slug": "samsung-inr18650-35e-3500mah-pink",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3500,
   "prot": "na",
-  "year": "1-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-35E%203500mAh%20(Pink)/DSC_3105.jpg"
 }

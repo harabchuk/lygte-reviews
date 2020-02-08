@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Soshine 10440 AAA 350mAh (Black) UK.html",
   "title": "Soshine 10440 AAA 350mAh (Black)",
   "slug": "soshine-10440-aaa-350mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "10440",
   "top": "SB",
-  "rated_mah": 350,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "5-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Soshine%2010440%20AAA%20350mAh%20(Black)/DSC_9285.jpg"
 }

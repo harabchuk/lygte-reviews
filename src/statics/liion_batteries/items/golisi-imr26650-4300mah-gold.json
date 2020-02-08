@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Golisi IMR26650 4300mAh (Gold) UK.html",
   "title": "Golisi IMR26650 4300mAh (Gold)",
   "slug": "golisi-imr26650-4300mah-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 4300,
+  "rated_mah": 4500,
   "prot": "na",
-  "year": "9-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Golisi%20IMR26650%204300mAh%20(Gold)/DSC_2142.jpg"
 }

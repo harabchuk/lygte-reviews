@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell IMR18490 1400mAh (Yellow) UK.html",
   "title": "Vapcell IMR18490 1400mAh (Yellow)",
   "slug": "vapcell-imr18490-1400mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18490",
   "top": "flat",
-  "rated_mah": 1400,
+  "rated_mah": 1500,
   "prot": "na",
-  "year": "5-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20IMR18490%201400mAh%20(Yellow)/DSC_0611.jpg"
 }

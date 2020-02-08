@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/EnerPower VC+ 18650 3000mAh (Purple) UK.html",
   "title": "EnerPower VC+ 18650 3000mAh (Purple)",
   "slug": "enerpower-vc-18650-3000mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
   "rated_mah": 3000,
-  "prot": "High",
-  "year": "3-2017",
+  "prot": "na",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/EnerPower%20VC+%2018650%203000mAh%20(Purple)/DSC_8704.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vbatty ICR16500 1200mAh (Blue) UK.html",
   "title": "Vbatty ICR16500 1200mAh (Blue)",
   "slug": "vbatty-icr16500-1200mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16500",
   "top": "flat",
-  "rated_mah": 1200,
+  "rated_mah": 1000,
   "prot": "na",
-  "year": "5-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Vbatty%20ICR16500%201200mAh%20(Blue)/DSC_7382.jpg"
 }

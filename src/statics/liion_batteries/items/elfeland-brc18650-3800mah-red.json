@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Elfeland BRC18650 3800mAh (Red) UK.html",
   "title": "Elfeland BRC18650 3800mAh (Red)",
   "slug": "elfeland-brc18650-3800mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3800,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Elfeland%20BRC18650%203800mAh%20(Red)/DSC_8837.jpg"
 }

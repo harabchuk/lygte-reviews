@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire CN18650 9800mAh (Yellow) UK.html",
   "title": "UltraFire CN18650 9800mAh (Yellow)",
   "slug": "ultrafire-cn18650-9800mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 9800,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "10-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20CN18650%209800mAh%20(Yellow)/DSC_2752.jpg"
 }

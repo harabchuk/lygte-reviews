@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US18650VTC5 2600mAh (Green) GB UK.html",
   "title": "Sony US18650VTC5 2600mAh (Green) GB",
   "slug": "sony-us18650vtc5-2600mah-green-gb",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sony%20US18650VTC5%202600mAh%20(Green)%20GB/DSC_5261.jpg"
 }

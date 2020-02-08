@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/BattEnergy 18650 2600mAh (Black) UK.html",
   "title": "BattEnergy 18650 2600mAh (Black)",
   "slug": "battenergy-18650-2600mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2600,
-  "prot": "6.5",
-  "year": "2-2013",
+  "rated_mah": 2500,
+  "prot": "6.0 - 10",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/BattEnergy%2018650%202600mAh%20(Black)/DSC_1624.jpg"
 }

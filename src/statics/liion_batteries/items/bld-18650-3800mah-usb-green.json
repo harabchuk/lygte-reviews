@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/BLD 18650 3800mAh USB (Green) UK.html",
   "title": "BLD 18650 3800mAh USB (Green)",
   "slug": "bld-18650-3800mah-usb-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3800,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "10-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/BLD%2018650%203800mAh%20USB%20(Green)/DSC_2878.jpg"
 }

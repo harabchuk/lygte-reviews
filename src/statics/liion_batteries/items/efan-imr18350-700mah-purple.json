@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Efan IMR18350 700mAh (Purple) UK.html",
   "title": "Efan IMR18350 700mAh (Purple)",
   "slug": "efan-imr18350-700mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18350",
   "top": "flat",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Efan%20IMR18350%20700mAh%20(Purple)/DSC_6574.jpg"
 }

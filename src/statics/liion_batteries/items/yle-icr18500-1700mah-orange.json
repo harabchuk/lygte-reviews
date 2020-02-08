@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/YLE ICR18500 1700mAh (Orange) UK.html",
   "title": "YLE ICR18500 1700mAh (Orange)",
   "slug": "yle-icr18500-1700mah-orange",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18500",
   "top": "flat",
-  "rated_mah": 1700,
+  "rated_mah": 1500,
   "prot": "na",
-  "year": "5-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/YLE%20ICR18500%201700mAh%20(Orange)/DSC_5700.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sibeile IMR18650 3100mAh (Black) UK.html",
   "title": "Sibeile IMR18650 3100mAh (Black)",
   "slug": "sibeile-imr18650-3100mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3100,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "7-2013",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sibeile%20IMR18650%203100mAh%20(Black)/DSC_3093.jpg"
 }

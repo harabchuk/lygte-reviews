@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enercig 26650 5200mAh EC-265HC (Blue) UK.html",
   "title": "Enercig 26650 5200mAh EC-265HC (Blue)",
   "slug": "enercig-26650-5200mah-ec-265hc-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 5200,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "9-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enercig%2026650%205200mAh%20EC-265HC%20(Blue)/DSC_1839.jpg"
 }

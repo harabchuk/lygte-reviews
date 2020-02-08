@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR18650 2000mAh G20 (Purple) 2019 UK.html",
   "title": "Vapcell INR18650 2000mAh G20 (Purple) 2019",
   "slug": "vapcell-inr18650-2000mah-g20-purple-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2000,
   "prot": "na",
-  "year": "8-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR18650%202000mAh%20G20%20(Purple)%202019/DSC_9307.jpg"
 }

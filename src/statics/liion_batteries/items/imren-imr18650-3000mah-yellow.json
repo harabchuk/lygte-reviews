@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Imren IMR18650 3000mAh (Yellow) UK.html",
   "title": "Imren IMR18650 3000mAh (Yellow)",
   "slug": "imren-imr18650-3000mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "8-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Imren%20IMR18650%203000mAh%20(Yellow)/DSC_1998.jpg"
 }

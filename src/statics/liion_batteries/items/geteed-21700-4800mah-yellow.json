@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Geteed 21700 4800mAh (Yellow) UK.html",
   "title": "Geteed 21700 4800mAh (Yellow)",
   "slug": "geteed-21700-4800mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
-  "rated_mah": 4800,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "5-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Geteed%2021700%204800mAh%20(Yellow)/DSC_9301.jpg"
 }

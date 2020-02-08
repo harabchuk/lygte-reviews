@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-25R 2500mAh (Cyan) UK.html",
   "title": "Samsung INR18650-25R 2500mAh (Cyan)",
   "slug": "samsung-inr18650-25r-2500mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-25R%202500mAh%20(Cyan)/DSC_9862.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 B3 2600mAh (Salmon) UK.html",
   "title": "LG 18650 B3 2600mAh (Salmon)",
   "slug": "lg-18650-b3-2600mah-salmon",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "LB",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "12-2011",
+  "year": 2011,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20B3%202600mAh%20(Salmon)/DSC_0505.jpg"
 }

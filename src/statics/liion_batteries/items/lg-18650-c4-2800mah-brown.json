@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 C4 2800mAh (Brown) UK.html",
   "title": "LG 18650 C4 2800mAh (Brown)",
   "slug": "lg-18650-c4-2800mah-brown",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2800,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20C4%202800mAh%20(Brown)/DSC_3132.jpg"
 }

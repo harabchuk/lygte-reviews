@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo NCR18650BF 3350mAh (Red) UK.html",
   "title": "Sanyo NCR18650BF 3350mAh (Red)",
   "slug": "sanyo-ncr18650bf-3350mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3350,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "3-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20NCR18650BF%203350mAh%20(Red)/DSC_4238.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18650ZL2 2310mAh (Red) UK.html",
   "title": "Sanyo UR18650ZL2 2310mAh (Red)",
   "slug": "sanyo-ur18650zl2-2310mah-red",
-  "battery_type": "<4.1>",
+  "type": "<4.1>",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2310,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "9-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18650ZL2%202310mAh%20(Red)/DSC_0275.jpg"
 }

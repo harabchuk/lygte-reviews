@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Ebat 20700 3000mAh E7-20P30 (Blue) UK.html",
   "title": "Ebat 20700 3000mAh E7-20P30 (Blue)",
   "slug": "ebat-20700-3000mah-e7-20p30-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "7-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Ebat%2020700%203000mAh%20E7-20P30%20(Blue)/DSC_0342.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Orbtronic 18650PD 2900mAh (Black) UK.html",
   "title": "Orbtronic 18650PD 2900mAh (Black)",
   "slug": "orbtronic-18650pd-2900mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2900,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "11-2013",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Orbtronic%2018650PD%202900mAh%20(Black)/DSC_4254.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR21700 5000mAh (Purple) 2018 UK.html",
   "title": "Vapcell INR21700 5000mAh (Purple) 2018",
   "slug": "vapcell-inr21700-5000mah-purple-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
   "rated_mah": 5000,
   "prot": "na",
-  "year": "11-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR21700%205000mAh%20(Purple)%202018/DSC_3726.jpg"
 }

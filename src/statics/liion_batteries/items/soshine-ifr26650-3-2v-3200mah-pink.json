@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Soshine IFR26650 3.2V 3200mAh (Pink) UK.html",
   "title": "Soshine IFR26650 3.2V 3200mAh (Pink)",
   "slug": "soshine-ifr26650-3-2v-3200mah-pink",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 3200,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "4-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Soshine%20IFR26650%203.2V%203200mAh%20(Pink)/DSC_4353.jpg"
 }

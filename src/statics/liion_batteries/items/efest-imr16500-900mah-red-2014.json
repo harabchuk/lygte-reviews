@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Efest IMR16500 900mAh (Red) 2014 UK.html",
   "title": "Efest IMR16500 900mAh (Red) 2014",
   "slug": "efest-imr16500-900mah-red-2014",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16500",
   "top": "flat",
-  "rated_mah": 900,
+  "rated_mah": 1000,
   "prot": "na",
-  "year": "8-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Efest%20IMR16500%20900mAh%20(Red)%202014/DSC_6798.jpg"
 }

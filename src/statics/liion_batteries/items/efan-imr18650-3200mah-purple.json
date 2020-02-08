@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Efan IMR18650 3200mAh (Purple) UK.html",
   "title": "Efan IMR18650 3200mAh (Purple)",
   "slug": "efan-imr18650-3200mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3200,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Efan%20IMR18650%203200mAh%20(Purple)/DSC_6552.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/HDS Systems INR16340 700mAh (Red) UK.html",
   "title": "HDS Systems INR16340 700mAh (Red)",
   "slug": "hds-systems-inr16340-700mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "3-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/HDS%20Systems%20INR16340%20700mAh%20%28Red%29/16340%20Two.jpg"
 }

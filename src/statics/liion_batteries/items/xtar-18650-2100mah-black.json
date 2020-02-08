@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Xtar 18650 2100mAh (Black) UK.html",
   "title": "Xtar 18650 2100mAh (Black)",
   "slug": "xtar-18650-2100mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "LB",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "3-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Xtar%2018650%202100mAh%20(Black)/DSC_5307.jpg"
 }

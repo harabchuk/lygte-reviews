@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/SkyWolfeye 18650 5800mAh (Black-green) UK.html",
   "title": "SkyWolfeye 18650 5800mAh (Black-green)",
   "slug": "skywolfeye-18650-5800mah-black-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 5800,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "5-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/SkyWolfeye%2018650%205800mAh%20(Black-green)/DSC_9414.jpg"
 }

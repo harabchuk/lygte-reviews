@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 26650 4300mAh (Green) 2018 UK.html",
   "title": "Shockli 26650 4300mAh (Green) 2018",
   "slug": "shockli-26650-4300mah-green-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 4300,
+  "rated_mah": 4500,
   "prot": "na",
-  "year": "2-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Shockli%2026650%204300mAh%20(Green)%202018/DSC_6889.jpg"
 }

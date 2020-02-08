@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HB4 1500mAh (Yellow) UK.html",
   "title": "LG 18650 HB4 1500mAh (Yellow)",
   "slug": "lg-18650-hb4-1500mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HB4%201500mAh%20(Yellow)/DSC_7337.jpg"
 }

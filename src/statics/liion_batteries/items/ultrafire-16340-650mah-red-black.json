@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire 16340 650mAh (Red-black) UK.html",
   "title": "UltraFire 16340 650mAh (Red-black)",
   "slug": "ultrafire-16340-650mah-red-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 650,
-  "prot": "5.4",
-  "year": "5-2017",
+  "rated_mah": 500,
+  "prot": "3.0 - 6.0",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/UltraFire%2016340%20650mAh%20(Red-black)/DSC_9480.jpg"
 }

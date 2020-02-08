@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HE4 2500mAh (Yellow) UK.html",
   "title": "LG 18650 HE4 2500mAh (Yellow)",
   "slug": "lg-18650-he4-2500mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "1-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HE4%202500mAh%20(Yellow)/DSC_8615.jpg"
 }

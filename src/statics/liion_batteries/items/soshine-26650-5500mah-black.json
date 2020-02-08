@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Soshine 26650 5500mAh (Black) UK.html",
   "title": "Soshine 26650 5500mAh (Black)",
   "slug": "soshine-26650-5500mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "LB",
-  "rated_mah": 5500,
-  "prot": "8",
-  "year": "6-2015",
+  "rated_mah": 5000,
+  "prot": "6.0 - 10",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Soshine%2026650%205500mAh%20(Black)/DSC_0672.jpg"
 }

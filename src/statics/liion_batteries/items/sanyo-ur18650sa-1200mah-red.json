@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18650SA 1200mAh (Red) UK.html",
   "title": "Sanyo UR18650SA 1200mAh (Red)",
   "slug": "sanyo-ur18650sa-1200mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 1200,
+  "rated_mah": 1000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18650SA%201200mAh%20(Red)/DSC_3126.jpg"
 }

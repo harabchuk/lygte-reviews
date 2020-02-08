@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Molicel INR18650-P26A 2600mAh (Gray) UK.html",
   "title": "Molicel INR18650-P26A 2600mAh (Gray)",
   "slug": "molicel-inr18650-p26a-2600mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "1-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Molicel%20INR18650-P26A%202600mAh%20(Gray)/DSC_5276.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/GIF ICR18650 12000mAh (Yellow) UK.html",
   "title": "GIF ICR18650 12000mAh (Yellow)",
   "slug": "gif-icr18650-12000mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 12000,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "3-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/GIF%20ICR18650%2012000mAh%20(Yellow)/DSC_8829.jpg"
 }

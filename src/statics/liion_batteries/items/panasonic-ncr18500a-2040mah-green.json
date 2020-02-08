@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Panasonic NCR18500A 2040mAh (Green) UK.html",
   "title": "Panasonic NCR18500A 2040mAh (Green)",
   "slug": "panasonic-ncr18500a-2040mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18500",
   "top": "flat",
-  "rated_mah": 2040,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "2-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Panasonic%20NCR18500A%202040mAh%20(Green)/DSC_8539.jpg"
 }

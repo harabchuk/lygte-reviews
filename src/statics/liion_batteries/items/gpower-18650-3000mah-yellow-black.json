@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Gpower 18650 3000mAh (Yellow-black) UK.html",
   "title": "Gpower 18650 3000mAh (Yellow-black)",
   "slug": "gpower-18650-3000mah-yellow-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Gpower%2018650%203000mAh%20(Yellow-black)/DSC_6932.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Basen 18650 2100mAh BS186E (Black) UK.html",
   "title": "Basen 18650 2100mAh BS186E (Black)",
   "slug": "basen-18650-2100mah-bs186e-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Basen%2018650%202100mAh%20BS186E%20(Black)/DSC_6470.jpg"
 }

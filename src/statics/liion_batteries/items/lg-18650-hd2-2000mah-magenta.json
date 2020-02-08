@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HD2 2000mAh (Magenta) UK.html",
   "title": "LG 18650 HD2 2000mAh (Magenta)",
   "slug": "lg-18650-hd2-2000mah-magenta",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2000,
   "prot": "na",
-  "year": "1-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HD2%202000mAh%20(Magenta)/DSC_8628.jpg"
 }

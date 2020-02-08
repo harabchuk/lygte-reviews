@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/GTF NCR18650B 3400mAh (Green) UK.html",
   "title": "GTF NCR18650B 3400mAh (Green)",
   "slug": "gtf-ncr18650b-3400mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3400,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "4-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/GTF%20NCR18650B%203400mAh%20(Green)/DSC_6804.jpg"
 }

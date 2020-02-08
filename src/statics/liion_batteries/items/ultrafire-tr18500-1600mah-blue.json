@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/UltraFire TR18500 1600mAh (Blue) UK.html",
   "title": "UltraFire TR18500 1600mAh (Blue)",
   "slug": "ultrafire-tr18500-1600mah-blue",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "18500",
   "top": "SB",
-  "rated_mah": 1600,
-  "prot": "4.8",
-  "year": "3-2017",
+  "rated_mah": 1500,
+  "prot": "3.0 - 6.0",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/UltraFire%20TR18500%201600mAh%20(Blue)/DSC_8656.jpg"
 }

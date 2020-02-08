@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 18650 2800mAh (Black) UK.html",
   "title": "Keeppower 18650 2800mAh (Black)",
   "slug": "keeppower-18650-2800mah-black",
-  "battery_type": "4.3V",
+  "type": "4.3V",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2800,
-  "prot": "10.4",
-  "year": "3-2012",
+  "rated_mah": 3000,
+  "prot": "> 10",
+  "year": 2012,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2018650%202800mAh%20(Black)/DSC_1529.jpg"
 }

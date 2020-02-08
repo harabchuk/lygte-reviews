@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 ME1 2100mAh (Orange) UK.html",
   "title": "LG 18650 ME1 2100mAh (Orange)",
   "slug": "lg-18650-me1-2100mah-orange",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20ME1%202100mAh%20(Orange)/DSC_5161.jpg"
 }

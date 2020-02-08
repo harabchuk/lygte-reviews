@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AWT IMR18350 700mAh (Yellow) BT UK.html",
   "title": "AWT IMR18350 700mAh (Yellow) BT",
   "slug": "awt-imr18350-700mah-yellow-bt",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18350",
   "top": "SB",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/AWT%20IMR18350%20700mAh%20(Yellow)%20BT/DSC_6519.jpg"
 }

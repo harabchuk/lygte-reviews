@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US14500V 680mAh (Green) UK.html",
   "title": "Sony US14500V 680mAh (Green)",
   "slug": "sony-us14500v-680mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "flat",
-  "rated_mah": 680,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Sony%20US14500V%20680mAh%20(Green)/DSC_9647.jpg"
 }

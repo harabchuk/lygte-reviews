@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Shockli 16340 700mAh (Yellow) 2018 UK.html",
   "title": "Shockli 16340 700mAh (Yellow)",
   "slug": "shockli-16340-700mah-yellow_1",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "8-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Shockli%2016340%20700mAh%20(Yellow)%202018/DSC_1300.jpg"
 }

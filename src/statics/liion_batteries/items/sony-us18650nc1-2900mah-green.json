@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US18650NC1 2900mAh (Green) UK.html",
   "title": "Sony US18650NC1 2900mAh (Green)",
   "slug": "sony-us18650nc1-2900mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2900,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "6-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sony%20US18650NC1%202900mAh%20(Green)/DSC_6306.jpg"
 }

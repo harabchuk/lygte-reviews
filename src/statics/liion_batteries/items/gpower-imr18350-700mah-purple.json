@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Gpower IMR18350 700mAh (Purple) UK.html",
   "title": "Gpower IMR18350 700mAh (Purple)",
   "slug": "gpower-imr18350-700mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18350",
   "top": "flat",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Gpower%20IMR18350%20700mAh%20(Purple)/DSC_5269.jpg"
 }

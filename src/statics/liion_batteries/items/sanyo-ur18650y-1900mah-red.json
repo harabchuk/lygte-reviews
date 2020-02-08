@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18650Y 1900mAh (Red) UK.html",
   "title": "Sanyo UR18650Y 1900mAh (Red)",
   "slug": "sanyo-ur18650y-1900mah-red",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 1900,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18650Y%201900mAh%20(Red)/DSC_7303.jpg"
 }

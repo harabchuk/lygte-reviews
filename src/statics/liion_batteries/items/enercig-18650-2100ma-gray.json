@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enercig 18650 2100mA (Gray) UK.html",
   "title": "Enercig 18650 2100mA (Gray)",
   "slug": "enercig-18650-2100ma-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enercig%2018650%202100mA%20(Gray)/DSC_4870.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/BattEnergy 18650 3400mAh (Black) UK.html",
   "title": "BattEnergy 18650 3400mAh (Black)",
   "slug": "battenergy-18650-3400mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 3400,
-  "prot": "9.3",
-  "year": "2-2013",
+  "rated_mah": 3500,
+  "prot": "6.0 - 10",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012/BattEnergy%2018650%203400mAh%20(Black)/DSC_1638.jpg"
 }

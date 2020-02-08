@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/TrustFire 16340 880mAh (White) UK.html",
   "title": "TrustFire 16340 880mAh (White)",
   "slug": "trustfire-16340-880mah-white",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
-  "rated_mah": 880,
-  "prot": "3.7",
-  "year": "4-2016",
+  "rated_mah": 1000,
+  "prot": "3.0 - 6.0",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/TrustFire%2016340%20880mAh%20(White)/DSC_4471.jpg"
 }

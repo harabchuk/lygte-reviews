@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell IMR18650 2200mAh (Yellow) UK.html",
   "title": "Vapcell IMR18650 2200mAh (Yellow)",
   "slug": "vapcell-imr18650-2200mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2200,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "5-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20IMR18650%202200mAh%20(Yellow)/DSC_0623.jpg"
 }

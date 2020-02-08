@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 14500 1000mAh P1450C2 (Black) 2019 UK.html",
   "title": "Keeppower 14500 1000mAh P1450C2 (Black) 2019",
   "slug": "keeppower-14500-1000mah-p1450c2-black-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
   "rated_mah": 1000,
-  "prot": "3.9",
-  "year": "4-2019",
+  "prot": "3.0 - 6.0",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Keeppower%2014500%201000mAh%20P1450C2%20(Black)%202019/DSC_6896.jpg"
 }

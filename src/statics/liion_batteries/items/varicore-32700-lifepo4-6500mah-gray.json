@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/VariCore 32700 LiFePO4 6500mAh (Gray) UK.html",
   "title": "VariCore 32700 LiFePO4 6500mAh (Gray)",
   "slug": "varicore-32700-lifepo4-6500mah-gray",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "32700",
   "top": "flat",
-  "rated_mah": 6500,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "1-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/VariCore%2032700%20LiFePO4%206500mAh%20(Gray)/DSC_5342.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Molicel INR20700A 3000mAh (Gray) UK.html",
   "title": "Molicel INR20700A 3000mAh (Gray)",
   "slug": "molicel-inr20700a-3000mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "LB",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "1-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Molicel%20INR20700A%203000mAh%20(Gray)/DSC_5270.jpg"
 }

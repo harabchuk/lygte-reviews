@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell ICR14500 1000mAh (Gold) 2018 UK.html",
   "title": "Vapcell ICR14500 1000mAh (Gold) 2018",
   "slug": "vapcell-icr14500-1000mah-gold-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "flat",
   "rated_mah": 1000,
   "prot": "na",
-  "year": "12-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Vapcell%20ICR14500%201000mAh%20(Gold)%202018/DSC_4735.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Windyfire 18650 2700mAh (Black) UK.html",
   "title": "Windyfire 18650 2700mAh (Black)",
   "slug": "windyfire-18650-2700mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "SB",
-  "rated_mah": 2700,
-  "prot": "High",
-  "year": "9-2015",
+  "rated_mah": 2500,
+  "prot": "na",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Windyfire%2018650%202700mAh%20(Black)/DSC_2225.jpg"
 }

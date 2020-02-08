@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sanyo UR18650ZK 2500mAh (Cyan) UK.html",
   "title": "Sanyo UR18650ZK 2500mAh (Cyan)",
   "slug": "sanyo-ur18650zk-2500mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sanyo%20UR18650ZK%202500mAh%20(Cyan)/DSC_7295.jpg"
 }

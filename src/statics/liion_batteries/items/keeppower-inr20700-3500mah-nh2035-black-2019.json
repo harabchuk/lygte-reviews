@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower INR20700 3500mAh NH2035 (Black) 2019 UK.html",
   "title": "Keeppower INR20700 3500mAh NH2035 (Black) 2019",
   "slug": "keeppower-inr20700-3500mah-nh2035-black-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
   "rated_mah": 3500,
   "prot": "na",
-  "year": "4-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%20INR20700%203500mAh%20NH2035%20(Black)%202019/DSC_6828.jpg"
 }

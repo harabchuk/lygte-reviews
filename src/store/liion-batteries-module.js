@@ -11,6 +11,11 @@ const state = {
     index: null,
     currentFilters: {
         type: [],
+        size: [],
+        year: [],
+        top: [],
+        prot: [],
+        rated_mah: [],
     },
     currentList: [],
     currentListPortioned: [],
@@ -54,6 +59,11 @@ function buildDbQuery(currentFilters) {
     return {
         selector: {
             ...singleFieldQueryArray(currentFilters, 'type'),
+            ...singleFieldQueryArray(currentFilters, 'size'),
+            ...singleFieldQueryArray(currentFilters, 'year'),
+            ...singleFieldQueryArray(currentFilters, 'top'),
+            ...singleFieldQueryArray(currentFilters, 'prot'),
+            ...singleFieldQueryArray(currentFilters, 'rated_mah'),
         }
     };
 }

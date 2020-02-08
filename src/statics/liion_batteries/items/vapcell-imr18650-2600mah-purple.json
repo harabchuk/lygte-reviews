@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell IMR18650 2600mAh (Purple) UK.html",
   "title": "Vapcell IMR18650 2600mAh (Purple)",
   "slug": "vapcell-imr18650-2600mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "5-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20IMR18650%202600mAh%20(Purple)/DSC_0629.jpg"
 }

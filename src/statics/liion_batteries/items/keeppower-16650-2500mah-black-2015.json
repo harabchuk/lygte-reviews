@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Keeppower 16650 2500mAh (Black) 2015 UK.html",
   "title": "Keeppower 16650 2500mAh (Black) 2015",
   "slug": "keeppower-16650-2500mah-black-2015",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16650",
   "top": "SB",
   "rated_mah": 2500,
-  "prot": "7.9",
-  "year": "7-2015",
+  "prot": "6.0 - 10",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Keeppower%2016650%202500mAh%20(Black)%202015/DSC_1129.jpg"
 }

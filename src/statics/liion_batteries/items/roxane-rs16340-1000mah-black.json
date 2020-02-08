@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Roxane RS16340 1000mAh (Black) UK.html",
   "title": "Roxane RS16340 1000mAh (Black)",
   "slug": "roxane-rs16340-1000mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "16340",
   "top": "SB",
   "rated_mah": 1000,
   "prot": "na",
-  "year": "5-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Roxane%20RS16340%201000mAh%20(Black)/DSC_9329.jpg"
 }

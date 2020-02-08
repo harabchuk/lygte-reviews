@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Golisi IMR18650 2600mAh S26 (Black) 2018 UK.html",
   "title": "Golisi IMR18650 2600mAh S26 (Black)",
   "slug": "golisi-imr18650-2600mah-s26-black_1",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "5-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Golisi%20IMR18650%202600mAh%20S26%20(Black)%202018/DSC_9279.jpg"
 }

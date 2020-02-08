@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Eizfan IMR18650 2000mAh (Gold) UK.html",
   "title": "Eizfan IMR18650 2000mAh (Gold)",
   "slug": "eizfan-imr18650-2000mah-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2000,
   "prot": "na",
-  "year": "12-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Eizfan%20IMR18650%202000mAh%20(Gold)/DSC_8530.jpg"
 }

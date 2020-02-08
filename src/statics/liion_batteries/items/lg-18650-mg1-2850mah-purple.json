@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 MG1 2850mAh (Purple) UK.html",
   "title": "LG 18650 MG1 2850mAh (Purple)",
   "slug": "lg-18650-mg1-2850mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2850,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20MG1%202850mAh%20(Purple)/DSC_5186.jpg"
 }

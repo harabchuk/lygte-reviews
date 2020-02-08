@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Jetbeam 14500 750mAh JL148 (Blue-white) UK.html",
   "title": "Jetbeam 14500 750mAh  JL148 (Blue-white)",
   "slug": "jetbeam-14500-750mah-jl148-blue-white",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "SB",
-  "rated_mah": 750,
-  "prot": "3.2",
-  "year": "10-2016",
+  "rated_mah": 1000,
+  "prot": "3.0 - 6.0",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Jetbeam%2014500%20750mAh%20JL148%20(Blue-white)/DSC_6775.jpg"
 }

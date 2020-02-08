@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 HB3 1500mAh (Gray) UK.html",
   "title": "LG 18650 HB3 1500mAh (Gray)",
   "slug": "lg-18650-hb3-1500mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20HB3%201500mAh%20(Gray)/DSC_3145.jpg"
 }

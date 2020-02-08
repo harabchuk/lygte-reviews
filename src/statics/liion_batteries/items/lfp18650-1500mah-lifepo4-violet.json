@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LFP18650 1500mAh LiFePO4 (Violet) UK.html",
   "title": "LFP18650 1500mAh LiFePO4 (Violet)",
   "slug": "lfp18650-1500mah-lifepo4-violet",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 1500,
   "prot": "na",
-  "year": "10-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LFP18650%201500mAh%20LiFePO4%20(Violet)/DSC_2870.jpg"
 }

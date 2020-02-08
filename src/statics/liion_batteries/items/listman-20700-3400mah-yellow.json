@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Listman 20700 3400mAh (Yellow) UK.html",
   "title": "Listman 20700 3400mAh (Yellow)",
   "slug": "listman-20700-3400mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
-  "rated_mah": 3400,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "10-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Listman%2020700%203400mAh%20(Yellow)/DSC_2855.jpg"
 }

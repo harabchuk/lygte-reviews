@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sibeile IMR14500 700mAh (Black) UK.html",
   "title": "Sibeile IMR14500 700mAh (Black)",
   "slug": "sibeile-imr14500-700mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "14500",
   "top": "flat",
-  "rated_mah": 700,
+  "rated_mah": 500,
   "prot": "na",
-  "year": "7-2013",
+  "year": 2013,
   "preview": "https://lygte-info.dk/pic/Batteries2012Small/Sibeile%20IMR14500%20700mAh%20(Black)/DSC_3064.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/LG 18650 B4 2600mAh (Gray) UK.html",
   "title": "LG 18650 B4 2600mAh (Gray)",
   "slug": "lg-18650-b4-2600mah-gray",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "12-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/LG%2018650%20B4%202600mAh%20(Gray)/DSC_2569.jpg"
 }

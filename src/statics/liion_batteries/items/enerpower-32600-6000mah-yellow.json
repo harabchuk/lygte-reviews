@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/EnerPower+ 32600 6000mAh (Yellow) UK.html",
   "title": "EnerPower+ 32600 6000mAh (Yellow)",
   "slug": "enerpower-32600-6000mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "32600",
   "top": "SB",
-  "rated_mah": 6000,
-  "prot": "14.8",
-  "year": "3-2017",
+  "rated_mah": 5000,
+  "prot": "> 10",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/EnerPower+%2032600%206000mAh%20(Yellow)/DSC_8685.jpg"
 }

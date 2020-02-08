@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-32E 3200mAh (Cyan) UK.html",
   "title": "Samsung INR18650-32E 3200mAh (Cyan)",
   "slug": "samsung-inr18650-32e-3200mah-cyan",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3200,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "4-2015",
+  "year": 2015,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-32E%203200mAh%20(Cyan)/DSC_9926.jpg"
 }

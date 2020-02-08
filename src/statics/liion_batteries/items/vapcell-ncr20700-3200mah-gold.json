@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell NCR20700 3200mAh (Gold) UK.html",
   "title": "Vapcell NCR20700 3200mAh (Gold)",
   "slug": "vapcell-ncr20700-3200mah-gold",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20700",
   "top": "flat",
-  "rated_mah": 3200,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "9-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20NCR20700%203200mAh%20(Gold)/DSC_2081.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/AWT IMR26650 3800mAh (Yellow) UK.html",
   "title": "AWT IMR26650 3800mAh (Yellow)",
   "slug": "awt-imr26650-3800mah-yellow",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "26650",
   "top": "flat",
-  "rated_mah": 3800,
+  "rated_mah": 4000,
   "prot": "na",
-  "year": "7-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/AWT%20IMR26650%203800mAh%20(Yellow)/DSC_6494.jpg"
 }

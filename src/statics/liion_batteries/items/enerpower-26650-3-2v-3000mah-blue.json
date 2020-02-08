@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enerpower 26650 3.2V 3000mAh (Blue) UK.html",
   "title": "Enerpower 26650 3.2V 3000mAh (Blue)",
   "slug": "enerpower-26650-3-2v-3000mah-blue",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "26650",
   "top": "flat",
   "rated_mah": 3000,
   "prot": "na",
-  "year": "12-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enerpower%2026650%203.2V%203000mAh%20(Blue)/DSC_4579.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Parkside INR18650E 2000mAh (Blue) UK.html",
   "title": "Parkside INR18650E 2000mAh (Blue)",
   "slug": "parkside-inr18650e-2000mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
   "rated_mah": 2000,
   "prot": "na",
-  "year": "1-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Parkside%20INR18650E%202000mAh%20(Blue)/DSC_5420.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/VBatty 32700 3.2V 7000mAh (Grey) UK.html",
   "title": "VBatty 32700 3.2V 7000mAh (Grey)",
   "slug": "vbatty-32700-3-2v-7000mah-grey",
-  "battery_type": "LiFePO4",
+  "type": "LiFePO4",
+  "size": "32700",
   "top": "flat",
-  "rated_mah": 7000,
+  "rated_mah": 5000,
   "prot": "na",
-  "year": "12-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/VBatty%2032700%203.2V%207000mAh%20(Grey)/DSC_4585.jpg"
 }

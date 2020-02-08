@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Enercig 18650 3450mAh (Purple) UK.html",
   "title": "Enercig 18650 3450mAh (Purple)",
   "slug": "enercig-18650-3450mah-purple",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3450,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "5-2016",
+  "year": 2016,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Enercig%2018650%203450mAh%20(Purple)/DSC_5339.jpg"
 }

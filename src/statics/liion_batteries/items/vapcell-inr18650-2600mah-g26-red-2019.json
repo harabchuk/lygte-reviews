@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR18650 2600mAh G26 (Red) 2019 UK.html",
   "title": "Vapcell INR18650 2600mAh G26 (Red) 2019",
   "slug": "vapcell-inr18650-2600mah-g26-red-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2600,
+  "rated_mah": 2500,
   "prot": "na",
-  "year": "8-2019",
+  "year": 2019,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR18650%202600mAh%20G26%20(Red)%202019/DSC_9316.jpg"
 }

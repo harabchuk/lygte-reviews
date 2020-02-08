@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Liter INR20650 3400mAh (Blue) UK.html",
   "title": "Liter INR20650 3400mAh (Blue)",
   "slug": "liter-inr20650-3400mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "20650",
   "top": "flat",
-  "rated_mah": 3400,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "8-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Liter%20INR20650%203400mAh%20(Blue)/DSC_1006.jpg"
 }

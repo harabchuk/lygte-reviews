@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Samsung INR18650-29E 2900mAh (Blue) UK.html",
   "title": "Samsung INR18650-29E 2900mAh (Blue)",
   "slug": "samsung-inr18650-29e-2900mah-blue",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2900,
+  "rated_mah": 3000,
   "prot": "na",
-  "year": "2-2014",
+  "year": 2014,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Samsung%20INR18650-29E%202900mAh%20(Blue)/DSC_5013.jpg"
 }

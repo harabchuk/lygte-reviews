@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/TrustFire IMR21700 4000mAh (Black) 2019 UK.html",
   "title": "TrustFire IMR21700 4000mAh (Black) 2019",
   "slug": "trustfire-imr21700-4000mah-black-2019",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "21700",
   "top": "flat",
   "rated_mah": 4000,
   "prot": "na",
-  "year": "12-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/TrustFire%20IMR21700%204000mAh%20(Black)%202019/DSC_4862.jpg"
 }

@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Sony US18650VC7 3400mAh (Green) UK.html",
   "title": "Sony US18650VC7 3400mAh (Green)",
   "slug": "sony-us18650vc7-3400mah-green",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 3400,
+  "rated_mah": 3500,
   "prot": "na",
-  "year": "10-2017",
+  "year": 2017,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Sony%20US18650VC7%203400mAh%20(Green)/DSC_3138.jpg"
 }

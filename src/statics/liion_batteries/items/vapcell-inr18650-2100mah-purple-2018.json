@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Vapcell INR18650 2100mAh (Purple) 2018 UK.html",
   "title": "Vapcell INR18650 2100mAh  (Purple) 2018",
   "slug": "vapcell-inr18650-2100mah-purple-2018",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "flat",
-  "rated_mah": 2100,
+  "rated_mah": 2000,
   "prot": "na",
-  "year": "1-2018",
+  "year": 2018,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Vapcell%20INR18650%202100mAh%20(Purple)%202018/DSC_5782.jpg"
 }

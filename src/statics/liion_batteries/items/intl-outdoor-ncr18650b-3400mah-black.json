@@ -3,10 +3,11 @@
   "url": "https://lygte-info.dk/review/batteries2012/Intl-outdoor NCR18650B 3400mAh (Black) UK.html",
   "title": "Intl-outdoor NCR18650B 3400mAh (Black)",
   "slug": "intl-outdoor-ncr18650b-3400mah-black",
-  "battery_type": "LiIon",
+  "type": "LiIon",
+  "size": "18650",
   "top": "LB",
-  "rated_mah": 3400,
-  "prot": "11.6",
-  "year": "11-2012",
+  "rated_mah": 3500,
+  "prot": "> 10",
+  "year": 2012,
   "preview": "https://lygte-info.dk/pic/Batteries2012/Intl-outdoor%20NCR18650B%203400mAh%20(Black)/DSC_0731.jpg"
 }
