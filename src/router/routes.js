@@ -50,6 +50,29 @@ const routes = [
     ],
   },
   {
+    path: '/liion-batteries',
+    component: () => defaultLayout,
+    children: [
+      { 
+        name: 'liion-batteries',
+        path: '',
+        component: () => import('pages/LiionBatteries.vue'),
+        meta: {
+          title: 'LiIon Batteries',
+        },
+      },
+      { 
+        name: 'liion-battery-review',
+        path: 'battery-review/:slug', 
+        component: () => import('pages/LiionBatteryReview.vue'),
+        meta: {
+          title: 'Review',
+          backButton: true,
+        },
+      },
+    ],
+  },
+  {
     path: '/notready',
     component: () => defaultLayout,
     children: [

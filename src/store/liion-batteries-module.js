@@ -2,44 +2,20 @@ import PouchDB from 'pouchdb';
 import FindPlugin from 'pouchdb-find';
 PouchDB.plugin(FindPlugin);
 
-const DB_NAME = 'chargers';
-const JSON_FILES_DIR = '/statics/chargers';
+const DB_NAME = 'iion-batteries';
+const JSON_FILES_DIR = '/statics/liion_batteries';
 const pageSize = 20;
 
 const state = {
     filterValues: {},
     index: null,
     currentFilters: {
-        slots: [],
-        chemistry: [],
-        power: [],
-        extra: [],
-        year: [],
-        rating: [],
+        type: [],
     },
     currentList: [],
     currentListPortioned: [],
     currentPortionStart: 0,
 };
-
-const ratingValueMap = {
-    0: 'None',
-    1: 'Bad',
-    2: 'Useable',
-    3: 'Acceptable',
-    4: 'Some Good',
-    5: 'Fairly Good',
-    6: 'Good',
-    7: 'Very Good',
-};
-
-function ratingsToInt(ratings) {
-    const backMap = {};
-    Object.entries(ratingValueMap).forEach(entry => {
-        backMap[entry[1]] = entry[0];
-    });
-    return ratings.map(r => parseInt(backMap[r]));
-}
 
 async function populateDatabase(items) {
     const db = new PouchDB(DB_NAME);
@@ -56,18 +32,6 @@ async function populateDatabase(items) {
         doc['_id'] = item.slug;
         db.put(doc);
     });
-    // index
-    /*
-    await db.createIndex({
-        index: {
-            fields: ['slots'],
-        }
-    });
-    await db.createIndex({
-        index: {
-            fields: ['chemistry'],
-        }
-    }); */
     return db;
 }
 
@@ -86,20 +50,10 @@ function singleFieldQueryArray(currentFilters, filterName) {
     return queryFromValues(filterName, currentFilters[filterName]);
 }
 
-function ratingsQueryArray(currentFilters) {
-    const filterName = 'rating';
-    return queryFromValues(filterName, ratingsToInt(currentFilters[filterName]));
-}
-
 function buildDbQuery(currentFilters) {
     return {
         selector: {
-            ...singleFieldQueryArray(currentFilters, 'slots'),
-            ...singleFieldQueryArray(currentFilters, 'chemistry'),
-            ...singleFieldQueryArray(currentFilters, 'power'),
-            ...singleFieldQueryArray(currentFilters, 'extra'),
-            ...singleFieldQueryArray(currentFilters, 'year'),
-            ...ratingsQueryArray(currentFilters),
+            ...singleFieldQueryArray(currentFilters, 'type'),
         }
     };
 }
@@ -107,15 +61,6 @@ function buildDbQuery(currentFilters) {
 const getters = {
     getCurrentFiltersCopy(state) {
         return JSON.parse(JSON.stringify(state.currentFilters));
-    },
-    getRatingOptions(state) {
-        if (!state.filterValues.rating) {
-            return [];
-        }
-        return state.filterValues.rating.map(r => ratingValueMap[r]);
-    },
-    getRatingsValuesMap(state) {
-        return ratingValueMap;
     },
     hasMorePortionedItems(state) {
         return state.currentListPortioned.length < state.currentList.length;

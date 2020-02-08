@@ -2,6 +2,10 @@ import PouchDB from 'pouchdb';
 import FindPlugin from 'pouchdb-find';
 PouchDB.plugin(FindPlugin);
 
+const DB_NAME = 'batteries';
+const JSON_FILES_DIR = '/statics/batteries';
+const pageSize = 20
+
 const state = {
     filterValues: {},
     index: null,
@@ -13,11 +17,8 @@ const state = {
     currentPortionStart: 0,
 };
 
-const pageSize = 20;
-
-
 async function populateDatabase(items) {
-    const db = new PouchDB('batteries');
+    const db = new PouchDB(DB_NAME);
     if (!items.length) {
         return db;
     }
@@ -99,7 +100,7 @@ const actions = {
         if (state.index) {
             return;
         }
-        const result = await fetch(`/statics/batteries/index.json`);
+        const result = await fetch(`${JSON_FILES_DIR}/index.json`);
         const data = await result.json();
         const items = data.items || [];
         const filterValues = data.filters || {};
@@ -109,12 +110,12 @@ const actions = {
         commit('setFilterValues', filterValues);
     },
     async fetchReview({ commit }, slug) {
-        const result = await fetch(`/statics/batteries/items/${slug}.json`);
+        const result = await fetch(`${JSON_FILES_DIR}/items/${slug}.json`);
         return await result.json();
     },
     async applyCurrentFilters({ commit, state }, currentFilters) {
         commit('setCurrentFilters', currentFilters);
-        const db = new PouchDB('batteries');
+        const db = new PouchDB(DB_NAME);
         const query = buildDbQuery(currentFilters);
         const found = await db.find(query);
         commit('setCurrentList', found.docs);

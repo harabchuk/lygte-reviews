@@ -3,6 +3,7 @@ import Vuex from 'vuex'
 
 import chargersModule from './chargers-module'
 import batteriesModule from './batteries-module'
+import liionBatteriesModule from './liion-batteries-module'
 
 Vue.use(Vuex)
 
@@ -20,6 +21,7 @@ export default function (/* { ssrContext } */) {
     modules: {
       chargersModule,
       batteriesModule,
+      liionBatteriesModule,
     },
 
     // enable strict mode (adds overhead!)
