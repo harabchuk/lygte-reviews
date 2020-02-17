@@ -20,16 +20,18 @@ const state = {
     currentList: [],
     currentListPortioned: [],
     currentPortionStart: 0,
+    processing: false,
 };
 
 async function populateDatabase(items) {
-    const db = new PouchDB(DB_NAME);
+    let db = new PouchDB(DB_NAME);
     if (!items.length) {
         return db;
     }
     try {
         await db.get(items[0].slug);
-        return db;
+        await db.destroy();
+        db = new PouchDB(DB_NAME);
     } catch(err) {}
     // populate db
     items.forEach(item => {
@@ -77,7 +79,10 @@ const getters = {
     },
     isIndexLoaded(state) {
         return Boolean(state.index);
-    }
+    },
+    isListLoading(state) {
+        return !Boolean(state.index) || state.processing;
+    },
 };
 
 const mutations = {
@@ -102,6 +107,9 @@ const mutations = {
         state.currentPortionStart = state.currentPortionStart + pageSize;
         state.currentListPortioned.push(...state.currentList.slice(state.currentPortionStart, state.currentPortionStart + pageSize));
     },
+    setProcessing(state, isProcessing) {
+        state.processing = isProcessing;
+    },
 };
 
 
@@ -124,11 +132,13 @@ const actions = {
         return await result.json();
     },
     async applyCurrentFilters({ commit, state }, currentFilters) {
+        commit('setProcessing', true);
         commit('setCurrentFilters', currentFilters);
         const db = new PouchDB(DB_NAME);
         const query = buildDbQuery(currentFilters);
         const found = await db.find(query);
         commit('setCurrentList', found.docs);
+        commit('setProcessing', false);
     },
 };
 

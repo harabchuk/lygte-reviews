@@ -2,12 +2,12 @@
   <q-page>
 
     <div
-      v-if="!isIndexLoaded" 
+      v-if="!indexLoaded"
       class="text-center">
       <q-spinner-dots color="primary" size="40px" />
     </div>
 
-    <div v-if="isIndexLoaded">
+    <div v-if="indexLoaded">
       <ChargerFilters />
 
       <q-separator class="q-mb-xs" />
@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import { mapActions, mapGetters } from 'vuex';
+import { mapActions, mapState } from 'vuex';
 import ChargersList from '../components/ChargersList';
 import ChargerFilters from '../components/ChargerFilters';
 
@@ -33,8 +33,8 @@ export default {
     await this.fetchIndex();
   },
   computed: {
-    ...mapGetters('chargersModule', [
-      'isIndexLoaded',
+    ...mapState('chargersModule', [
+      'indexLoaded',
     ])
   },
   methods: {

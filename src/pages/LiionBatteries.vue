@@ -8,25 +8,34 @@
     </div>
 
     <div v-if="isIndexLoaded">
+      <LiionBatteryFilters />
 
       <q-separator class="q-mb-xs" />
 
-      <LiionBatteriesList />
+      <div
+          v-if="isListLoading" 
+          class="text-center">
+          <q-spinner-dots color="primary" size="40px" />
+      </div>
+
+      <LiionBatteriesList 
+        v-if="!isListLoading" 
+      />
     </div>
 
   </q-page>
 </template>
 
 <script>
-import { mapActions, mapGetters } from 'vuex';
+import { mapActions, mapGetters, mapState } from 'vuex';
 import LiionBatteriesList from '../components/LiionBatteriesList';
-//import BatteryFilters from '../components/BatteryFilters';
+import LiionBatteryFilters from '../components/LiionBatteryFilters';
 
 export default {
   name: 'Batteries',
   components: {
     LiionBatteriesList,
-    //BatteryFilters,
+    LiionBatteryFilters,
   },
   async mounted() {
     await this.fetchIndex();
@@ -34,7 +43,8 @@ export default {
   computed: {
     ...mapGetters('liionBatteriesModule', [
       'isIndexLoaded',
-    ])
+      'isListLoading',
+    ]),
   },
   methods: {
     ...mapActions('liionBatteriesModule', [

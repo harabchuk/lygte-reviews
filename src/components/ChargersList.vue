@@ -1,8 +1,8 @@
 <template>
   <div v-if="currentList.length">
     <q-list>
-      <q-item 
-        v-for="item in currentListPortioned" :key="item.slug" clickable 
+      <q-item
+        v-for="item in currentList" :key="item.slug" clickable
         :to="{
           name: 'charger-review',
           params: {
@@ -33,13 +33,13 @@
     </q-list>
 
     <div class="row justify-center">
-      <q-btn 
-        v-if="hasMorePortionedItems" 
+      <q-btn
+        v-if="hasMorePortionedItems"
         outline
         text-color="primary"
         label="Load more..."
         class="q-mt-md q-mb-md"
-        @click="incrementCurrentPortionStart()"
+        @click="fetchNextPage()"
       />
     </div>
 
@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import { mapGetters, mapMutations, mapState } from 'vuex';
+import { mapGetters, mapActions, mapState } from 'vuex';
 import RatingIndicator from './RatingIndicator';
 
 export default {
@@ -62,12 +62,11 @@ export default {
       ]),
       ...mapState('chargersModule', [
         'currentList',
-        'currentListPortioned',
       ]),
     },
     methods: {
-      ...mapMutations('chargersModule', [
-        'incrementCurrentPortionStart',
+      ...mapActions('chargersModule', [
+        'fetchNextPage',
       ]),
     },
 }

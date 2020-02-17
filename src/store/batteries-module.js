@@ -15,6 +15,7 @@ const state = {
     currentList: [],
     currentListPortioned: [],
     currentPortionStart: 0,
+    processing: false,
 };
 
 async function populateDatabase(items) {
@@ -24,7 +25,8 @@ async function populateDatabase(items) {
     }
     try {
         await db.get(items[0].slug);
-        return db;
+        await db.destroy();
+        db = new PouchDB(DB_NAME);
     } catch(err) {}
     // populate db
     items.forEach(item => {
@@ -92,6 +94,9 @@ const mutations = {
         state.currentPortionStart = state.currentPortionStart + pageSize;
         state.currentListPortioned.push(...state.currentList.slice(state.currentPortionStart, state.currentPortionStart + pageSize));
     },
+    setProcessing(state, isProcessing) {
+        state.processing = isProcessing;
+    },
 };
 
 
@@ -100,6 +105,7 @@ const actions = {
         if (state.index) {
             return;
         }
+        commit('setProcessing', true);
         const result = await fetch(`${JSON_FILES_DIR}/index.json`);
         const data = await result.json();
         const items = data.items || [];
@@ -108,17 +114,20 @@ const actions = {
         commit('setIndex', items);
         commit('setCurrentList', items);
         commit('setFilterValues', filterValues);
+        commit('setProcessing', false);
     },
     async fetchReview({ commit }, slug) {
         const result = await fetch(`${JSON_FILES_DIR}/items/${slug}.json`);
         return await result.json();
     },
     async applyCurrentFilters({ commit, state }, currentFilters) {
+        commit('setProcessing', true);
         commit('setCurrentFilters', currentFilters);
         const db = new PouchDB(DB_NAME);
         const query = buildDbQuery(currentFilters);
         const found = await db.find(query);
         commit('setCurrentList', found.docs);
+        commit('setProcessing', false);
     },
 };
 
