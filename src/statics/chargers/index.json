@@ -252,6 +252,35 @@
   },
   "items": [
     {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Vapcell%20U2%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Vapcell/U2/DSC_1555.jpg",
+      "title": "Vapcell U2",
+      "slug": "vapcell-u2",
+      "slots": 2,
+      "slots_max_size": 2,
+      "battery_len_min": 34,
+      "battery_len_max": 77,
+      "battery_d_min": 10,
+      "battery_d_max": 26,
+      "current_all": 1.0,
+      "current_single_max": 2.0,
+      "current_single_min": 0.5,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V",
+        "LiIon 4.35V",
+        "LiFePO4"
+      ],
+      "power": [
+        "USB"
+      ],
+      "extra": [
+        "Power Bank"
+      ],
+      "rating": 5,
+      "year": 2020
+    },
+    {
       "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20M8%20Battery%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Dlyfull/M8%20Battery%20Charger/DSC_1543.jpg",
       "title": "Dlyfull M8 Battery Charger",
