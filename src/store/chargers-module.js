@@ -137,9 +137,7 @@ const mutations = {
 
 const actions = {
     async fetchIndex({ commit, state }) {
-        commit('setProcessing', true);
         storageCommon.fetchIndex(DB_NAME, commit, 'chargers', JSON_FILES_DIR, PAGE_SIZE);
-        commit('setProcessing', false);
     },
     async fetchNextPage({ commit, state }) {
         const db = new PouchDB(DB_NAME);

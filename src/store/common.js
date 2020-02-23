@@ -41,6 +41,7 @@ async function runFindPaginated(db, commit, query, pageSize) {
 }
 
 async function fetchIndex(dbName, commit, storageName, jsonFilesDir, pageSize) {
+  commit('setProcessing', true);
   // Load index.json and "filter values"
   const result = await fetch(`${jsonFilesDir}/index.json`);
   const data = await result.json();
@@ -60,6 +61,7 @@ async function fetchIndex(dbName, commit, storageName, jsonFilesDir, pageSize) {
   runFindPaginated(db, commit, null, pageSize);
 
   commit('setIndexLoaded', true);
+  commit('setProcessing', false);
 }
 
 export default {
