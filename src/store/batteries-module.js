@@ -1,41 +1,30 @@
 import PouchDB from 'pouchdb';
 import FindPlugin from 'pouchdb-find';
+import storageCommon from './common';
 PouchDB.plugin(FindPlugin);
 
 const DB_NAME = 'batteries';
 const JSON_FILES_DIR = '/statics/batteries';
-const pageSize = 20
+const PAGE_SIZE = 20
 
 const state = {
     filterValues: {},
-    index: null,
     currentFilters: {
         type: [],
     },
-    currentList: [],
-    currentListPortioned: [],
-    currentPortionStart: 0,
-    processing: false,
-};
 
-async function populateDatabase(items) {
-    const db = new PouchDB(DB_NAME);
-    if (!items.length) {
-        return db;
+    processing: false,
+    currentList: [],
+    indexLoaded: false,
+
+    pagination: {
+        idsList: [],
+        hasMorePages: true,
+        page: 0,
+        pageSize: PAGE_SIZE,
+        pageDocs: null,
     }
-    try {
-        await db.get(items[0].slug);
-        await db.destroy();
-        db = new PouchDB(DB_NAME);
-    } catch(err) {}
-    // populate db
-    items.forEach(item => {
-        const doc = item;
-        doc['_id'] = item.slug;
-        db.put(doc);
-    });
-    return db;
-}
+};
 
 function queryFromValues(filterName, values) {
     const query = {};
@@ -65,69 +54,61 @@ const getters = {
         return JSON.parse(JSON.stringify(state.currentFilters));
     },
     hasMorePortionedItems(state) {
-        return state.currentListPortioned.length < state.currentList.length;
+      return state.pagination.hasMorePages;
     },
-    isIndexLoaded(state) {
-        return Boolean(state.index);
-    }
 };
 
 const mutations = {
-    setIndex(state, data) {
-        state.index = data;
-    },
-    setFilterValues(state, values) {
-        state.filterValues = values;
-    },
-    setCurrentFilters(state, values) {
-        state.currentFilters = values;
-    },
-    setCurrentList(state, items) {
-        state.currentList = items;
-        state.currentListPortioned = items.slice(0, pageSize);
-    },
-    setCurrentPortionStart(state, startIndex) {
-        state.currentPortionStart = startIndex;
-        state.currentListPortioned.push(...state.currentList.slice(startIndex, startIndex + pageSize));
-    },
-    incrementCurrentPortionStart(state) {
-        state.currentPortionStart = state.currentPortionStart + pageSize;
-        state.currentListPortioned.push(...state.currentList.slice(state.currentPortionStart, state.currentPortionStart + pageSize));
-    },
-    setProcessing(state, isProcessing) {
-        state.processing = isProcessing;
-    },
+  setFilterValues(state, values) {
+    state.filterValues = values;
+  },
+  setCurrentFilters(state, values) {
+      state.currentFilters = values;
+  },
+  setCurrentList(state, items) {
+      state.currentList = items;
+  },
+  appendCurrentList(state, items) {
+      state.currentList.push(...items);
+  },
+  setProcessing(state, isProcessing) {
+      state.processing = isProcessing;
+  },
+  setPagination(state, pagination) {
+      state.pagination = pagination;
+  },
+  setPaginationNextPage(state, nextPage) {
+      state.pagination.pageDocs = nextPage.pageDocs;
+      state.pagination.page = nextPage.page;
+      state.pagination.hasMorePages = nextPage.hasMorePages;
+  },
+  setIndexLoaded(state, isLoaded) {
+    state.indexLoaded = isLoaded;
+  }
 };
 
 
 const actions = {
     async fetchIndex({ commit, state }) {
-        if (state.index) {
-            return;
-        }
-        commit('setProcessing', true);
-        const result = await fetch(`${JSON_FILES_DIR}/index.json`);
-        const data = await result.json();
-        const items = data.items || [];
-        const filterValues = data.filters || {};
-        await populateDatabase(items);
-        commit('setIndex', items);
-        commit('setCurrentList', items);
-        commit('setFilterValues', filterValues);
-        commit('setProcessing', false);
+      commit('setProcessing', true);
+      await storageCommon.fetchIndex(DB_NAME, commit, 'batteries', JSON_FILES_DIR, PAGE_SIZE);
+      commit('setProcessing', false);
     },
-    async fetchReview({ commit }, slug) {
-        const result = await fetch(`${JSON_FILES_DIR}/items/${slug}.json`);
-        return await result.json();
+    async fetchNextPage({ commit, state }) {
+      const db = new PouchDB(DB_NAME);
+      storageCommon.fetchNextPage(db, commit, state);
     },
     async applyCurrentFilters({ commit, state }, currentFilters) {
-        commit('setProcessing', true);
-        commit('setCurrentFilters', currentFilters);
-        const db = new PouchDB(DB_NAME);
-        const query = buildDbQuery(currentFilters);
-        const found = await db.find(query);
-        commit('setCurrentList', found.docs);
-        commit('setProcessing', false);
+      commit('setProcessing', true);
+      commit('setCurrentFilters', currentFilters);
+      const db = new PouchDB(DB_NAME);
+      const query = buildDbQuery(currentFilters);
+      storageCommon.runFindPaginated(db, commit, query, PAGE_SIZE);
+      commit('setProcessing', false);
+    },
+    async fetchReview({ commit }, slug) {
+      const result = await fetch(`${JSON_FILES_DIR}/items/${slug}.json`);
+      return await result.json();
     },
 };
 

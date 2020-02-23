@@ -9,9 +9,7 @@
 
     <div v-if="indexLoaded">
       <ChargerFilters />
-
       <q-separator class="q-mb-xs" />
-
       <ChargersList />
     </div>
 

@@ -1,6 +1,5 @@
 import PouchDB from 'pouchdb';
 import FindPlugin from 'pouchdb-find';
-import dbHelpers from '../utils/pouchdb-helpers';
 import storageCommon from './common';
 PouchDB.plugin(FindPlugin);
 
@@ -19,6 +18,7 @@ const state = {
         rating: [],
     },
 
+    processing: false,
     currentList: [],
     indexLoaded: false,
 

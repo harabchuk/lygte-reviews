@@ -1,5 +1,5 @@
 <template>
-    <div 
+    <div
         v-if="filterValues && currentFiltersLocal"
         class="q-ma-sm"
     >
@@ -26,7 +26,7 @@ export default {
         };
     },
     mounted() {
-        this.currentFiltersLocal = this.getCurrentFiltersCopy; 
+        this.currentFiltersLocal = this.getCurrentFiltersCopy;
     },
     watch: {
       currentFilters(v) {
@@ -40,7 +40,6 @@ export default {
         ]),
         ...mapGetters('batteriesModule', [
             'getCurrentFiltersCopy',
-            'getRatingOptions'
         ]),
     },
     methods: {

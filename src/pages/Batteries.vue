@@ -1,41 +1,33 @@
 <template>
   <q-page>
-
-    <div
-      v-if="!isIndexLoaded" 
-      class="text-center">
-      <q-spinner-dots color="primary" size="40px" />
-    </div>
-
-    <div v-if="isIndexLoaded">
-
+    <LoadingIndicator v-if="!indexLoaded" />
+    <div v-if="indexLoaded">
       <BatteryFilters />
-
       <q-separator class="q-mb-xs" />
-
       <BatteriesList />
     </div>
-
   </q-page>
 </template>
 
 <script>
-import { mapActions, mapGetters } from 'vuex';
+import { mapActions, mapState } from 'vuex';
 import BatteriesList from '../components/BatteriesList';
 import BatteryFilters from '../components/BatteryFilters';
+import LoadingIndicator from '../components/LoadingIndicator';
 
 export default {
   name: 'Batteries',
   components: {
     BatteriesList,
     BatteryFilters,
+    LoadingIndicator,
   },
   async mounted() {
     await this.fetchIndex();
   },
   computed: {
-    ...mapGetters('batteriesModule', [
-      'isIndexLoaded',
+    ...mapState('batteriesModule', [
+      'indexLoaded',
     ])
   },
   methods: {
