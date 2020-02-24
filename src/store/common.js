@@ -58,7 +58,7 @@ async function fetchIndex(dbName, commit, storageName, jsonFilesDir, pageSize) {
   }
 
   // Fetch one page of unfiltered items
-  runFindPaginated(db, commit, null, pageSize);
+  await runFindPaginated(db, commit, null, pageSize);
 
   commit('setIndexLoaded', true);
   commit('setProcessing', false);
