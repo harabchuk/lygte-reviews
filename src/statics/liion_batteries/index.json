@@ -2911,6 +2911,18 @@
       "preview": "https://lygte-info.dk/pic/Batteries2012/Fenix%2018650%20ARB-L2%202600mAh%20(Black)/DSC_2127.jpg"
     },
     {
+      "url": "https://lygte-info.dk/review/batteries2012/Fitorch 26350 USB UC20R 2000mAh (Black-Orange) UK.html",
+      "title": "Fitorch 26350 USB UC20R 2000mAh (Black-Orange)",
+      "slug": "fitorch-26350-usb-uc20r-2000mah-black-orange",
+      "type": "LiIon",
+      "size": "26350",
+      "top": "flat",
+      "rated_mah": 2000,
+      "prot": "na",
+      "year": 2020,
+      "preview": "https://lygte-info.dk/pic/Batteries2012/Fitorch%2026350%20USB%20UC20R%202000mAh%20(Black-Orange)/DSC_2097.jpg"
+    },
+    {
       "url": "https://lygte-info.dk/review/batteries2012/Foxnovo 18650 3100mAh (Blue-white) UK.html",
       "title": "Foxnovo 18650 3100mAh (Blue-white)",
       "slug": "foxnovo-18650-3100mah-blue-white",
@@ -5159,6 +5171,18 @@
       "prot": "na",
       "year": 2017,
       "preview": "https://lygte-info.dk/pic/Batteries2012/nicjoy%2018650%202600mAh%20(Green-brown)/DSC_9846.jpg"
+    },
+    {
+      "url": "https://lygte-info.dk/review/batteries2012/Nicron 14500 USB NRB-L750 750mAh  (Black-Orange) UK.html",
+      "title": "Nicron 14500 USB NRB-L750 750mAh  (Black-Orange)",
+      "slug": "nicron-14500-usb-nrb-l750-750mah-black-orange",
+      "type": "LiIon",
+      "size": "14500",
+      "top": "SB",
+      "rated_mah": 1000,
+      "prot": "na",
+      "year": 2020,
+      "preview": "https://lygte-info.dk/pic/Batteries2012Small/Nicron%2014500%20USB%20NRB-L750%20750mAh%20%20(Black-Orange)/DSC_2087.jpg"
     },
     {
       "url": "https://lygte-info.dk/review/batteries2012/Nitecore 14500 NL147 750mAh (Black-yellow) UK.html",
