@@ -1,5 +1,5 @@
 <template>
-    <div 
+    <div
         v-if="filterValues && currentFiltersLocal"
         class="q-ma-sm"
     >
@@ -23,7 +23,9 @@
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.year" :options="filterValues.year" label="Year" />
             </div>
             <div class="col">
+                <!--
                 <q-select outlined use-chips dense multiple v-model="currentFiltersLocal.rated_mah" :options="filterValues.rated_mah" label="Rated mAh" />
+                -->
             </div>
         </div>
 
@@ -44,7 +46,7 @@ export default {
         };
     },
     mounted() {
-        this.currentFiltersLocal = this.getCurrentFiltersCopy; 
+        this.currentFiltersLocal = this.getCurrentFiltersCopy;
     },
     watch: {
       currentFilters(v) {
@@ -58,7 +60,6 @@ export default {
         ]),
         ...mapGetters('liionBatteriesModule', [
             'getCurrentFiltersCopy',
-            'getRatingOptions'
         ]),
     },
     methods: {

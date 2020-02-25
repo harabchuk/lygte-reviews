@@ -1,7 +1,5 @@
 import PouchDB from 'pouchdb';
-import FindPlugin from 'pouchdb-find';
 import storageCommon from './common';
-PouchDB.plugin(FindPlugin);
 
 const DB_NAME = 'chargers';
 const JSON_FILES_DIR = '/statics/chargers';
@@ -137,6 +135,9 @@ const mutations = {
 
 const actions = {
     async fetchIndex({ commit, state }) {
+        if (state.indexLoaded) {
+          return;
+        }
         storageCommon.fetchIndex(DB_NAME, commit, 'chargers', JSON_FILES_DIR, PAGE_SIZE);
     },
     async fetchNextPage({ commit, state }) {
