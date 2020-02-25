@@ -65,7 +65,7 @@
             <q-item-label caption>18650/18360/26500 etc. LiIon batteries</q-item-label>
           </q-item-section>
         </q-item>
-
+        <!--
         <q-item clickable to="/notready/2">
           <q-item-section avatar>
             <q-icon name="fas fa-calculator" />
@@ -113,10 +113,10 @@
             <q-item-label>Projects</q-item-label>
           </q-item-section>
         </q-item>
-
+        -->
 
         <div class="q-pa-md">
-          © All reviews are from <a href="https://lygte-info.dk/" target="_blank">https://lygte-info.dk/</a> and subject to copyright. 
+          © All reviews are from <a href="https://lygte-info.dk/" target="_blank">https://lygte-info.dk/</a> and subject to copyright.
         </div>
 
       </q-list>
