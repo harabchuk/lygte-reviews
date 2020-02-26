@@ -162,6 +162,7 @@
       2.5,
       2.6,
       3.0,
+      3.6,
       4.1,
       6.0,
       8.0
@@ -194,7 +195,8 @@
       1.8,
       2.0,
       2.5,
-      3.0
+      3.0,
+      3.6
     ],
     "chemistry": [
       "LiFePO4",
@@ -251,6 +253,30 @@
     ]
   },
   "items": [
+    {
+      "url": "https://lygte-info.dk/review/Review%20Charger%20EBL%20iQuick%202-USB%20charger%20UK.html",
+      "preview": "https://lygte-info.dk/pic/EBL/iQuick%202-USB%20charger/DSC_9027.jpg",
+      "title": "EBL iQuick 2-USB charger",
+      "slug": "ebl-iquick-2-usb-charger",
+      "slots": 4,
+      "slots_max_size": 4,
+      "battery_len_min": 44,
+      "battery_len_max": 50,
+      "battery_d_min": 10,
+      "battery_d_max": 14,
+      "current_all": 0.9,
+      "current_single_max": 3.6,
+      "current_single_min": 3.6,
+      "chemistry": [
+        "NiMH"
+      ],
+      "power": [
+        "USB"
+      ],
+      "extra": [],
+      "rating": 5,
+      "year": 2020
+    },
     {
       "url": "https://lygte-info.dk/review/Review%20Charger%20Vapcell%20U2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Vapcell/U2/DSC_1555.jpg",
