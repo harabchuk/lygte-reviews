@@ -54,7 +54,9 @@ function buildDbQuery(currentFilters) {
             ...singleFieldQueryArray(currentFilters, 'top'),
             ...singleFieldQueryArray(currentFilters, 'prot'),
             ...singleFieldQueryArray(currentFilters, 'rated_mah'),
-        }
+            year: { $gt: 2000 }
+        },
+        sort: [{year: 'desc'}],
     };
 }
 

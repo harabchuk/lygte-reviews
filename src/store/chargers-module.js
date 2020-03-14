@@ -79,7 +79,9 @@ function buildDbQuery(currentFilters) {
             ...singleFieldQueryArray(currentFilters, 'extra'),
             ...singleFieldQueryArray(currentFilters, 'year'),
             ...ratingsQueryArray(currentFilters),
-        }
+            year: { $gt: 2000 }
+        },
+        sort: [{year: 'desc'}],
     };
 }
 
