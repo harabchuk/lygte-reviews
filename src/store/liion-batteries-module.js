@@ -48,13 +48,13 @@ function singleFieldQueryArray(currentFilters, filterName) {
 function buildDbQuery(currentFilters) {
     return {
         selector: {
+            year: { $gt: 2000 },
             ...singleFieldQueryArray(currentFilters, 'type'),
             ...singleFieldQueryArray(currentFilters, 'size'),
             ...singleFieldQueryArray(currentFilters, 'year'),
             ...singleFieldQueryArray(currentFilters, 'top'),
             ...singleFieldQueryArray(currentFilters, 'prot'),
             ...singleFieldQueryArray(currentFilters, 'rated_mah'),
-            year: { $gt: 2000 }
         },
         sort: [{year: 'desc'}],
     };

@@ -73,13 +73,13 @@ function ratingsQueryArray(currentFilters) {
 function buildDbQuery(currentFilters) {
     return {
         selector: {
+            year: { $gt: 2000 },
             ...singleFieldQueryArray(currentFilters, 'slots'),
             ...singleFieldQueryArray(currentFilters, 'chemistry'),
             ...singleFieldQueryArray(currentFilters, 'power'),
             ...singleFieldQueryArray(currentFilters, 'extra'),
             ...singleFieldQueryArray(currentFilters, 'year'),
             ...ratingsQueryArray(currentFilters),
-            year: { $gt: 2000 }
         },
         sort: [{year: 'desc'}],
     };

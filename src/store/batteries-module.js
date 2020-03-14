@@ -42,8 +42,9 @@ function singleFieldQueryArray(currentFilters, filterName) {
 function buildDbQuery(currentFilters) {
     return {
         selector: {
+            year: { $gt: 2000 },
             ...singleFieldQueryArray(currentFilters, 'type'),
-            year: { $gt: 2000 }
+
         },
         sort: [{year: 'desc'}],
     };
