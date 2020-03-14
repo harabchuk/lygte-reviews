@@ -6,7 +6,7 @@ const routes = [
     path: '/chargers',
     component: () => defaultLayout,
     children: [
-      { 
+      {
         name: 'chargers',
         path: '',
         component: () => import('pages/Chargers.vue'),
@@ -14,23 +14,23 @@ const routes = [
           title: 'Chargers',
         },
       },
-      { 
+      {
         name: 'charger-review',
-        path: 'charger-review/:slug', 
+        path: 'charger-review/:slug',
         component: () => import('pages/ChargerReview.vue'),
         meta: {
           title: 'Review',
           backButton: true,
         },
       },
-      
+
     ],
   },
   {
     path: '/batteries',
     component: () => defaultLayout,
     children: [
-      { 
+      {
         name: 'batteries',
         path: '',
         component: () => import('pages/Batteries.vue'),
@@ -38,9 +38,9 @@ const routes = [
           title: 'Batteries (AA/AAA/C/D/9V)',
         },
       },
-      { 
+      {
         name: 'battery-review',
-        path: 'battery-review/:slug', 
+        path: 'battery-review/:slug',
         component: () => import('pages/BatteryReview.vue'),
         meta: {
           title: 'Review',
@@ -53,7 +53,7 @@ const routes = [
     path: '/liion-batteries',
     component: () => defaultLayout,
     children: [
-      { 
+      {
         name: 'liion-batteries',
         path: '',
         component: () => import('pages/LiionBatteries.vue'),
@@ -61,9 +61,9 @@ const routes = [
           title: 'LiIon Batteries',
         },
       },
-      { 
+      {
         name: 'liion-battery-review',
-        path: 'battery-review/:slug', 
+        path: 'battery-review/:slug',
         component: () => import('pages/LiionBatteryReview.vue'),
         meta: {
           title: 'Review',
@@ -76,9 +76,9 @@ const routes = [
     path: '/notready',
     component: () => defaultLayout,
     children: [
-      { 
+      {
         name: 'notready',
-        path: ':id', 
+        path: ':id',
         component: () => import('pages/NotReady.vue'),
         meta: {
           title: 'Not ready yet',
@@ -87,6 +87,9 @@ const routes = [
       },
     ],
   },
+  {
+    path: '*', redirect: '/chargers'
+  }
 ]
 
 // Always leave this as last one
