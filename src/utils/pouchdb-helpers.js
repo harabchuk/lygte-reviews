@@ -23,11 +23,9 @@ async function hasDocuments(db) {
   return info.doc_count > 0;
 }
 
-async function populateDatabase(db, items, idField) {
+async function populateDatabase(db, items) {
   items.forEach(async item => {
-      const doc = item;
-      doc['_id'] = item[idField];
-      await insertIfNew(db, doc);
+      await insertIfNew(db, item);
   });
 }
 

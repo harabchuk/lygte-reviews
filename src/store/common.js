@@ -54,7 +54,7 @@ async function fetchIndex(dbName, commit, storageName, jsonFilesDir, pageSize) {
   if (!hasDocuments || timeToRefresh(storageName)) {
       await db.destroy();
       db = new PouchDB(dbName);
-      await dbHelpers.populateDatabase(db, data.items || [], 'slug');
+      await db.bulkDocs(data.items);
   }
 
   // Fetch one page of unfiltered items
