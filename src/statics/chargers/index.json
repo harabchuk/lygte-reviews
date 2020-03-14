@@ -254,6 +254,39 @@
   },
   "items": [
     {
+      "_id": "xtar-x4",
+      "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20X4%20UK.html",
+      "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarX4/DSC_2270.jpg",
+      "title": "Xtar X4",
+      "slug": "xtar-x4",
+      "slots": 4,
+      "slots_max_size": 2,
+      "battery_len_min": 31,
+      "battery_len_max": 72,
+      "battery_d_min": 10,
+      "battery_d_max": 26,
+      "current_all": 1.0,
+      "current_single_max": 2.0,
+      "current_single_min": 0.5,
+      "chemistry": [
+        "NiMH",
+        "LiIon 4.2V"
+      ],
+      "power": [
+        "USB",
+        "Mains"
+      ],
+      "extra": [
+        "V",
+        "mAh",
+        "Power Bank",
+        "IR"
+      ],
+      "rating": 6,
+      "year": 2020
+    },
+    {
+      "_id": "ebl-iquick-2-usb-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EBL%20iQuick%202-USB%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/EBL/iQuick%202-USB%20charger/DSC_9027.jpg",
       "title": "EBL iQuick 2-USB charger",
@@ -278,6 +311,7 @@
       "year": 2020
     },
     {
+      "_id": "vapcell-u2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Vapcell%20U2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Vapcell/U2/DSC_1555.jpg",
       "title": "Vapcell U2",
@@ -307,6 +341,7 @@
       "year": 2020
     },
     {
+      "_id": "dlyfull-m8-battery-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20M8%20Battery%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Dlyfull/M8%20Battery%20Charger/DSC_1543.jpg",
       "title": "Dlyfull M8 Battery Charger",
@@ -338,6 +373,7 @@
       "year": 2020
     },
     {
+      "_id": "dlyfull-t5-test-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20T5%20Test%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Dlyfull/T5%20Test%20Charger/DSC_1522.jpg",
       "title": "Dlyfull T5 Test Charger",
@@ -370,6 +406,7 @@
       "year": 2020
     },
     {
+      "_id": "rydbatt-jbc038-11",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Rydbatt%20JBC038-11%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Rydbatt%20JBC038-11/DSC_1152.jpg",
       "title": "Rydbatt JBC038-11",
@@ -395,6 +432,7 @@
       "year": 2020
     },
     {
+      "_id": "liitokala-lii-500s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-500S%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-500S/DSC_8214.jpg",
       "title": "LiitoKala Lii-500S",
@@ -426,6 +464,7 @@
       "year": 2020
     },
     {
+      "_id": "doublepow-dp-k209",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Doublepow%20DP-K209%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Doublepow%20DP-K209/DSC_1137.jpg",
       "title": "Doublepow DP-K209",
@@ -450,6 +489,7 @@
       "year": 2019
     },
     {
+      "_id": "vapcell-s4-fast-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Vapcell%20S4%2B%20fast%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Vapcell/S4%20plus/DSC_1056.jpg",
       "title": "Vapcell S4+ fast charger",
@@ -482,6 +522,7 @@
       "year": 2019
     },
     {
+      "_id": "usb-liion-charger-bh-042100-02u",
       "url": "https://lygte-info.dk/review/Review%20Charger%20USB%20LiIon%20Charger%20BH-042100-02U%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20USB%20LiIon%20Charger%20BH-042100-02U/DSC_9008.jpg",
       "title": "USB LiIon Charger BH-042100-02U",
@@ -506,6 +547,7 @@
       "year": 2019
     },
     {
+      "_id": "yonli-q1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Yonli%20Q1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Yonii%20Q1/DSC_0631.jpg",
       "title": "Yonli Q1",
@@ -531,6 +573,7 @@
       "year": 2019
     },
     {
+      "_id": "fenix-are-d1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-D1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-D1/DSC_0879.jpg",
       "title": "Fenix ARE-D1",
@@ -561,6 +604,7 @@
       "year": 2019
     },
     {
+      "_id": "tronic-lc-display-ian313693-hg04710a",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Tronic%20LCD%20Display%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Tronic%20LCD%20Display/DSC_0421.jpg",
       "title": "Tronic LC-Display IAN313693 HG04710A",
@@ -587,6 +631,7 @@
       "year": 2019
     },
     {
+      "_id": "golisi-i4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20i4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/i4/DSC_0648.jpg",
       "title": "Golisi i4",
@@ -615,6 +660,7 @@
       "year": 2019
     },
     {
+      "_id": "gh-power-charger-xy-186bs",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GH%20Power%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20GH%20Power/DSC_5372.jpg",
       "title": "GH Power Charger XY-186BS",
@@ -639,6 +685,7 @@
       "year": 2019
     },
     {
+      "_id": "dlyfull-d1-smart-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Dlyfull%20D1%20Smart%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Dlyfull/D1%20Smart%20Charger/DSC_9685.jpg",
       "title": "Dlyfull D1 Smart Charger",
@@ -666,6 +713,7 @@
       "year": 2019
     },
     {
+      "_id": "leise-nimh-4-slots-ls-u401a",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Leise%20NiMH%204%20slots%20LS-U401A%20UK.html",
       "preview": "https://lygte-info.dk/pic/Leise/NiMH%204%20slots%20LS-U401A/DSC_8094.jpg",
       "title": "Leise NiMH 4 slots LS-U401A",
@@ -690,6 +738,7 @@
       "year": 2019
     },
     {
+      "_id": "xtar-pb2s-charger-power-bank",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20PB2S%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarPB2S/DSC_9513.jpg",
       "title": "Xtar PB2S Charger & power bank",
@@ -718,6 +767,7 @@
       "year": 2019
     },
     {
+      "_id": "joinrun-s4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Joinrun%20S4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Joinrun/S4/DSC_7840.jpg",
       "title": "Joinrun S4",
@@ -750,6 +800,7 @@
       "year": 2019
     },
     {
+      "_id": "trustfire-tr-012",
       "url": "https://lygte-info.dk/review/Review%20Charger%20TrustFire%20TR-012%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-012/DSC_4435.jpg",
       "title": "TrustFire TR-012",
@@ -776,6 +827,7 @@
       "year": 2019
     },
     {
+      "_id": "basen-bo-4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Basen%20BO-4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Basen/BO-4/DSC_8538.jpg",
       "title": "Basen BO-4",
@@ -800,6 +852,7 @@
       "year": 2019
     },
     {
+      "_id": "basen-bo-2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Basen%20BO2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Basen/BO-2/DSC_7029.jpg",
       "title": "Basen BO-2",
@@ -824,6 +877,7 @@
       "year": 2019
     },
     {
+      "_id": "the-minimum-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20The%20minimum%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20The%20minimum%20charger/DSC_1256.jpg",
       "title": "The minimum charger",
@@ -849,6 +903,7 @@
       "year": 2019
     },
     {
+      "_id": "liitokala-lii-s2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-S2%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/Lii-S2/DSC_2154.jpg",
       "title": "LiitoKala Lii-S2",
@@ -879,6 +934,7 @@
       "year": 2019
     },
     {
+      "_id": "xtar-vp4c",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VP4C%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVP4C/DSC_7667.jpg",
       "title": "Xtar VP4C",
@@ -905,6 +961,7 @@
       "year": 2019
     },
     {
+      "_id": "xtar-vc4s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VC4S%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVC4S/DSC_7683.jpg",
       "title": "Xtar VC4S",
@@ -936,6 +993,7 @@
       "year": 2019
     },
     {
+      "_id": "isdt-n8",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ISDT%20N8%20UK.html",
       "preview": "https://lygte-info.dk/pic/ISDT/N8/DSC_5732.jpg",
       "title": "ISDT N8",
@@ -969,6 +1027,7 @@
       "year": 2019
     },
     {
+      "_id": "panasonic-bq-cc75",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC75%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC75/DSC_6930.jpg",
       "title": "Panasonic BQ-CC75",
@@ -995,6 +1054,7 @@
       "year": 2019
     },
     {
+      "_id": "golisi-l2-compact-mini-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20L2%20Compact%20Mini%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/L2%20Compact%20Mini%20Charger/DSC_5152.jpg",
       "title": "Golisi L2 Compact Mini Charger",
@@ -1020,6 +1080,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-x6-lcd-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20X6%20LCD%20Universal%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/X6%20LCD%20Universal%20Charger/DSC_5137.jpg",
       "title": "Eizfan X6 LCD charger",
@@ -1049,6 +1110,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-wf1-lcd-universal-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20WF1%20LCD%20Universal%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/WF1%20LCD%20Universal%20Charger/DSC_5102.jpg",
       "title": "Eizfan WF1 LCD Universal Charger",
@@ -1078,6 +1140,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-nc2-usb-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20NC2%20USB%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/NC2/DSC_6916.jpg",
       "title": "Eizfan NC2 USB Charger",
@@ -1102,6 +1165,7 @@
       "year": 2019
     },
     {
+      "_id": "fenix-are-x11-charger-power-bank",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X11%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-X11/DSC_0592.jpg",
       "title": "Fenix ARE-X11 Charger & power bank",
@@ -1129,6 +1193,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-pro-q4-intelligent-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20Pro%20Q4%20Intelligent%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/Pro%20Q4%20Intelligent%20Charger/DSC_5126.jpg",
       "title": "Eizfan Pro Q4 Intelligent Charger",
@@ -1153,6 +1218,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-pro-q2-intelligent-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20Pro%20Q2%20Intelligent%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/Pro%20Q2%20Intelligent%20Charger/DSC_5115.jpg",
       "title": "Eizfan Pro Q2 Intelligent Charger",
@@ -1177,6 +1243,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-nc1-usb-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20NC1%20USB%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/NC1/DSC_5067.jpg",
       "title": "Eizfan NC1 USB Charger",
@@ -1201,6 +1268,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-c2-usb-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20C2%20USB%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/C2%20USB%20Charger/DSC_5090.jpg",
       "title": "Eizfan C2 USB Charger",
@@ -1230,6 +1298,7 @@
       "year": 2019
     },
     {
+      "_id": "eizfan-c1-usb-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Eizfan%20C1%20USB%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/C1%20USB%20Charger/DSC_5078.jpg",
       "title": "Eizfan C1 USB Charger",
@@ -1259,6 +1328,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-v2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20V2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/V2/DSC_4385.jpg",
       "title": "NiteCore V2",
@@ -1286,6 +1356,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-lc10",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20LC10%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/LC10/DSC_3856.jpg",
       "title": "NiteCore LC10",
@@ -1314,6 +1385,7 @@
       "year": 2019
     },
     {
+      "_id": "allmaybe-tc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Allmaybe%20TC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Allmaybe/TC2/DSC_8516.jpg",
       "title": "Allmaybe TC2",
@@ -1344,6 +1416,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-ums4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UMS4%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UMS4/DSC_4068.jpg",
       "title": "NiteCore UMS4",
@@ -1376,6 +1449,7 @@
       "year": 2019
     },
     {
+      "_id": "liitokala-lii-pd4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-PD4%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/Lii-PD4/DSC_1698.jpg",
       "title": "LiitoKala Lii-PD4",
@@ -1406,6 +1480,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-um4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UM4%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UM4/DSC_4055.jpg",
       "title": "NiteCore UM4",
@@ -1438,6 +1513,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-ums2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UMS2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UMS2/DSC_4042.jpg",
       "title": "NiteCore UMS2",
@@ -1470,6 +1546,7 @@
       "year": 2019
     },
     {
+      "_id": "nitecore-um2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UM2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UM2/DSC_4029.jpg",
       "title": "NiteCore UM2",
@@ -1501,6 +1578,7 @@
       "year": 2019
     },
     {
+      "_id": "efan-x4-lcd-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efan%20X4%20LCD%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/X4%20LCD%20charger/DSC_3346.jpg",
       "title": "Efan X4 LCD charger",
@@ -1530,6 +1608,7 @@
       "year": 2019
     },
     {
+      "_id": "golisi-o4-smart-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20O4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/O4%20Smart%20Charger/DSC_3149.jpg",
       "title": "Golisi O4 Smart charger",
@@ -1556,6 +1635,7 @@
       "year": 2019
     },
     {
+      "_id": "golisi-o2-smart-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20O2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/O2%20Smart%20Charger/DSC_3137.jpg",
       "title": "Golisi O2 Smart charger",
@@ -1584,6 +1664,7 @@
       "year": 2019
     },
     {
+      "_id": "golisi-needle-2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20Needle%202%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/Needle%202/DSC_3125.jpg",
       "title": "Golisi Needle 2",
@@ -1608,6 +1689,7 @@
       "year": 2018
     },
     {
+      "_id": "efan-air-m8-intelligent-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efan%20Air%20M8%20Intelligent%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/Air%20M8%20Intelligent%20Charger/DSC_3362.jpg",
       "title": "Efan Air M8 Intelligent Charger",
@@ -1634,6 +1716,7 @@
       "year": 2018
     },
     {
+      "_id": "golisi-needle-1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20Needle%201%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/Needle%201/DSC_3114.jpg",
       "title": "Golisi Needle 1",
@@ -1658,6 +1741,7 @@
       "year": 2018
     },
     {
+      "_id": "woyum-zk4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Woyum%20ZK4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Woyum/ZK4/DSC_1429.jpg",
       "title": "Woyum ZK4",
@@ -1687,6 +1771,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-sc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20SC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerSC2/DSC_3087.jpg",
       "title": "Xtar SC2",
@@ -1712,6 +1797,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-d4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20D4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerD4/DSC_2785.jpg",
       "title": "Xtar D4",
@@ -1736,6 +1822,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-d2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20D2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerD2/DSC_2778.jpg",
       "title": "Xtar D2",
@@ -1760,6 +1847,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-vc2s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VC2S%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerVC2S/DSC_2769.jpg",
       "title": "Xtar VC2S",
@@ -1791,6 +1879,7 @@
       "year": 2018
     },
     {
+      "_id": "nitecore-q6",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Q6%20Quick%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Q6%20Quick%20Charger/DSC_1733.jpg",
       "title": "Nitecore Q6",
@@ -1816,6 +1905,7 @@
       "year": 2018
     },
     {
+      "_id": "nitecore-q4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Q4%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Q4%20Charger/DSC_1721.jpg",
       "title": "Nitecore Q4",
@@ -1841,6 +1931,7 @@
       "year": 2018
     },
     {
+      "_id": "nitecore-q2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Q2%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Q2%20Charger/DSC_1710.jpg",
       "title": "Nitecore Q2",
@@ -1866,6 +1957,7 @@
       "year": 2018
     },
     {
+      "_id": "woyum-zk1a",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Woyum%20ZK1A%20UK.html",
       "preview": "https://lygte-info.dk/pic/Woyum/ZK1A/DSC_1415.jpg",
       "title": "Woyum ZK1a",
@@ -1891,6 +1983,7 @@
       "year": 2018
     },
     {
+      "_id": "folomov-key-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Folomov%20Key%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Folomov/Key%20Charger/DSC_1234.jpg",
       "title": "Folomov Key Charger",
@@ -1917,6 +2010,7 @@
       "year": 2018
     },
     {
+      "_id": "golisi-s6",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20S6%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/S6/DSC_1226.jpg",
       "title": "Golisi S6",
@@ -1946,6 +2040,7 @@
       "year": 2018
     },
     {
+      "_id": "efest-lush-q8-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUSH%20Q8%20Charger%202018%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUSH%20Q8%20Charger%202018/DSC_0671.jpg",
       "title": "Efest LUSH Q8 Charger",
@@ -1971,6 +2066,7 @@
       "year": 2018
     },
     {
+      "_id": "palo-c906w",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PALO%20C906W%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20PALO%20C906W/DSC_9649.jpg",
       "title": "PALO C906W",
@@ -1997,6 +2093,7 @@
       "year": 2018
     },
     {
+      "_id": "isdt-a4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ISDT%20A4%20UK.html",
       "preview": "https://lygte-info.dk/pic/ISDT/A4/DSC_9847.jpg",
       "title": "ISDT A4",
@@ -2023,6 +2120,7 @@
       "year": 2018
     },
     {
+      "_id": "miboxer-c8-smart-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C8%20Smart%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C8%20Smart%20charger/DSC_0696.jpg",
       "title": "Miboxer C8 Smart charger",
@@ -2055,6 +2153,7 @@
       "year": 2018
     },
     {
+      "_id": "woyum-zk6",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Woyum%20ZK6%20UK.html",
       "preview": "https://lygte-info.dk/pic/Woyum/ZK6/DSC_0117.jpg",
       "title": "Woyum ZK6",
@@ -2082,6 +2181,7 @@
       "year": 2018
     },
     {
+      "_id": "efan-lux-s4-lcd-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efan%20Lux%20S4%20LCD%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efan/Lux%20S4%20LCD%20charger/DSC_9936.jpg",
       "title": "Efan Lux S4 LCD charger",
@@ -2115,6 +2215,7 @@
       "year": 2018
     },
     {
+      "_id": "doublepow-dp-u03",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Doublepow%20DP-U03%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Doublepow%20DP-U03/DSC_9636.jpg",
       "title": "Doublepow DP-U03",
@@ -2139,6 +2240,7 @@
       "year": 2018
     },
     {
+      "_id": "uniross-charger-lcd-3-5h",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Uniross%20Charger%20LCD%203-5H%20UK.html",
       "preview": "https://lygte-info.dk/pic/Uniross/Charger%20LCD%203-5H/DSC_0050.jpg",
       "title": "Uniross Charger LCD 3-5H",
@@ -2163,6 +2265,7 @@
       "year": 2018
     },
     {
+      "_id": "ev-peak-cq1-xr",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EV-Peak%20CQ1-XR%20UK.html",
       "preview": "https://lygte-info.dk/pic/EV-Peak/CQ1-XR/DSC_6393.jpg",
       "title": "EV-Peak CQ1-XR",
@@ -2196,6 +2299,7 @@
       "year": 2018
     },
     {
+      "_id": "golisi-s2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20S2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/S2/DSC_9253.jpg",
       "title": "Golisi S2",
@@ -2226,6 +2330,7 @@
       "year": 2018
     },
     {
+      "_id": "leise-nimh-2-slots-ls-u2c",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Leise%20NiMH%202%20slots%20LS-U2C%20UK.html",
       "preview": "https://lygte-info.dk/pic/Leise/NiMH%202%20slots%20LS-U2C/DSC_8888.jpg",
       "title": "Leise NiMH 2 slots LS-U2C",
@@ -2250,6 +2355,7 @@
       "year": 2018
     },
     {
+      "_id": "varta-lcd-multi-charger-57671",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20LCD%20Multi%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/LCD%20Multi%20Charger/DSC_2679.jpg",
       "title": "Varta LCD Multi Charger 57671",
@@ -2277,6 +2383,7 @@
       "year": 2018
     },
     {
+      "_id": "basen-bo-1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Basen%20BO-1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Basen/BO-1/DSC_8527.jpg",
       "title": "Basen BO-1",
@@ -2301,6 +2408,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-pb2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20PB2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarPB2/DSC_9068.jpg",
       "title": "Xtar PB2",
@@ -2328,6 +2436,7 @@
       "year": 2018
     },
     {
+      "_id": "nicjoy-a03-dual",
       "url": "https://lygte-info.dk/review/Review%20Charger%20NicJoy%20A03%20Dual%20UK.html",
       "preview": "https://lygte-info.dk/pic/NicJoy/A03%20Dual/DSC_8163.jpg",
       "title": "NicJoy A03 Dual",
@@ -2357,6 +2466,7 @@
       "year": 2018
     },
     {
+      "_id": "trustfire-tr-009",
       "url": "https://lygte-info.dk/review/Review%20Charger%20TrustFire%20TR-009%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-009/DSC_4523.jpg",
       "title": "TrustFire TR-009",
@@ -2385,6 +2495,7 @@
       "year": 2018
     },
     {
+      "_id": "gp-recyko-pro-u411",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GP%20ReCyko%2B%20Pro%20U411%20UK.html",
       "preview": "https://lygte-info.dk/pic/GP/GP%20ReCyko%2B%20Pro%20U411/DSC_8904.jpg",
       "title": "GP Recyko+ Pro U411",
@@ -2409,6 +2520,7 @@
       "year": 2018
     },
     {
+      "_id": "vapex-vte8000-8xnimh-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Vapex%20VTE8000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Vapex/VTE8000/DSC_3785.jpg",
       "title": "Vapex VTE8000 8xNiMH charger",
@@ -2434,6 +2546,7 @@
       "year": 2018
     },
     {
+      "_id": "brillipower-bic-2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Brillipower%20BIC-2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Brillipower/BIC-2/DSC_9245.jpg",
       "title": "Brillipower BIC-2",
@@ -2460,6 +2573,7 @@
       "year": 2018
     },
     {
+      "_id": "ultrafire-h2-hxy-h2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20UltraFire%20H2%20UK.html",
       "preview": "https://lygte-info.dk/pic/UltraFire/H2/DSC_6912.jpg",
       "title": "UltraFire H2 (HXY-H2)",
@@ -2489,6 +2603,7 @@
       "year": 2018
     },
     {
+      "_id": "liitokala-lii-s1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-S1%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-S1/DSC_6378.jpg",
       "title": "LiitoKala Lii-S1",
@@ -2518,6 +2633,7 @@
       "year": 2018
     },
     {
+      "_id": "nitecore-intellicharger-i8",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20i8%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Intellicharger%20i8/DSC_5986.jpg",
       "title": "Nitecore Intellicharger i8",
@@ -2546,6 +2662,7 @@
       "year": 2018
     },
     {
+      "_id": "sofirn-8-slots-aa-aaa",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Sofirn%208%20slots%20AA-AAA%20UK.html",
       "preview": "https://lygte-info.dk/pic/Sofirn/8%20slot%20AA-AAA%20charger/DSC_1566.jpg",
       "title": "Sofirn 8 slots AA/AAA",
@@ -2570,6 +2687,7 @@
       "year": 2018
     },
     {
+      "_id": "isdt-c4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ISDT%20C4%20UK.html",
       "preview": "https://lygte-info.dk/pic/ISDT/C4/DSC_6293.jpg",
       "title": "ISDT C4",
@@ -2605,6 +2723,7 @@
       "year": 2018
     },
     {
+      "_id": "armytek-uni-c2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Armytek%20UNI%20C2%20UK.html",
       "preview": "https://lygte-info.dk/pic/ArmyTek/Uni%20C2/DSC_5297.jpg",
       "title": "Armytek Uni C2",
@@ -2633,6 +2752,7 @@
       "year": 2018
     },
     {
+      "_id": "japcell-bc-800s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Japcell%20BC-800S%20UK.html",
       "preview": "https://lygte-info.dk/pic/Japcell/BC-800S/DSC_3774.jpg",
       "title": "Japcell BC-800S",
@@ -2658,6 +2778,7 @@
       "year": 2018
     },
     {
+      "_id": "panasonic-bq-cc65",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC65%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC65/DSC_5848.jpg",
       "title": "Panasonic BQ-CC65",
@@ -2687,6 +2808,7 @@
       "year": 2018
     },
     {
+      "_id": "liitokala-lii-402",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-402%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-402/DSC_3555.jpg",
       "title": "LiitoKala Lii-402",
@@ -2716,6 +2838,7 @@
       "year": 2018
     },
     {
+      "_id": "nitecore-f2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20F2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/F2/DSC_3686.jpg",
       "title": "NiteCore F2",
@@ -2742,6 +2865,7 @@
       "year": 2018
     },
     {
+      "_id": "golisi-i2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20i2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/i2/DSC_4103.jpg",
       "title": "Golisi i2",
@@ -2770,6 +2894,7 @@
       "year": 2018
     },
     {
+      "_id": "efest-luc-v6-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20V6%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20V6%20Charger%202017/DSC_0438.jpg",
       "title": "Efest LUC V6 2017",
@@ -2798,6 +2923,7 @@
       "year": 2018
     },
     {
+      "_id": "golisi-i1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20i1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/i1/DSC_4090.jpg",
       "title": "Golisi i1",
@@ -2826,6 +2952,7 @@
       "year": 2018
     },
     {
+      "_id": "xtar-over-4-slim-o4s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20Over%204%20Slim%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerOver4Slim/DSC_4208.jpg",
       "title": "Xtar Over 4 slim (O4S)",
@@ -2855,6 +2982,7 @@
       "year": 2017
     },
     {
+      "_id": "xtar-mc6-ii-queen-ant-ii",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC6II%20Queen%20Ant%20II%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC6IIQueenAnt/DSC_3616.jpg",
       "title": "Xtar MC6 II Queen Ant II",
@@ -2880,6 +3008,7 @@
       "year": 2017
     },
     {
+      "_id": "miboxer-c4-12",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C4-12%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C4-12/DSC_3426.jpg",
       "title": "Miboxer C4-12",
@@ -2911,6 +3040,7 @@
       "year": 2017
     },
     {
+      "_id": "gyrfalcon-all-88-2017-enova",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GyrFalcon%20All-88%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-88%202017/DSC_2540.jpg",
       "title": "GyrFalcon All-88 2017 (Enova)",
@@ -2942,6 +3072,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-luc-blu6-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20Blu6%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20Blu6%20Charger%202017/DSC_0455.jpg",
       "title": "Efest LUC Blu6 2017",
@@ -2969,6 +3100,7 @@
       "year": 2017
     },
     {
+      "_id": "portapow-aa-aaa-usb-battery-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PortaPow%20AA%2BAAA%20usb%20battery%20charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/PortaPow/AA%2BAAA%20usb%20battery%20charger/DSC_8740.jpg",
       "title": "PortaPow AA+AAA usb battery charger",
@@ -2993,6 +3125,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-lush-q4-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUSH%20Q4%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUSH%20Q4%20Charger%202017/DSC_0419.jpg",
       "title": "Efest LUSH Q4 Charger 2017",
@@ -3017,6 +3150,7 @@
       "year": 2017
     },
     {
+      "_id": "soda-dual-battery-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20SODA%20Dual%20Battery%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/SODA%20Dual%20Battery%20Charger%202017/DSC_0160.jpg",
       "title": "SODA Dual Battery Charger 2017",
@@ -3042,6 +3176,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-luc-v2-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20V2%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20V2%20Charger%202017/DSC_0398.jpg",
       "title": "Efest LUC V2 Charger 2017",
@@ -3070,6 +3205,7 @@
       "year": 2017
     },
     {
+      "_id": "folomov-a1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Folomov%20A1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Folomov/A1/DSC_2553.jpg",
       "title": "Folomov A1",
@@ -3097,6 +3233,7 @@
       "year": 2017
     },
     {
+      "_id": "folomov-a4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Folomov%20A4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Folomov/A4/DSC_1454.jpg",
       "title": "Folomov A4",
@@ -3126,6 +3263,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-pro-c1-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20PRO%20C1%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/PRO%20C1%20Charger%202017/DSC_0148.jpg",
       "title": "Efest PRO C1 Charger 2017",
@@ -3150,6 +3288,7 @@
       "year": 2017
     },
     {
+      "_id": "folomov-a2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Folomov%20A2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Folomov/A2/DSC_1443.jpg",
       "title": "Folomov A2",
@@ -3179,6 +3318,7 @@
       "year": 2017
     },
     {
+      "_id": "nitecore-sc4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20SC4%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/SC4/DSC_1137.jpg",
       "title": "Nitecore SC4",
@@ -3212,6 +3352,7 @@
       "year": 2017
     },
     {
+      "_id": "nitecore-intellicharger-new-i4-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20new%20i4%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Intellicharger%20new%20i4%202017/DSC_1152.jpg",
       "title": "Nitecore Intellicharger new i4 2017",
@@ -3240,6 +3381,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-pro-c4-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20PRO%20C4%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/PRO%20C4%20Charger%202017/DSC_1350.jpg",
       "title": "Efest PRO C4 Charger 2017",
@@ -3265,6 +3407,7 @@
       "year": 2017
     },
     {
+      "_id": "miboxer-c2-6000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C2-6000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C2-6000/DSC_1051.jpg",
       "title": "Miboxer C2 6000",
@@ -3296,6 +3439,7 @@
       "year": 2017
     },
     {
+      "_id": "golisi-s4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Golisi%20S4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Golisi/S4/DSC_0676.jpg",
       "title": "Golisi S4",
@@ -3325,6 +3469,7 @@
       "year": 2017
     },
     {
+      "_id": "kongin-kc-262a",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Kongin%20KC-262a%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Kongin%20KC-262a/DSC_0686.jpg",
       "title": "Kongin KC-262a",
@@ -3351,6 +3496,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-pro-c2-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20PRO%20C2%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/PRO%20C2%20Charger%202017/DSC_0191.jpg",
       "title": "Efest PRO C2 Charger 2017",
@@ -3376,6 +3522,7 @@
       "year": 2017
     },
     {
+      "_id": "zanflare-c4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Zanflare%20C4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Zanflare/C4%20Battery%20Charger/DSC_0481.jpg",
       "title": "Zanflare C4",
@@ -3408,6 +3555,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-lush-q2-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUSH%20Q2%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUSH%20Q2%20Charger%202017/DSC_0178.jpg",
       "title": "Efest LUSH Q2 Charger 2017",
@@ -3432,6 +3580,7 @@
       "year": 2017
     },
     {
+      "_id": "efest-luc-v4-charger-2017",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20V4%20Charger%202017%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20V4%20Charger%202017/DSC_0223.jpg",
       "title": "Efest LUC V4 Charger 2017",
@@ -3460,6 +3609,7 @@
       "year": 2017
     },
     {
+      "_id": "soshine-t2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20T2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/T2/DSC_9879.jpg",
       "title": "Soshine T2",
@@ -3490,6 +3640,7 @@
       "year": 2017
     },
     {
+      "_id": "miboxer-c2-4000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C2-4000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C2-4000/DSC_9985.jpg",
       "title": "Miboxer C2 4000",
@@ -3523,6 +3674,7 @@
       "year": 2017
     },
     {
+      "_id": "coilmaster-smartcharger-a4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20CoilMaster%20Smartcharger%20A4%20UK.html",
       "preview": "https://lygte-info.dk/pic/CoilMaster/Smartcharger%20A4/DSC_0067.jpg",
       "title": "CoilMaster Smartcharger A4",
@@ -3548,6 +3700,7 @@
       "year": 2017
     },
     {
+      "_id": "hexinyu-hxy-h1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20HXY-H1%20UK.html",
       "preview": "https://lygte-info.dk/pic/HXY/HXY-H1/DSC_9872.jpg",
       "title": "Hexinyu HXY-H1",
@@ -3575,6 +3728,7 @@
       "year": 2017
     },
     {
+      "_id": "xtar-mc4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC4/DSC_9751.jpg",
       "title": "Xtar MC4",
@@ -3599,6 +3753,7 @@
       "year": 2017
     },
     {
+      "_id": "varta-lcd-57070-57170",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20LCD%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/LCD%20Charger/DSC_1599.jpg",
       "title": "Varta LCD 57070/57170",
@@ -3625,6 +3780,7 @@
       "year": 2017
     },
     {
+      "_id": "fenix-are-x1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X1%2B%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-X1%2B/DSC_9450.jpg",
       "title": "Fenix ARE-X1+",
@@ -3652,6 +3808,7 @@
       "year": 2017
     },
     {
+      "_id": "crelant-cd80",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Crelant%20CD80%20UK.html",
       "preview": "https://lygte-info.dk/pic/Crelant/CD80/DSC_9232.jpg",
       "title": "Crelant CD80",
@@ -3678,6 +3835,7 @@
       "year": 2017
     },
     {
+      "_id": "klarus-k1-smart-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Klarus%20K1%20Smart%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Klarus/K1%20Smart%20Charger/DSC_5403.jpg",
       "title": "Klarus K1 Smart Charger",
@@ -3705,6 +3863,7 @@
       "year": 2017
     },
     {
+      "_id": "miboxer-c2-3000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C2-3000a%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C2-3000/DSC_8985.jpg",
       "title": "Miboxer C2 3000",
@@ -3735,6 +3894,7 @@
       "year": 2017
     },
     {
+      "_id": "panasonic-bq-cc57",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC57%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC57/DSC_3988.jpg",
       "title": "Panasonic BQ-CC57",
@@ -3762,6 +3922,7 @@
       "year": 2017
     },
     {
+      "_id": "varta-lcd-ultra-fast-charger-57675",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20LCD%20Ultra%20Fast%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/LCD%20Ultra%20Fast%20Charger/DSC_2703.jpg",
       "title": "Varta LCD Ultra Fast Charger 57675",
@@ -3791,6 +3952,7 @@
       "year": 2017
     },
     {
+      "_id": "duracell-15min-charger-cef15",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Duracell%2015min%20CEF15%20UK.html",
       "preview": "https://lygte-info.dk/pic/Duracell/Charger%2015min%20CEF15/DSC_2720.jpg",
       "title": "Duracell 15min charger CEF15",
@@ -3816,6 +3978,7 @@
       "year": 2017
     },
     {
+      "_id": "allmaybe-ec2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Allmaybe%20EC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Allmaybe/EC2/DSC_8519.jpg",
       "title": "Allmaybe EC2",
@@ -3845,6 +4008,7 @@
       "year": 2017
     },
     {
+      "_id": "energizer-rapid-charger-ch1hr-2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Energizer%20Rapid%20charger%20CH1HR-2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Energizer/Rapid%20charger%20CH1HR-2/DSC_0316.jpg",
       "title": "Energizer Rapid charger CH1HR-2",
@@ -3870,6 +4034,7 @@
       "year": 2017
     },
     {
+      "_id": "hxy-hexinyu-hxy-h6",
       "url": "https://lygte-info.dk/review/Review%20Charger%20HXY%20HXY-H6%20UK.html",
       "preview": "https://lygte-info.dk/pic/HXY/HXY-H6/DSC_7418.jpg",
       "title": "HXY (Hexinyu) HXY-H6",
@@ -3897,6 +4062,7 @@
       "year": 2017
     },
     {
+      "_id": "panasonic-bq-cc55",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC55%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC55/DSC_6218.jpg",
       "title": "Panasonic BQ-CC55",
@@ -3921,6 +4087,7 @@
       "year": 2017
     },
     {
+      "_id": "ikea-storhogen-603-306-50",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Ikea%20Storhogen%20603.306.50%20UK.html",
       "preview": "https://lygte-info.dk/pic/Ikea/Storhogen%20603.306.50/DSC_4585.jpg",
       "title": "Ikea Storh\u00f6gen 603.306.50",
@@ -3945,6 +4112,7 @@
       "year": 2017
     },
     {
+      "_id": "olight-uc",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Olight%20UC%20UK.html",
       "preview": "https://lygte-info.dk/pic/OLight/UC/DSC_7721.jpg",
       "title": "Olight UC",
@@ -3970,6 +4138,7 @@
       "year": 2017
     },
     {
+      "_id": "nitecore-sc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20SC2b%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/SC2b/DSC_5424.jpg",
       "title": "Nitecore SC2",
@@ -4000,6 +4169,7 @@
       "year": 2017
     },
     {
+      "_id": "nitecore-intellicharger-new-i2-2016",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20new%20i2b%202016%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/New%20i2%202016b/DSC_5414.jpg",
       "title": "Nitecore Intellicharger new i2 2016",
@@ -4028,6 +4198,7 @@
       "year": 2017
     },
     {
+      "_id": "miboxer-c4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miboxer%20C4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miboxer/C4/DSC_7407.jpg",
       "title": "Miboxer C4",
@@ -4057,6 +4228,7 @@
       "year": 2017
     },
     {
+      "_id": "panasonic-bq-cc51e",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC51E%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC51E/DSC_7058.jpg",
       "title": "Panasonic BQ-CC51E",
@@ -4081,6 +4253,7 @@
       "year": 2017
     },
     {
+      "_id": "xtar-mc6-queen-ant",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC6%20Queen%20Ant%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC6QueenAnt/DSC_7281.jpg",
       "title": "Xtar MC6 Queen Ant",
@@ -4105,6 +4278,7 @@
       "year": 2016
     },
     {
+      "_id": "jetbeam-i4-pro",
       "url": "https://lygte-info.dk/review/Review%20Charger%20JetBeam%20i4%20Pro%20UK.html",
       "preview": "https://lygte-info.dk/pic/JetBeam/Chargeri4Pro/DSC_7189.jpg",
       "title": "JetBeam i4 Pro",
@@ -4131,6 +4305,7 @@
       "year": 2016
     },
     {
+      "_id": "gyrfalcon-all-44-enova",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GyrFalcon%20All-44%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-44/DSC_6873.jpg",
       "title": "GyrFalcon All-44 (Enova)",
@@ -4161,6 +4336,7 @@
       "year": 2016
     },
     {
+      "_id": "xtar-vp4-plus-dragon",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VP4%20Plus%20Dragon%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVP4PlusDragon/DSC_6680.jpg",
       "title": "Xtar VP4 Plus Dragon",
@@ -4195,6 +4371,7 @@
       "year": 2016
     },
     {
+      "_id": "pspower-mt4000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PSPower%20MT4000%20UK.html",
       "preview": "https://lygte-info.dk/pic/PSPower/MT4000/DSC_6159.jpg",
       "title": "PSPower MT4000",
@@ -4226,6 +4403,7 @@
       "year": 2016
     },
     {
+      "_id": "liitokala-lii-400",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-400%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-400/DSC_6380.jpg",
       "title": "LiitoKala Lii-400",
@@ -4255,6 +4433,7 @@
       "year": 2016
     },
     {
+      "_id": "pspower-nt2000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PSPower%20NT2000%20UK.html",
       "preview": "https://lygte-info.dk/pic/PSPower/NT2000/DSC_6174.jpg",
       "title": "PSPower NT2000",
@@ -4285,6 +4464,7 @@
       "year": 2016
     },
     {
+      "_id": "liitokala-lii-202",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-202%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-202/DSC_6371.jpg",
       "title": "LiitoKala Lii-202",
@@ -4314,6 +4494,7 @@
       "year": 2016
     },
     {
+      "_id": "pspower-mc402",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PSPower%20MC402%20UK.html",
       "preview": "https://lygte-info.dk/pic/PSPower/MC402/DSC_6482.jpg",
       "title": "PSPower MC402",
@@ -4342,6 +4523,7 @@
       "year": 2016
     },
     {
+      "_id": "miller-ml-106-v1-0",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miller%20ML106%20UK.html",
       "preview": "https://lygte-info.dk/pic/Miller/ML106/DSC_6358.jpg",
       "title": "Miller ML-106 V1.0",
@@ -4368,6 +4550,7 @@
       "year": 2016
     },
     {
+      "_id": "pspower-nc402",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PSPower%20NC402%20UK.html",
       "preview": "https://lygte-info.dk/pic/PSPower/NC402/DSC_6109.jpg",
       "title": "PSPower NC402",
@@ -4392,6 +4575,7 @@
       "year": 2016
     },
     {
+      "_id": "pspower-nc401",
       "url": "https://lygte-info.dk/review/Review%20Charger%20PSPower%20NC401%20UK.html",
       "preview": "https://lygte-info.dk/pic/PSPower/NC401/DSC_6133.jpg",
       "title": "PSPower NC401",
@@ -4419,6 +4603,7 @@
       "year": 2016
     },
     {
+      "_id": "skyrc-nc2600",
       "url": "https://lygte-info.dk/review/Review%20Charger%20SkyRC%20NC2600%20UK.html",
       "preview": "https://lygte-info.dk/pic/SkyRC/NC2600/DSC_5718.jpg",
       "title": "SkyRC NC2600",
@@ -4450,6 +4635,7 @@
       "year": 2016
     },
     {
+      "_id": "e-syb-e4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20E-SYB%20E4%20UK.html",
       "preview": "https://lygte-info.dk/pic/E-SYB/E4/DSC_4601.jpg",
       "title": "E-SYB E4",
@@ -4482,6 +4668,7 @@
       "year": 2016
     },
     {
+      "_id": "varta-lcd-plug-charger-57677",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20LCD%20Plug%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/LCD%20Plug%20Charger/DSC_2518.jpg",
       "title": "Varta LCD Plug charger 57677",
@@ -4509,6 +4696,7 @@
       "year": 2016
     },
     {
+      "_id": "e-syb-s6",
       "url": "https://lygte-info.dk/review/Review%20Charger%20E-SYB%20S6%20UK.html",
       "preview": "https://lygte-info.dk/pic/E-SYB/S6/DSC_4917.jpg",
       "title": "E-SYB S6",
@@ -4535,6 +4723,7 @@
       "year": 2016
     },
     {
+      "_id": "everactive-nc1000-plus",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EverActive%20NC1000%20plus%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/EverActive%20NC1000%20plus/DSC_5041.jpg",
       "title": "EverActive NC1000 plus",
@@ -4565,6 +4754,7 @@
       "year": 2016
     },
     {
+      "_id": "nitecore-f1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20F1%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/F1/DSC_5208.jpg",
       "title": "NiteCore F1",
@@ -4592,6 +4782,7 @@
       "year": 2016
     },
     {
+      "_id": "xtar-ant-mc1plus",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC1Plus%20ANT%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC1PlusANT/DSC_5238.jpg",
       "title": "Xtar ANT - MC1Plus",
@@ -4616,6 +4807,7 @@
       "year": 2016
     },
     {
+      "_id": "xiaomi-zi5-pb400",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xiaomi%20ZI5%20PB400%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xiaomi/ZI5%20PB400/DSC_5027.jpg",
       "title": "Xiaomi ZI5 PB400",
@@ -4642,6 +4834,7 @@
       "year": 2016
     },
     {
+      "_id": "gp-recyko-powerbank-h500-gppb50gs",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GP%20ReCyko+%20UK.html",
       "preview": "https://lygte-info.dk/pic/GP/GP%20ReCyko+/DSC_9197.jpg",
       "title": "GP ReCyko+ / PowerBank H500 (GPPB50GS)",
@@ -4667,6 +4860,7 @@
       "year": 2016
     },
     {
+      "_id": "fenix-are-x1_1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-X1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-X1/DSC_4032.jpg",
       "title": "Fenix ARE-X1",
@@ -4694,6 +4888,7 @@
       "year": 2016
     },
     {
+      "_id": "xtar-sv2-rocket",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20SV2%20Rocket%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarSV2Rocket/DSC_4554.jpg",
       "title": "Xtar SV2 Rocket",
@@ -4720,6 +4915,7 @@
       "year": 2016
     },
     {
+      "_id": "ikea-vinninge-403-036-32",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Ikea%20Vinninge%20403.036.32%20UK.html",
       "preview": "https://lygte-info.dk/pic/Ikea/Vinninge%20403.036.32/DSC_4564.jpg",
       "title": "Ikea Vinninge 403.036.32",
@@ -4744,6 +4940,7 @@
       "year": 2016
     },
     {
+      "_id": "xiamen-nanfu-hg-1412w",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xiamen%20Nanfu%20HG-1412W%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Xiamen%20Nanfu%20HG-1412W/DSC_2878.jpg",
       "title": "Xiamen Nanfu HG-1412W",
@@ -4770,6 +4967,7 @@
       "year": 2016
     },
     {
+      "_id": "gyrfalcon-all-88-enova",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GyrFalcon%20All-88%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-88/DSC_4318.jpg",
       "title": "GyrFalcon All-88 (Enova)",
@@ -4800,6 +4998,7 @@
       "year": 2016
     },
     {
+      "_id": "av4m",
       "url": "https://lygte-info.dk/review/Review%20Charger%20AV4m+%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20AV4m+/DSC_4087.jpg",
       "title": "AV4m+",
@@ -4830,6 +5029,7 @@
       "year": 2016
     },
     {
+      "_id": "opus-bt-c100",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C100a%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C100a/DSC_4369.jpg",
       "title": "Opus BT-C100",
@@ -4866,6 +5066,7 @@
       "year": 2016
     },
     {
+      "_id": "keeppower-l1-4-20v",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Keeppower%20L1%204.20V%20UK.html",
       "preview": "https://lygte-info.dk/pic/Keeppower/L1%204.20V/DSC_3549.jpg",
       "title": "Keeppower L1 4.20V",
@@ -4892,6 +5093,7 @@
       "year": 2016
     },
     {
+      "_id": "xiamen-nanfu-hg-1206w",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xiamen%20Nanfu%20HG-1206W%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Xiamen%20Nanfu%20HG-1206W/DSC_2856.jpg",
       "title": "Xiamen Nanfu HG-1206W",
@@ -4917,6 +5119,7 @@
       "year": 2016
     },
     {
+      "_id": "keeppower-l2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Keeppower%20L2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Keeppower/L2/DSC_3600.jpg",
       "title": "Keeppower L2",
@@ -4944,6 +5147,7 @@
       "year": 2016
     },
     {
+      "_id": "varta-plug-charger-57647",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20Plug%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/Plug%20Charger/DSC_1619.jpg",
       "title": "Varta Plug Charger 57647",
@@ -4968,6 +5172,7 @@
       "year": 2016
     },
     {
+      "_id": "varta-mini-charger-57646",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Varta%20Mini%20UK.html",
       "preview": "https://lygte-info.dk/pic/Varta/Mini%20Charger/DSC_1578.jpg",
       "title": "Varta Mini Charger 57646",
@@ -4992,6 +5197,7 @@
       "year": 2016
     },
     {
+      "_id": "efest-luc-blu6-oled",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20Blu6%20OLED%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20Blu6%20OLED/DSC_2837.jpg",
       "title": "Efest LUC Blu6 OLED",
@@ -5019,6 +5225,7 @@
       "year": 2016
     },
     {
+      "_id": "bowei-hc-103w",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Bowei%20HC-103W%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Bowei%20HC-103W/DSC_2847.jpg",
       "title": "Bowei HC-103W",
@@ -5041,6 +5248,7 @@
       "year": 2016
     },
     {
+      "_id": "liitokala-lii-100",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-100%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/LiitoKala%20Lii-100/DSC_3067.jpg",
       "title": "LiitoKala Lii-100",
@@ -5070,6 +5278,7 @@
       "year": 2016
     },
     {
+      "_id": "skilhunt-m2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Skilhunt%20M2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Skilhunt/M2/DSC_3058.jpg",
       "title": "Skilhunt M2",
@@ -5096,6 +5305,7 @@
       "year": 2016
     },
     {
+      "_id": "panasonic-bq-cc18",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC18%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC18/DSC_2301.jpg",
       "title": "Panasonic BQ-CC18",
@@ -5120,6 +5330,7 @@
       "year": 2016
     },
     {
+      "_id": "skilhunt-m1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Skilhunt%20M1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Skilhunt/M1/DSC_2822.jpg",
       "title": "Skilhunt M1",
@@ -5149,6 +5360,7 @@
       "year": 2016
     },
     {
+      "_id": "skilhunt-m4d",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Skilhunt%20M4D%20UK.html",
       "preview": "https://lygte-info.dk/pic/Skilhunt/M4D/DSC_2542.jpg",
       "title": "Skilhunt M4D",
@@ -5180,6 +5392,7 @@
       "year": 2016
     },
     {
+      "_id": "duracell-4h-cef14",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Duracell%204h%20CEF14%20UK.html",
       "preview": "https://lygte-info.dk/pic/Duracell/Charger%204h%20CEF14/DSC_0538.jpg",
       "title": "Duracell 4h CEF14",
@@ -5204,6 +5417,7 @@
       "year": 2015
     },
     {
+      "_id": "skyrc-mc3000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20SkyRC%20MC3000%20UK.html",
       "preview": "https://lygte-info.dk/pic/SkyRC/MC3000/DSC_2414.jpg",
       "title": "SkyRC MC3000",
@@ -5242,6 +5456,7 @@
       "year": 2015
     },
     {
+      "_id": "duracell-45min-cef27",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Duracell%2045min%20CEF27%20UK.html",
       "preview": "https://lygte-info.dk/pic/Duracell/Charger%2045min%20CEF27/DSC_0451.jpg",
       "title": "Duracell 45min CEF27",
@@ -5266,6 +5481,7 @@
       "year": 2015
     },
     {
+      "_id": "thrunite-u1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Thrunite%20U1%20UK.html",
       "preview": "https://lygte-info.dk/pic/ThruNite/ChargerU1/DSC_2474.jpg",
       "title": "Thrunite U1",
@@ -5291,6 +5507,7 @@
       "year": 2015
     },
     {
+      "_id": "gp-recyko-quick3",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GP%20ReCyko+%20Quick3%20UK.html",
       "preview": "https://lygte-info.dk/pic/GP/GP%20ReCyko+%20Quick3/DSC_9339.jpg",
       "title": "GP ReCyko+ Quick3",
@@ -5317,6 +5534,7 @@
       "year": 2015
     },
     {
+      "_id": "nitecore-intellicharger-i1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20i1%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Intellicharger%20i1/DSC_2175.jpg",
       "title": "NiteCore Intellicharger i1",
@@ -5344,6 +5562,7 @@
       "year": 2015
     },
     {
+      "_id": "ml-102-v9-0-2015",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ML-102%20V9.0%202015%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20ML102%20V9%202015/DSC_2097.jpg",
       "title": "ML-102 V9.0 2015",
@@ -5371,6 +5590,7 @@
       "year": 2015
     },
     {
+      "_id": "panasonic-bq-cc51",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC51%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC51/DSC_0805.jpg",
       "title": "Panasonic BQ-CC51",
@@ -5395,6 +5615,7 @@
       "year": 2015
     },
     {
+      "_id": "xtar-vc2-plus-master",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VC2%20Plus%20Master%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVC2PlusMaster/DSC_1902.jpg",
       "title": "Xtar VC2 Plus Master",
@@ -5423,6 +5644,7 @@
       "year": 2015
     },
     {
+      "_id": "klarus-smart-charge-c2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Klarus%20Smart%20Charge%20C2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Klarus/Smart%20Charge%20C2/DSC_1401.jpg",
       "title": "Klarus Smart Charge C2",
@@ -5451,6 +5673,7 @@
       "year": 2015
     },
     {
+      "_id": "tomo-v6-2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Tomo%20V6-2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Tomo%20V6-2/DSC_1241.jpg",
       "title": "Tomo V6-2",
@@ -5476,6 +5699,7 @@
       "year": 2015
     },
     {
+      "_id": "miller-ml105-v1-0",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Miller%20ML105%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20ML105/DSC_1362.jpg",
       "title": "Miller ML105 V1.0",
@@ -5500,6 +5724,7 @@
       "year": 2015
     },
     {
+      "_id": "nokoser-digicharge-d2s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nokoser%20D2S%20UK.html",
       "preview": "https://lygte-info.dk/pic/Nokoser/DigiCharge%20D2S/DSC_1388.jpg",
       "title": "Nokoser DigiCharge D2S",
@@ -5531,6 +5756,7 @@
       "year": 2015
     },
     {
+      "_id": "nokoser-digicharge-d4u",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nokoser%20D4u%20UK.html",
       "preview": "https://lygte-info.dk/pic/Nokoser/DigiCharge%20D4u/DSC_1260.jpg",
       "title": "Nokoser DigiCharge D4u",
@@ -5563,6 +5789,7 @@
       "year": 2015
     },
     {
+      "_id": "tenergy-t4s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Tenergy%20T4s%20UK.html",
       "preview": "https://lygte-info.dk/pic/Tenergy/T4s/DSC_0821.jpg",
       "title": "Tenergy T4s",
@@ -5590,6 +5817,7 @@
       "year": 2015
     },
     {
+      "_id": "liitokala-engineer-lii-500",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-500%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/Engineer%20Lii-500/DSC_0833.jpg",
       "title": "LiitoKala Engineer Lii-500",
@@ -5622,6 +5850,7 @@
       "year": 2015
     },
     {
+      "_id": "klarus-ch4s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Klarus%20CH4s%20UK.html",
       "preview": "https://lygte-info.dk/pic/Klarus/CH4s/DSC_0930.jpg",
       "title": "Klarus CH4s",
@@ -5653,6 +5882,7 @@
       "year": 2015
     },
     {
+      "_id": "huangao-universal-dual-channel-ac-charger-hg-1206w",
       "url": "https://lygte-info.dk/review/Review%20Charger%20HuanGao%20Universal%20Dual%20Channel%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20HuanGao%20Universal%20Dual%20Channel%20AC%20Charger%20HG-1206W/DSC_0577.jpg",
       "title": "HuanGao Universal Dual Channel AC Charger HG-1206W",
@@ -5677,6 +5907,7 @@
       "year": 2015
     },
     {
+      "_id": "micro-18650-battery-usb",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Micro%2018650%20Battery%20USB%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20Micro%2018650%20Battery%20USB%20Charger/DSC_0938.jpg",
       "title": "Micro 18650 Battery USB",
@@ -5701,6 +5932,7 @@
       "year": 2015
     },
     {
+      "_id": "energizer-intelligent-charger-chp42eu",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Energizer%20Intelligent%20UK.html",
       "preview": "https://lygte-info.dk/pic/Energizer/Intelligent%20Charger%20CHP42EU/DSC_9378.jpg",
       "title": "Energizer Intelligent Charger CHP42EU",
@@ -5725,6 +5957,7 @@
       "year": 2015
     },
     {
+      "_id": "ft2000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20FT2000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20FT2000/DSC_9818.jpg",
       "title": "FT2000",
@@ -5755,6 +5988,7 @@
       "year": 2015
     },
     {
+      "_id": "goalzero-guide10plus",
       "url": "https://lygte-info.dk/review/Review%20Charger%20GoalZero%20Guide10Plus%20UK.html",
       "preview": "https://lygte-info.dk/pic/GoalZero/Guide10Plus/DSC_0275.jpg",
       "title": "GoalZero Guide10Plus",
@@ -5782,6 +6016,7 @@
       "year": 2015
     },
     {
+      "_id": "ml-102-v8-0-2015",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ML-102%20V8.0%202015%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20ML102%20V8%202015/DSC_0431.jpg",
       "title": "ML-102 V8.0 2015",
@@ -5809,6 +6044,7 @@
       "year": 2015
     },
     {
+      "_id": "soshine-sc-c5-nimh-lifepo4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20C5%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/SC-C5/DSC_0151.jpg",
       "title": "Soshine SC-C5 NiMH + LiFePO4",
@@ -5836,6 +6072,7 @@
       "year": 2015
     },
     {
+      "_id": "opus-bt-c700",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C700%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C700/DSC_9599.jpg",
       "title": "Opus BT-C700",
@@ -5866,6 +6103,7 @@
       "year": 2015
     },
     {
+      "_id": "opus-bt-c900",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C900%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C900/DSC_9617.jpg",
       "title": "Opus BT-C900",
@@ -5899,6 +6137,7 @@
       "year": 2015
     },
     {
+      "_id": "xtar-mc1plus",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC1Plus%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC1Plus/DSC_0170.jpg",
       "title": "Xtar MC1Plus",
@@ -5923,6 +6162,7 @@
       "year": 2015
     },
     {
+      "_id": "energizer-maxi-compact-charger",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Energizer%20Maxi%20Compact%20Charger%20UK.html",
       "preview": "https://lygte-info.dk/pic/Energizer/Maxi%20Compact%20Charger/DSC_9355.jpg",
       "title": "Energizer Maxi Compact Charger",
@@ -5947,6 +6187,7 @@
       "year": 2015
     },
     {
+      "_id": "klarus-ch1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Klarus%20CH1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Klarus/CH1/DSC_0021.jpg",
       "title": "Klarus CH1",
@@ -5975,6 +6216,7 @@
       "year": 2015
     },
     {
+      "_id": "trustfire-tr-005",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Trustfire%20TR-005%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-005/DSC_5205.jpg",
       "title": "TrustFire TR-005",
@@ -6000,6 +6242,7 @@
       "year": 2015
     },
     {
+      "_id": "opus-bt-c1000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C1000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C1000/DSC_9629.jpg",
       "title": "Opus BT-C1000",
@@ -6026,6 +6269,7 @@
       "year": 2015
     },
     {
+      "_id": "usb-aa-aaa",
       "url": "https://lygte-info.dk/review/Review%20Charger%20USB%20AA-AAA%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20USB%20AA-AAA/DSC_8757.jpg",
       "title": "USB AA-AAA",
@@ -6050,6 +6294,7 @@
       "year": 2015
     },
     {
+      "_id": "xtar-vc4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VC4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVC4/DSC_9284.jpg",
       "title": "Xtar VC4",
@@ -6079,6 +6324,7 @@
       "year": 2015
     },
     {
+      "_id": "danae-duo-9000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Danae%20DUO%209000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Danae/DUO%209000/DSC_8589.jpg",
       "title": "Danae DUO 9000",
@@ -6108,6 +6354,7 @@
       "year": 2015
     },
     {
+      "_id": "panasonic-bq-cc17",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC17%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC17/DSC_8972.jpg",
       "title": "Panasonic BQ-CC17",
@@ -6132,6 +6379,7 @@
       "year": 2015
     },
     {
+      "_id": "thorfire",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ThorFire%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/ThorFire%20charger/DSC_8833.jpg",
       "title": "ThorFire",
@@ -6160,6 +6408,7 @@
       "year": 2015
     },
     {
+      "_id": "panasonic-bq-cc16",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC16%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC16/DSC_7851.jpg",
       "title": "Panasonic BQ-CC16",
@@ -6184,6 +6433,7 @@
       "year": 2015
     },
     {
+      "_id": "panasonic-bq-cc14",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Panasonic%20BQ-CC14%20UK.html",
       "preview": "https://lygte-info.dk/pic/Panasonic/BQ-CC14/DSC_7938.jpg",
       "title": "Panasonic BQ-CC14",
@@ -6208,6 +6458,7 @@
       "year": 2015
     },
     {
+      "_id": "ml-102-v7-1-2015",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ML-102%20V7.1%202015%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Charger%20ML102%202015/DSC_8767.jpg",
       "title": "ML-102 V7.1 2015",
@@ -6235,6 +6486,7 @@
       "year": 2015
     },
     {
+      "_id": "yi-fang-eizfan-wf4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Yi%20Fang%20WF4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Yi%20Fang/WF4/DSC_8360.jpg",
       "title": "Yi Fang EIZFAN WF4",
@@ -6263,6 +6515,7 @@
       "year": 2015
     },
     {
+      "_id": "liitokala-engineer-300",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Engineer%20Lii-300%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/Engineer%20Lii-300/DSC_8457.jpg",
       "title": "LiitoKala Engineer 300",
@@ -6295,6 +6548,7 @@
       "year": 2015
     },
     {
+      "_id": "yi-fang-eizfan-wf1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Yi%20Fang%20WF1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Yi%20Fang/WF1/DSC_8357.jpg",
       "title": "Yi Fang EIZFAN WF1",
@@ -6323,6 +6577,7 @@
       "year": 2015
     },
     {
+      "_id": "nitecore-um10",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UM10%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UM10/DSC_8261.jpg",
       "title": "NiteCore UM10",
@@ -6349,6 +6604,7 @@
       "year": 2015
     },
     {
+      "_id": "soshine-h4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20H4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/H4/DSC_7754.jpg",
       "title": "Soshine H4",
@@ -6378,6 +6634,7 @@
       "year": 2015
     },
     {
+      "_id": "nitecore-um20",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20UM20%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/UM20/DSC_8279.jpg",
       "title": "NiteCore UM20",
@@ -6404,6 +6661,7 @@
       "year": 2015
     },
     {
+      "_id": "xtar-wp2h",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20WP2h%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarWP2h/DSC_8039.jpg",
       "title": "Xtar WP2h",
@@ -6433,6 +6691,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-21",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-21%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-21/DSC_7119.jpg",
       "title": "Enova All-21",
@@ -6461,6 +6720,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-vp4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VP4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVP4/DSC_7997.jpg",
       "title": "Xtar VP4",
@@ -6488,6 +6748,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-20",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-20%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-20/DSC_7131.jpg",
       "title": "Enova All-20",
@@ -6516,6 +6777,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-vc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVC2/DSC_7961.jpg",
       "title": "Xtar VC2",
@@ -6543,6 +6805,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-42-usb",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-42%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-42-USB/DSC_6970.jpg",
       "title": "Enova All-42-USB",
@@ -6571,6 +6834,7 @@
       "year": 2014
     },
     {
+      "_id": "nitecore-intellicharger-d2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Digicharger%20D2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Digicharger%20D2/DSC_7081.jpg",
       "title": "NiteCore Intellicharger D2",
@@ -6600,6 +6864,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-41",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-41%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-41/DSC_6966.jpg",
       "title": "Enova All-41",
@@ -6627,6 +6892,7 @@
       "year": 2014
     },
     {
+      "_id": "nitecore-intellicharger-d4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Digicharger%20D4%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Digicharger%20D4/DSC_7059.jpg",
       "title": "NiteCore Intellicharger D4",
@@ -6656,6 +6922,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-40",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-40%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-40/DSC_6853.jpg",
       "title": "Enova All-40",
@@ -6684,6 +6951,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-luc-s2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20S2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20S2/DSC_6971.jpg",
       "title": "Efest LUC S2",
@@ -6712,6 +6980,7 @@
       "year": 2014
     },
     {
+      "_id": "enova-all-80",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enova%20All-80%20UK.html",
       "preview": "https://lygte-info.dk/pic/Enova/All-80/DSC_6587.jpg",
       "title": "Enova All-80",
@@ -6740,6 +7009,7 @@
       "year": 2014
     },
     {
+      "_id": "yi-fang-ws1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Yi%20Fang%20WS1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Yi%20Fang/WS1/DSC_6873.jpg",
       "title": "Yi Fang WS1",
@@ -6769,6 +7039,7 @@
       "year": 2014
     },
     {
+      "_id": "awt-lii-1000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20AWT%20Lii-1000%20UK.html",
       "preview": "https://lygte-info.dk/pic/AWT/Lii-1000/DSC_6349.jpg",
       "title": "AWT Lii-1000",
@@ -6799,6 +7070,7 @@
       "year": 2014
     },
     {
+      "_id": "awt-utc",
       "url": "https://lygte-info.dk/review/Review%20Charger%20AWT%20UTC%20UK.html",
       "preview": "https://lygte-info.dk/pic/AWT/UTC/DSC_6255.jpg",
       "title": "AWT UTC",
@@ -6828,6 +7100,7 @@
       "year": 2014
     },
     {
+      "_id": "opus-bt-c3100-v2-1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C3100%20V2.1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C3100%20V2.1/IMG_7092a.jpg",
       "title": "Opus BT-C3100 V2.1",
@@ -6859,6 +7132,7 @@
       "year": 2014
     },
     {
+      "_id": "basen-s2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Basen%20S2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Basen/S2/DSC_6233.jpg",
       "title": "Basen S2",
@@ -6890,6 +7164,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-xp4c",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20XP4c%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarXP4C/DSC_6111.jpg",
       "title": "Xtar XP4c",
@@ -6916,6 +7191,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-mc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC2/DSC_6215.jpg",
       "title": "Xtar MC2",
@@ -6941,6 +7217,7 @@
       "year": 2014
     },
     {
+      "_id": "nitecore-intellicharger-i2-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20i2%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Intellicharger%20i2%202014/DSC_6075.jpg",
       "title": "NiteCore Intellicharger i2 2014",
@@ -6967,6 +7244,7 @@
       "year": 2014
     },
     {
+      "_id": "opus-bm100",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BM100%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BM100/DSC_6036.jpg",
       "title": "Opus BM100",
@@ -6996,6 +7274,7 @@
       "year": 2014
     },
     {
+      "_id": "nitecore-intellicharger-i4-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Nitecore%20Intellicharger%20i4%20UK.html",
       "preview": "https://lygte-info.dk/pic/NiteCore/Intellicharger%20i4%202014/DSC_5999.jpg",
       "title": "NiteCore Intellicharger i4 2014",
@@ -7022,6 +7301,7 @@
       "year": 2014
     },
     {
+      "_id": "la-crosse-rs1020",
       "url": "https://lygte-info.dk/review/Review%20Charger%20La%20Crosse%20RS1020%20UK.html",
       "preview": "https://lygte-info.dk/pic/La%20Crosse/RS1020/DSC_5227.jpg",
       "title": "La Crosse RS1020",
@@ -7051,6 +7331,7 @@
       "year": 2014
     },
     {
+      "_id": "ikea-ladda-yh-990bf",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Ikea%20Ladda%20YH-990BF%20UK.html",
       "preview": "https://lygte-info.dk/pic/Ikea/Ladda%20YH-990BF/DSC_5930.jpg",
       "title": "Ikea Ladda YH-990BF",
@@ -7075,6 +7356,7 @@
       "year": 2014
     },
     {
+      "_id": "powerex-mh-c9000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Powerex%20MH-C9000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Maha/Powerex%20MH-C9000/DSC_5571.jpg",
       "title": "Powerex MH-C9000",
@@ -7103,6 +7385,7 @@
       "year": 2014
     },
     {
+      "_id": "olight-omni-dok",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Olight%20Omni-dok%20UK.html",
       "preview": "https://lygte-info.dk/pic/OLight/Omni-dok/DSC_5438.jpg",
       "title": "Olight Omni-dok",
@@ -7129,6 +7412,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-vp2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VP2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVP2/DSC_5522.jpg",
       "title": "Xtar VP2",
@@ -7159,6 +7443,7 @@
       "year": 2014
     },
     {
+      "_id": "liitokala-engineer-lii-260",
       "url": "https://lygte-info.dk/review/Review%20Charger%20LiitoKala%20Lii-260%20UK.html",
       "preview": "https://lygte-info.dk/pic/LiitoKala/Engineer%20Lii-260/DSC_4986.jpg",
       "title": "LiitoKala Engineer Lii-260",
@@ -7189,6 +7474,7 @@
       "year": 2014
     },
     {
+      "_id": "soshine-s2-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20S2%202014%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/S2%202014/DSC_5139.jpg",
       "title": "Soshine S2 2014",
@@ -7214,6 +7500,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-mc1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC1/DSC_5183.jpg",
       "title": "Xtar MC1",
@@ -7238,6 +7525,7 @@
       "year": 2014
     },
     {
+      "_id": "soshine-s1-max-v3",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20S1%20max%20V3%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/S1%20max%20V3%202014/DSC_5161.jpg",
       "title": "Soshine S1 max V3",
@@ -7263,6 +7551,7 @@
       "year": 2014
     },
     {
+      "_id": "soshine-h2-v2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20H2%20V2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/H2%20V2/DSC_5097.jpg",
       "title": "Soshine H2 V2",
@@ -7296,6 +7585,7 @@
       "year": 2014
     },
     {
+      "_id": "skyrc-nc2500",
       "url": "https://lygte-info.dk/review/Review%20Charger%20SkyRC%20NC2500%20UK.html",
       "preview": "https://lygte-info.dk/pic/SkyRC/NC2500%20charger/DSC_4179.jpg",
       "title": "SkyRC NC2500",
@@ -7327,6 +7617,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-luc",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20charger/DSC_4744.jpg",
       "title": "Efest LUC",
@@ -7355,6 +7646,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-xsmart",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EFest%20Xsmart%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/Xsmart%20charger/DSC_4661.jpg",
       "title": "Efest Xsmart",
@@ -7382,6 +7674,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-sp1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20SP1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarSP1/DSC_4680.jpg",
       "title": "Xtar SP1",
@@ -7411,6 +7704,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-bio-v2-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EFest%20BIO%20V2%202014%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/BIO%20V2%20charger%202014/DSC_4704.jpg",
       "title": "Efest BIO V2 2014",
@@ -7438,6 +7732,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-luc-v4-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20LUC%20V4%202014%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/LUC%20V4%20charger%202014/DSC_4237.jpg",
       "title": "Efest LUC V4 2014",
@@ -7467,6 +7762,7 @@
       "year": 2014
     },
     {
+      "_id": "efest-soda-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20Soda%202014%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/SODA%20charger%202014/DSC_4153.jpg",
       "title": "Efest SODA 2014",
@@ -7492,6 +7788,7 @@
       "year": 2014
     },
     {
+      "_id": "trustfire-tr-006",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Trustfire%20TR-006%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-006/DSC_4580.jpg",
       "title": "TrustFire TR-006",
@@ -7518,6 +7815,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-mc0",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MC0%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMC0/DSC_4490.jpg",
       "title": "Xtar MC0",
@@ -7542,6 +7840,7 @@
       "year": 2014
     },
     {
+      "_id": "xtar-wp2-ii-2014",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20WP2%20II%202014%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarWP2V2%202014/DSC_4452.jpg",
       "title": "Xtar WP2 II 2014",
@@ -7569,6 +7868,7 @@
       "year": 2013
     },
     {
+      "_id": "efest-xblack",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20Xblack%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/Xblack%20charger/DSC_4211.jpg",
       "title": "Efest Xblack",
@@ -7595,6 +7895,7 @@
       "year": 2013
     },
     {
+      "_id": "soshine-h2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20H2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/H2/DSC_3989.jpg",
       "title": "Soshine H2",
@@ -7626,6 +7927,7 @@
       "year": 2013
     },
     {
+      "_id": "opus-bt-c2000",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Opus%20BT-C2000%20UK.html",
       "preview": "https://lygte-info.dk/pic/Opus/BT-C2000/DSC_4026.jpg",
       "title": "Opus BT-C2000",
@@ -7656,6 +7958,7 @@
       "year": 2013
     },
     {
+      "_id": "ioncell-bc0907c",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Ioncell%20BC0907C%20UK.html",
       "preview": "https://lygte-info.dk/pic/ioncell/BC0907C/DSC_4144.jpg",
       "title": "Ioncell BC0907C",
@@ -7681,6 +7984,7 @@
       "year": 2013
     },
     {
+      "_id": "trustfire-tr-008",
       "url": "https://lygte-info.dk/review/Review%20Charger%20TrustFire%20TR-008%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-008/DSC_3980.jpg",
       "title": "TrustFire TR-008",
@@ -7710,6 +8014,7 @@
       "year": 2013
     },
     {
+      "_id": "trustfire-tr-007",
       "url": "https://lygte-info.dk/review/Review%20Charger%20TrustFire%20TR-007%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-007/DSC_3963.jpg",
       "title": "TrustFire TR-007",
@@ -7737,6 +8042,7 @@
       "year": 2013
     },
     {
+      "_id": "xtar-xp4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20XP4%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarXP4/DSC_3844.jpg",
       "title": "Xtar XP4",
@@ -7765,6 +8071,7 @@
       "year": 2013
     },
     {
+      "_id": "thrunite-mcc-4",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ThruNite%20MCC-4%20UK.html",
       "preview": "https://lygte-info.dk/pic/ThruNite/ChargerMCC-4/DSC_3651.jpg",
       "title": "ThruNite MCC-4",
@@ -7793,6 +8100,7 @@
       "year": 2013
     },
     {
+      "_id": "xtar-xp1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20XP1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarXP1/DSC_3425.jpg",
       "title": "Xtar XP1",
@@ -7818,6 +8126,7 @@
       "year": 2013
     },
     {
+      "_id": "cottonpickers-basic-100ma",
       "url": "https://lygte-info.dk/review/Review%20Charger%20ConttonPickers%20Basic%20100mA%20UK.html",
       "preview": "https://lygte-info.dk/pic/CottonPickers/100mA%20basic/DSC_3127.jpg",
       "title": "CottonPickers Basic 100mA",
@@ -7842,6 +8151,7 @@
       "year": 2013
     },
     {
+      "_id": "xtar-wp2s",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20WP2s%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarWP2s/DSC_3456.jpg",
       "title": "Xtar WP2s",
@@ -7869,6 +8179,7 @@
       "year": 2013
     },
     {
+      "_id": "heseny-hxy-18650-2a-4-35-volt",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Heseny%20HXY-18650-2A%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Heseny%20HXY-18650-2A/DSC_2613.jpg",
       "title": "Heseny HXY-18650-2A (4.35 volt)",
@@ -7893,6 +8204,7 @@
       "year": 2013
     },
     {
+      "_id": "cytac-cy-u18d",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Cytax%20CY-U18D%20UK.html",
       "preview": "https://lygte-info.dk/pic/Cytac/CY-U18D/DSC_2738.jpg",
       "title": "Cytac CY-U18D",
@@ -7919,6 +8231,7 @@
       "year": 2013
     },
     {
+      "_id": "shan-sh-168dlcd",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Shan%20SH-168DLCD%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Shan%20SH-168DLCD/DSC_2122.jpg",
       "title": "Shan SH-168DLCD",
@@ -7947,6 +8260,7 @@
       "year": 2013
     },
     {
+      "_id": "enedepots-a8",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Enedepots%20A8%20UK.html",
       "preview": "https://lygte-info.dk/pic/Other/Enedepots%20A8/DSC_2159.jpg",
       "title": "Enedepots A8",
@@ -7974,6 +8288,7 @@
       "year": 2013
     },
     {
+      "_id": "soshine-sc-s1mix-v3",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20SC-S1mix%20V3%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/SC-S1mix%20V3/DSC_2086.jpg",
       "title": "Soshine SC-S1mix V3",
@@ -7999,6 +8314,7 @@
       "year": 2013
     },
     {
+      "_id": "trustfire-tr-001",
       "url": "https://lygte-info.dk/review/Review%20Charger%20TrustFire%20TR-001%20UK.html",
       "preview": "https://lygte-info.dk/pic/TrustFire/TR-001/DSC_2041.jpg",
       "title": "TrustFire TR-001",
@@ -8025,6 +8341,7 @@
       "year": 2013
     },
     {
+      "_id": "soshine-sc-s1max-v3",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20SC-S1max%20V3%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/SC-S1max%20V3/DSC_1782.jpg",
       "title": "Soshine SC-S1max V3",
@@ -8050,6 +8367,7 @@
       "year": 2013
     },
     {
+      "_id": "xtar-vp1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20VP1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarVP1/DSC_1688.jpg",
       "title": "Xtar VP1",
@@ -8077,6 +8395,7 @@
       "year": 2013
     },
     {
+      "_id": "fenix-are-c1",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Fenix%20ARE-C1%20UK.html",
       "preview": "https://lygte-info.dk/pic/Fenix/ARE-C1/DSC_0863.jpg",
       "title": "Fenix ARE-C1",
@@ -8102,6 +8421,7 @@
       "year": 2013
     },
     {
+      "_id": "efest-bio",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Efest%20BIO%20UK.html",
       "preview": "https://lygte-info.dk/pic/Efest/BIO%20charger/DSC_0811.jpg",
       "title": "Efest BIO",
@@ -8129,6 +8449,7 @@
       "year": 2012
     },
     {
+      "_id": "sysmax-nitecore-i2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20SysMax%20i2%20UK.html",
       "preview": "https://lygte-info.dk/pic/SysMax/Charger%20i2/DSC_0782.jpg",
       "title": "Sysmax/NiteCore i2",
@@ -8155,6 +8476,7 @@
       "year": 2012
     },
     {
+      "_id": "soshine-sc-s7",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20SC-S7%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/SC-S7/DSC_0642.jpg",
       "title": "Soshine SC-S7",
@@ -8185,6 +8507,7 @@
       "year": 2012
     },
     {
+      "_id": "enerpower-ep-18650dc2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20EnerPower%20EP18650DC2%20UK.html",
       "preview": "https://lygte-info.dk/pic/EnerPower/Charger%20EP18650DC2/DSC_0395.jpg",
       "title": "EnerPower EP-18650DC2",
@@ -8210,6 +8533,7 @@
       "year": 2012
     },
     {
+      "_id": "ultrafire-wf-128-or-q-128",
       "url": "https://lygte-info.dk/review/Review%20Charger%20UltraFire%20WF-128%20UK.html",
       "preview": "https://lygte-info.dk/pic/UltraFire/WF-128/DSC_0301.jpg",
       "title": "UltraFire WF-128 or Q-128",
@@ -8237,6 +8561,7 @@
       "year": 2012
     },
     {
+      "_id": "ampmax-am10",
       "url": "https://lygte-info.dk/review/Review%20Charger%20AmpMax%20AM10%20UK.html",
       "preview": "https://lygte-info.dk/pic/AmpMax/Charger%20AM10/DSC_2600.jpg",
       "title": "AmpMax AM10",
@@ -8262,6 +8587,7 @@
       "year": 2012
     },
     {
+      "_id": "xtar-sp2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20SP2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarSP2/DSC_2559.jpg",
       "title": "Xtar SP2",
@@ -8287,6 +8613,7 @@
       "year": 2012
     },
     {
+      "_id": "soshine-sc-s2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Soshine%20SC-S2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Soshine/SC-S2/DSC_2062.jpg",
       "title": "Soshine SC-S2",
@@ -8312,6 +8639,7 @@
       "year": 2012
     },
     {
+      "_id": "sysmax-nitecore-intellicharger-i4-v2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20SysMax%20i4%20V2%20UK.html",
       "preview": "https://lygte-info.dk/pic/SysMax/Charger%20i4v2/DSC_1583.jpg",
       "title": "SysMax/NiteCore Intellicharger i4 V2",
@@ -8338,6 +8666,7 @@
       "year": 2012
     },
     {
+      "_id": "xtar-wp2-ii",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20WP2%20II%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarWP2V2/DSC_9018.jpg",
       "title": "Xtar WP2 II",
@@ -8365,6 +8694,7 @@
       "year": 2011
     },
     {
+      "_id": "cytac-cy-015",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Cytac%20CY-015%20UK.html",
       "preview": "https://lygte-info.dk/pic/Cytac/CY-015/DSC_7008.jpg",
       "title": "Cytac CY-015",
@@ -8390,6 +8720,7 @@
       "year": 2011
     },
     {
+      "_id": "xtar-mp2",
       "url": "https://lygte-info.dk/review/Review%20Charger%20Xtar%20MP2%20UK.html",
       "preview": "https://lygte-info.dk/pic/Xtar/ChargerXtarMP2/DSC_7209.jpg",
       "title": "Xtar MP2",
