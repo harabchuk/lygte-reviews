@@ -6,7 +6,7 @@ A Quasar application for filtering and sorting electronics reviews from https://
 
 ![Screenshots](doc/preview.png)
 
-Demo is available at https://lygte-reviews.netlify.com/
+Demo is available at https://lygte.netlify.com/
 
 ## Copyright notice
 
